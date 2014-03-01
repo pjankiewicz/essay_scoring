@@ -1,0 +1,2203 @@
+<?xml version="1.0" encoding="UTF-8"?> 
+<Job_Details AI_Score_Provider_Name="AI-PJ" Date_Time="20140131093619" Case_Count="100">
+	<Group_List>
+		<Group_Details Case_Count="100">
+			<Student_List>
+				<Student_Details Ethnicity="W" IEP="N" LEP="N" Gender="M" Vendor_Student_ID="436223">
+					<Student_Test_List>
+						<Student_Test_Details Grade="5" Student_Test_ID="10227137">
+							<Item_List>
+								<Item_Details Score="Y" Item_ID="50868">
+									<Item_Response><![CDATA[i think it is not faie cause before you get into class you should talk to your and it is fair cause you might interupt a different  while there taking a test so they might get distracted.]]>
+									</Item_Response>
+									<Item_Score_Details>
+										<Item_DataPoint_Score_Details Final_Score="0">
+											<Score Date_Time="20130809120847" Reader_ID="1251" Score_Value="0" Read_Number="1">
+											</Score>
+											<Score Date_Time="20130809120847" Reader_ID="1216" Score_Value="0" Read_Number="2">
+											</Score>
+										</Item_DataPoint_Score_Details>
+									</Item_Score_Details>
+								</Item_Details>
+							</Item_List>
+						</Student_Test_Details>
+					</Student_Test_List>
+				</Student_Details>
+				<Student_Details Ethnicity="W" IEP="Y" LEP="N" Gender="M" Vendor_Student_ID="438645">
+					<Student_Test_List>
+						<Student_Test_Details Grade="5" Student_Test_ID="10227172">
+							<Item_List>
+								<Item_Details Score="Y" Item_ID="50868">
+									<Item_Response><![CDATA[jfgnfghr]]>
+									</Item_Response>
+									<Item_Score_Details>
+										<Item_DataPoint_Score_Details Final_Score="U">
+											<Score Date_Time="20130809120847" Reader_ID="1251" Condition_Code="U" Read_Number="1">
+											</Score>
+											<Score Date_Time="20130809120847" Reader_ID="1385" Condition_Code="U" Read_Number="2">
+											</Score>
+											<Score Date_Time="20130809120847" Reader_ID="1251" Condition_Code="U" Read_Number="5">
+											</Score>
+										</Item_DataPoint_Score_Details>
+									</Item_Score_Details>
+								</Item_Details>
+							</Item_List>
+						</Student_Test_Details>
+					</Student_Test_List>
+				</Student_Details>
+				<Student_Details Ethnicity="2" IEP="N" LEP="N" Gender="F" Vendor_Student_ID="438975">
+					<Student_Test_List>
+						<Student_Test_Details Grade="5" Student_Test_ID="10227176">
+							<Item_List>
+								<Item_Details Score="Y" Item_ID="50868">
+									<Item_Response><![CDATA[its unfair]]>
+									</Item_Response>
+									<Item_Score_Details>
+										<Item_DataPoint_Score_Details Final_Score="0">
+											<Score Date_Time="20130809120847" Reader_ID="1161" Score_Value="0" Read_Number="1">
+											</Score>
+											<Score Date_Time="20130809120847" Reader_ID="1385" Score_Value="0" Read_Number="2">
+											</Score>
+										</Item_DataPoint_Score_Details>
+									</Item_Score_Details>
+								</Item_Details>
+							</Item_List>
+						</Student_Test_Details>
+					</Student_Test_List>
+				</Student_Details>
+				<Student_Details Ethnicity="W" IEP="N" LEP="N" Gender="M" Vendor_Student_ID="455019">
+					<Student_Test_List>
+						<Student_Test_Details Grade="5" Student_Test_ID="10227218">
+							<Item_List>
+								<Item_Details Score="Y" Item_ID="50868">
+									<Item_Response><![CDATA[the techers tolld the nem school rule]]>
+									</Item_Response>
+									<Item_Score_Details>
+										<Item_DataPoint_Score_Details Final_Score="0">
+											<Score Date_Time="20130809120847" Reader_ID="1161" Score_Value="0" Read_Number="1">
+											</Score>
+											<Score Date_Time="20130809120847" Reader_ID="1221" Score_Value="0" Read_Number="2">
+											</Score>
+										</Item_DataPoint_Score_Details>
+									</Item_Score_Details>
+								</Item_Details>
+							</Item_List>
+						</Student_Test_Details>
+					</Student_Test_List>
+				</Student_Details>
+				<Student_Details Ethnicity="H" IEP="Y" LEP=" " Gender="M" Vendor_Student_ID="457979">
+					<Student_Test_List>
+						<Student_Test_Details Grade="5" Student_Test_ID="10227236">
+							<Item_List>
+								<Item_Details Score="Y" Item_ID="50868">
+									<Item_Response><![CDATA[dont now]]>
+									</Item_Response>
+									<Item_Score_Details>
+										<Item_DataPoint_Score_Details Final_Score="T">
+											<Score Date_Time="20130809120847" Reader_ID="1161" Condition_Code="T" Read_Number="1">
+											</Score>
+											<Score Date_Time="20130809120847" Reader_ID="1165" Condition_Code="T" Read_Number="2">
+											</Score>
+											<Score Date_Time="20130809120847" Reader_ID="1161" Condition_Code="T" Read_Number="5">
+											</Score>
+										</Item_DataPoint_Score_Details>
+									</Item_Score_Details>
+								</Item_Details>
+							</Item_List>
+						</Student_Test_Details>
+					</Student_Test_List>
+				</Student_Details>
+				<Student_Details Ethnicity="B" IEP="N" LEP="N" Gender="M" Vendor_Student_ID="462913">
+					<Student_Test_List>
+						<Student_Test_Details Grade="5" Student_Test_ID="10227265">
+							<Item_List>
+								<Item_Details Score="Y" Item_ID="50868">
+									<Item_Response><![CDATA[cause he wenyt to school]]>
+									</Item_Response>
+									<Item_Score_Details>
+										<Item_DataPoint_Score_Details Final_Score="0">
+											<Score Date_Time="20130809120847" Reader_ID="1251" Score_Value="0" Read_Number="1">
+											</Score>
+											<Score Date_Time="20130809120847" Reader_ID="1161" Score_Value="0" Read_Number="2">
+											</Score>
+										</Item_DataPoint_Score_Details>
+									</Item_Score_Details>
+								</Item_Details>
+							</Item_List>
+						</Student_Test_Details>
+					</Student_Test_List>
+				</Student_Details>
+				<Student_Details Ethnicity="H" IEP="N" LEP="N" Gender="M" Vendor_Student_ID="501024">
+					<Student_Test_List>
+						<Student_Test_Details Grade="5" Student_Test_ID="10227443">
+							<Item_List>
+								<Item_Details Score="Y" Item_ID="50868">
+									<Item_Response><![CDATA[I agree to this opinon]]>
+									</Item_Response>
+									<Item_Score_Details>
+										<Item_DataPoint_Score_Details Final_Score="0">
+											<Score Date_Time="20130809120847" Reader_ID="1251" Score_Value="0" Read_Number="1">
+											</Score>
+											<Score Date_Time="20130809120847" Reader_ID="1218" Score_Value="0" Read_Number="2">
+											</Score>
+										</Item_DataPoint_Score_Details>
+									</Item_Score_Details>
+								</Item_Details>
+							</Item_List>
+						</Student_Test_Details>
+					</Student_Test_List>
+				</Student_Details>
+				<Student_Details Ethnicity="H" IEP="N" LEP="N" Gender="M" Vendor_Student_ID="526117">
+					<Student_Test_List>
+						<Student_Test_Details Grade="5" Student_Test_ID="10227524">
+							<Item_List>
+								<Item_Details Score="Y" Item_ID="50868">
+									<Item_Response><![CDATA[I think the rule is dumb. I think it is dumb because you cannot be social!]]>
+									</Item_Response>
+									<Item_Score_Details>
+										<Item_DataPoint_Score_Details Final_Score="0">
+											<Score Date_Time="20130809120847" Reader_ID="1218" Score_Value="0" Read_Number="1">
+											</Score>
+											<Score Date_Time="20130809120847" Reader_ID="1385" Score_Value="0" Read_Number="2">
+											</Score>
+										</Item_DataPoint_Score_Details>
+									</Item_Score_Details>
+								</Item_Details>
+							</Item_List>
+						</Student_Test_Details>
+					</Student_Test_List>
+				</Student_Details>
+				<Student_Details Ethnicity="I" IEP="N" LEP="N" Gender="F" Vendor_Student_ID="576591">
+					<Student_Test_List>
+						<Student_Test_Details Grade="5" Student_Test_ID="10227741">
+							<Item_List>
+								<Item_Details Score="Y" Item_ID="50868">
+									<Item_Response><![CDATA[I think it is a good idea for fifth graders to walk in a line and not to talk in the hallways then when the teachers agree then the kids could probably walk in the halls again.]]>
+									</Item_Response>
+									<Item_Score_Details>
+										<Item_DataPoint_Score_Details Final_Score="0">
+											<Score Date_Time="20130809120847" Reader_ID="1165" Score_Value="0" Read_Number="1">
+											</Score>
+											<Score Date_Time="20130809120847" Reader_ID="1385" Score_Value="0" Read_Number="2">
+											</Score>
+										</Item_DataPoint_Score_Details>
+									</Item_Score_Details>
+								</Item_Details>
+							</Item_List>
+						</Student_Test_Details>
+					</Student_Test_List>
+				</Student_Details>
+				<Student_Details Ethnicity="W" IEP=" " LEP=" " Gender="M" Vendor_Student_ID="610413">
+					<Student_Test_List>
+						<Student_Test_Details Grade="5" Student_Test_ID="10227911">
+							<Item_List>
+								<Item_Details Score="Y" Item_ID="50868">
+									<Item_Response><![CDATA[new rule suck but if it invels butter i love it.]]>
+									</Item_Response>
+									<Item_Score_Details>
+										<Item_DataPoint_Score_Details Final_Score="0">
+											<Score Date_Time="20130809120847" Reader_ID="1161" Score_Value="0" Read_Number="1">
+											</Score>
+											<Score Date_Time="20130809120847" Reader_ID="1165" Score_Value="0" Read_Number="2">
+											</Score>
+										</Item_DataPoint_Score_Details>
+									</Item_Score_Details>
+								</Item_Details>
+							</Item_List>
+						</Student_Test_Details>
+					</Student_Test_List>
+				</Student_Details>
+				<Student_Details Ethnicity="H" IEP="N" LEP="Y" Gender="F" Vendor_Student_ID="642043">
+					<Student_Test_List>
+						<Student_Test_Details Grade="5" Student_Test_ID="10228051">
+							<Item_List>
+								<Item_Details Score="Y" Item_ID="50868">
+									<Item_Response><![CDATA[
+well i wish that we had some rules nit that much because what if we want to go in the office because your friend and at our school we need a note and you dont know it could have been a rush but no you have to wate and get permission]]>
+									</Item_Response>
+									<Item_Score_Details>
+										<Item_DataPoint_Score_Details Final_Score="0">
+											<Score Date_Time="20130809120847" Reader_ID="1161" Score_Value="0" Read_Number="1">
+											</Score>
+											<Score Date_Time="20130809120847" Reader_ID="1251" Score_Value="0" Read_Number="2">
+											</Score>
+										</Item_DataPoint_Score_Details>
+									</Item_Score_Details>
+								</Item_Details>
+							</Item_List>
+						</Student_Test_Details>
+					</Student_Test_List>
+				</Student_Details>
+				<Student_Details Ethnicity="B" IEP=" " LEP=" " Gender="M" Vendor_Student_ID="645558">
+					<Student_Test_List>
+						<Student_Test_Details Grade="5" Student_Test_ID="10228069">
+							<Item_List>
+								<Item_Details Score="Y" Item_ID="50868">
+									<Item_Response><![CDATA[she walks dog]]>
+									</Item_Response>
+									<Item_Score_Details>
+										<Item_DataPoint_Score_Details Final_Score="T">
+											<Score Date_Time="20130809120847" Reader_ID="1385" Score_Value="0" Read_Number="1">
+											</Score>
+											<Score Date_Time="20130809120847" Reader_ID="1251" Condition_Code="T" Read_Number="2">
+											</Score>
+											<Score Date_Time="20130809120847" Reader_ID="1221" Score_Value="0" Read_Number="3">
+											</Score>
+											<Score Date_Time="20130809120847" Reader_ID="1251" Condition_Code="T" Read_Number="5">
+											</Score>
+										</Item_DataPoint_Score_Details>
+									</Item_Score_Details>
+								</Item_Details>
+							</Item_List>
+						</Student_Test_Details>
+					</Student_Test_List>
+				</Student_Details>
+				<Student_Details Ethnicity="W" IEP="Y" LEP="N" Gender="M" Vendor_Student_ID="651926">
+					<Student_Test_List>
+						<Student_Test_Details Grade="5" Student_Test_ID="10228102">
+							<Item_List>
+								<Item_Details Score="Y" Item_ID="50868">
+									<Item_Response><![CDATA[r]]>
+									</Item_Response>
+									<Item_Score_Details>
+										<Item_DataPoint_Score_Details Final_Score="U">
+											<Score Date_Time="20130809120847" Reader_ID="1385" Condition_Code="U" Read_Number="1">
+											</Score>
+											<Score Date_Time="20130809120847" Reader_ID="1218" Condition_Code="U" Read_Number="2">
+											</Score>
+											<Score Date_Time="20130809120847" Reader_ID="1385" Condition_Code="U" Read_Number="5">
+											</Score>
+										</Item_DataPoint_Score_Details>
+									</Item_Score_Details>
+								</Item_Details>
+							</Item_List>
+						</Student_Test_Details>
+					</Student_Test_List>
+				</Student_Details>
+				<Student_Details Ethnicity="W" IEP="N" LEP="N" Gender="M" Vendor_Student_ID="671348">
+					<Student_Test_List>
+						<Student_Test_Details Grade="5" Student_Test_ID="10228205">
+							<Item_List>
+								<Item_Details Score="Y" Item_ID="50868">
+									<Item_Response><![CDATA[THAT IS FARE and not fare]]>
+									</Item_Response>
+									<Item_Score_Details>
+										<Item_DataPoint_Score_Details Final_Score="0">
+											<Score Date_Time="20130809120847" Reader_ID="1541" Score_Value="0" Read_Number="1">
+											</Score>
+											<Score Date_Time="20130809120847" Reader_ID="1221" Score_Value="0" Read_Number="2">
+											</Score>
+										</Item_DataPoint_Score_Details>
+									</Item_Score_Details>
+								</Item_Details>
+							</Item_List>
+						</Student_Test_Details>
+					</Student_Test_List>
+				</Student_Details>
+				<Student_Details Ethnicity="W" IEP="Y" LEP=" " Gender="F" Vendor_Student_ID="684753">
+					<Student_Test_List>
+						<Student_Test_Details Grade="5" Student_Test_ID="10228247">
+							<Item_List>
+								<Item_Details Score="Y" Item_ID="50868">
+									<Item_Response><![CDATA[I thank they could atlest wisper in line.]]>
+									</Item_Response>
+									<Item_Score_Details>
+										<Item_DataPoint_Score_Details Final_Score="0">
+											<Score Date_Time="20130809120847" Reader_ID="1216" Score_Value="0" Read_Number="1">
+											</Score>
+											<Score Date_Time="20130809120847" Reader_ID="1165" Score_Value="0" Read_Number="2">
+											</Score>
+										</Item_DataPoint_Score_Details>
+									</Item_Score_Details>
+								</Item_Details>
+							</Item_List>
+						</Student_Test_Details>
+					</Student_Test_List>
+				</Student_Details>
+				<Student_Details Ethnicity="H" IEP="N" LEP="N" Gender="M" Vendor_Student_ID="693213">
+					<Student_Test_List>
+						<Student_Test_Details Grade="5" Student_Test_ID="10228280">
+							<Item_List>
+								<Item_Details Score="Y" Item_ID="50868">
+									<Item_Response><![CDATA[I don't know because I'm in fith grade and most of my class is too nosie.There is also some kids in my class that are queit.I think that the for queit ones it's okay.For the ones that do make noise alot should be in a line.
+]]>
+									</Item_Response>
+									<Item_Score_Details>
+										<Item_DataPoint_Score_Details Final_Score="0">
+											<Score Date_Time="20130809120847" Reader_ID="1221" Score_Value="0" Read_Number="1">
+											</Score>
+											<Score Date_Time="20130809120847" Reader_ID="1218" Score_Value="1" Read_Number="2">
+											</Score>
+											<Score Date_Time="20130809120847" Reader_ID="1107" Score_Value="0" Read_Number="3">
+											</Score>
+										</Item_DataPoint_Score_Details>
+									</Item_Score_Details>
+								</Item_Details>
+							</Item_List>
+						</Student_Test_Details>
+					</Student_Test_List>
+				</Student_Details>
+				<Student_Details Ethnicity="B" IEP=" " LEP=" " Gender="M" Vendor_Student_ID="695482">
+					<Student_Test_List>
+						<Student_Test_Details Grade="5" Student_Test_ID="10228301">
+							<Item_List>
+								<Item_Details Score="Y" Item_ID="50868">
+									<Item_Response><![CDATA[ ]]>
+									</Item_Response>
+									<Item_Score_Details>
+										<Item_DataPoint_Score_Details Final_Score="B">
+											<Score Date_Time="20130809120847" Reader_ID="1251" Condition_Code="B" Read_Number="1">
+											</Score>
+											<Score Date_Time="20130809120847" Reader_ID="1218" Condition_Code="B" Read_Number="2">
+											</Score>
+										</Item_DataPoint_Score_Details>
+									</Item_Score_Details>
+								</Item_Details>
+							</Item_List>
+						</Student_Test_Details>
+					</Student_Test_List>
+				</Student_Details>
+				<Student_Details Ethnicity="W" IEP="Y" LEP="N" Gender="F" Vendor_Student_ID="370583">
+					<Student_Test_List>
+						<Student_Test_Details Grade="5" Student_Test_ID="10226822">
+							<Item_List>
+								<Item_Details Score="Y" Item_ID="50868">
+									<Item_Response><![CDATA[My opinion is that, it is not far because you have to give them a chance to walk in the hallways and talk quietly. The fifth graders are right they should not walk in the hallways.]]>
+									</Item_Response>
+									<Item_Score_Details>
+										<Item_DataPoint_Score_Details Final_Score="1">
+											<Score Date_Time="20130809120847" Reader_ID="1541" Score_Value="1" Read_Number="1">
+											</Score>
+											<Score Date_Time="20130809120847" Reader_ID="1218" Score_Value="1" Read_Number="2">
+											</Score>
+										</Item_DataPoint_Score_Details>
+									</Item_Score_Details>
+								</Item_Details>
+							</Item_List>
+						</Student_Test_Details>
+					</Student_Test_List>
+				</Student_Details>
+				<Student_Details Ethnicity="NR" IEP=" " LEP=" " Gender="F" Vendor_Student_ID="371584">
+					<Student_Test_List>
+						<Student_Test_Details Grade="5" Student_Test_ID="10226835">
+							<Item_List>
+								<Item_Details Score="Y" Item_ID="50868">
+									<Item_Response><![CDATA[I don't like the new school rule thw fifth graders should enjoy their time since it is their last year at that school.]]>
+									</Item_Response>
+									<Item_Score_Details>
+										<Item_DataPoint_Score_Details Final_Score="1">
+											<Score Date_Time="20130809120847" Reader_ID="1251" Score_Value="1" Read_Number="1">
+											</Score>
+											<Score Date_Time="20130809120847" Reader_ID="1221" Score_Value="1" Read_Number="2">
+											</Score>
+										</Item_DataPoint_Score_Details>
+									</Item_Score_Details>
+								</Item_Details>
+							</Item_List>
+						</Student_Test_Details>
+					</Student_Test_List>
+				</Student_Details>
+				<Student_Details Ethnicity="NR" IEP=" " LEP=" " Gender="F" Vendor_Student_ID="372097">
+					<Student_Test_List>
+						<Student_Test_Details Grade="5" Student_Test_ID="10226840">
+							<Item_List>
+								<Item_Details Score="Y" Item_ID="50868">
+									<Item_Response><![CDATA[
+I think that the new school rule is helpful to teachers and their students because some of the other kids in the school building  tend to talk in the hallways.And,with them talking in the hallways they think that if they can talk in the hallway they don't 
+have to stand in a striaght line.  On the other hand,the new school rule is not fair to the other kids that do stand in a striaght line while walking in the hallway without talking.That's my opinion about the new school rule.]]>
+									</Item_Response>
+									<Item_Score_Details>
+										<Item_DataPoint_Score_Details Final_Score="1">
+											<Score Date_Time="20130809120847" Reader_ID="1161" Score_Value="1" Read_Number="1">
+											</Score>
+											<Score Date_Time="20130809120847" Reader_ID="1218" Score_Value="2" Read_Number="2">
+											</Score>
+											<Score Date_Time="20130809120847" Reader_ID="1221" Score_Value="1" Read_Number="3">
+											</Score>
+										</Item_DataPoint_Score_Details>
+									</Item_Score_Details>
+								</Item_Details>
+							</Item_List>
+						</Student_Test_Details>
+					</Student_Test_List>
+				</Student_Details>
+				<Student_Details Ethnicity="B" IEP=" " LEP=" " Gender="M" Vendor_Student_ID="373014">
+					<Student_Test_List>
+						<Student_Test_Details Grade="5" Student_Test_ID="10226845">
+							<Item_List>
+								<Item_Details Score="Y" Item_ID="50868">
+									<Item_Response><![CDATA[
+yes,it is fair because if people are testing you would half to be quite because it would be interrupting to students and it will be fair because fifth graders should always walk in a straight line to set an example for kindergarnten kids and first graders 
+to.]]>
+									</Item_Response>
+									<Item_Score_Details>
+										<Item_DataPoint_Score_Details Final_Score="1">
+											<Score Date_Time="20130809120847" Reader_ID="1307" Score_Value="1" Read_Number="1">
+											</Score>
+											<Score Date_Time="20130809120847" Reader_ID="1161" Score_Value="1" Read_Number="2">
+											</Score>
+										</Item_DataPoint_Score_Details>
+									</Item_Score_Details>
+								</Item_Details>
+							</Item_List>
+						</Student_Test_Details>
+					</Student_Test_List>
+				</Student_Details>
+				<Student_Details Ethnicity="H" IEP="Y" LEP="Y" Gender="M" Vendor_Student_ID="375640">
+					<Student_Test_List>
+						<Student_Test_Details Grade="5" Student_Test_ID="10226873">
+							<Item_List>
+								<Item_Details Score="Y" Item_ID="50868">
+									<Item_Response><![CDATA[I don't think it's fair because they are not little kids that can't talk softly . I also think they don't have to make a singal file line because fifth graders are not going to crash into walls or people.]]>
+									</Item_Response>
+									<Item_Score_Details>
+										<Item_DataPoint_Score_Details Final_Score="1">
+											<Score Date_Time="20130809120847" Reader_ID="1161" Score_Value="1" Read_Number="1">
+											</Score>
+											<Score Date_Time="20130809120847" Reader_ID="1385" Score_Value="1" Read_Number="2">
+											</Score>
+										</Item_DataPoint_Score_Details>
+									</Item_Score_Details>
+								</Item_Details>
+							</Item_List>
+						</Student_Test_Details>
+					</Student_Test_List>
+				</Student_Details>
+				<Student_Details Ethnicity="NR" IEP=" " LEP=" " Gender="M" Vendor_Student_ID="377351">
+					<Student_Test_List>
+						<Student_Test_Details Grade="5" Student_Test_ID="10226888">
+							<Item_List>
+								<Item_Details Score="Y" Item_ID="50868">
+									<Item_Response><![CDATA[I think that we should do what ever we want, we are the oldest if we have to talk quietly i dont care]]>
+									</Item_Response>
+									<Item_Score_Details>
+										<Item_DataPoint_Score_Details Final_Score="1">
+											<Score Date_Time="20130809120847" Reader_ID="1218" Score_Value="1" Read_Number="1">
+											</Score>
+											<Score Date_Time="20130809120847" Reader_ID="1385" Score_Value="1" Read_Number="2">
+											</Score>
+										</Item_DataPoint_Score_Details>
+									</Item_Score_Details>
+								</Item_Details>
+							</Item_List>
+						</Student_Test_Details>
+					</Student_Test_List>
+				</Student_Details>
+				<Student_Details Ethnicity="H" IEP="N" LEP="Y" Gender="M" Vendor_Student_ID="379653">
+					<Student_Test_List>
+						<Student_Test_Details Grade="5" Student_Test_ID="10226908">
+							<Item_List>
+								<Item_Details Score="Y" Item_ID="50868">
+									<Item_Response><![CDATA[I only agree on no tolking i the hallways]]>
+									</Item_Response>
+									<Item_Score_Details>
+										<Item_DataPoint_Score_Details Final_Score="1">
+											<Score Date_Time="20130809120847" Reader_ID="1221" Score_Value="1" Read_Number="1">
+											</Score>
+											<Score Date_Time="20130809120847" Reader_ID="1385" Score_Value="0" Read_Number="2">
+											</Score>
+											<Score Date_Time="20130809120847" Reader_ID="1218" Score_Value="1" Read_Number="3">
+											</Score>
+										</Item_DataPoint_Score_Details>
+									</Item_Score_Details>
+								</Item_Details>
+							</Item_List>
+						</Student_Test_Details>
+					</Student_Test_List>
+				</Student_Details>
+				<Student_Details Ethnicity="W" IEP="N" LEP="N" Gender="M" Vendor_Student_ID="395108">
+					<Student_Test_List>
+						<Student_Test_Details Grade="5" Student_Test_ID="10226936">
+							<Item_List>
+								<Item_Details Score="Y" Item_ID="50868">
+									<Item_Response><![CDATA[i think it isvfair so they do not make noise]]>
+									</Item_Response>
+									<Item_Score_Details>
+										<Item_DataPoint_Score_Details Final_Score="1">
+											<Score Date_Time="20130809120847" Reader_ID="1385" Score_Value="0" Read_Number="1">
+											</Score>
+											<Score Date_Time="20130809120847" Reader_ID="1221" Score_Value="1" Read_Number="2">
+											</Score>
+											<Score Date_Time="20130809120847" Reader_ID="1251" Score_Value="1" Read_Number="3">
+											</Score>
+										</Item_DataPoint_Score_Details>
+									</Item_Score_Details>
+								</Item_Details>
+							</Item_List>
+						</Student_Test_Details>
+					</Student_Test_List>
+				</Student_Details>
+				<Student_Details Ethnicity="H" IEP="N" LEP="Y" Gender="F" Vendor_Student_ID="396408">
+					<Student_Test_List>
+						<Student_Test_Details Grade="5" Student_Test_ID="10226946">
+							<Item_List>
+								<Item_Details Score="Y" Item_ID="50868">
+									<Item_Response><![CDATA[
+I think that even though it'll now be much harder for the kids it'll be much more fair for the kids in the class learning, studying, and doing there work with no more distractions. So I would have to agree it is fair even through my expirience I think it i
+s fair.  I think it is fair because the kids in te classes cant consertrate with all the racket/noise.]]>
+									</Item_Response>
+									<Item_Score_Details>
+										<Item_DataPoint_Score_Details Final_Score="1">
+											<Score Date_Time="20130809120847" Reader_ID="1385" Score_Value="1" Read_Number="1">
+											</Score>
+											<Score Date_Time="20130809120847" Reader_ID="1161" Score_Value="1" Read_Number="2">
+											</Score>
+										</Item_DataPoint_Score_Details>
+									</Item_Score_Details>
+								</Item_Details>
+							</Item_List>
+						</Student_Test_Details>
+					</Student_Test_List>
+				</Student_Details>
+				<Student_Details Ethnicity="H" IEP="N" LEP="N" Gender="F" Vendor_Student_ID="396978">
+					<Student_Test_List>
+						<Student_Test_Details Grade="5" Student_Test_ID="10226952">
+							<Item_List>
+								<Item_Details Score="Y" Item_ID="50868">
+									<Item_Response><![CDATA[I think it is not fair to have those rules because we can walk quit in the hall with out makeing alot of noise. We can be so much recponsible than that. I]]>
+									</Item_Response>
+									<Item_Score_Details>
+										<Item_DataPoint_Score_Details Final_Score="1">
+											<Score Date_Time="20130809120847" Reader_ID="1385" Score_Value="1" Read_Number="1">
+											</Score>
+											<Score Date_Time="20130809120847" Reader_ID="1251" Score_Value="1" Read_Number="2">
+											</Score>
+										</Item_DataPoint_Score_Details>
+									</Item_Score_Details>
+								</Item_Details>
+							</Item_List>
+						</Student_Test_Details>
+					</Student_Test_List>
+				</Student_Details>
+				<Student_Details Ethnicity="W" IEP="N" LEP="N" Gender="M" Vendor_Student_ID="397459">
+					<Student_Test_List>
+						<Student_Test_Details Grade="5" Student_Test_ID="10226956">
+							<Item_List>
+								<Item_Details Score="Y" Item_ID="50868">
+									<Item_Response><![CDATA[I think the new rule is not fair. It is not fair because fifth graders should be able to walk by their friends and talk to their friends.]]>
+									</Item_Response>
+									<Item_Score_Details>
+										<Item_DataPoint_Score_Details Final_Score="1">
+											<Score Date_Time="20130809120847" Reader_ID="1385" Score_Value="0" Read_Number="1">
+											</Score>
+											<Score Date_Time="20130809120847" Reader_ID="1221" Score_Value="1" Read_Number="2">
+											</Score>
+											<Score Date_Time="20130809120847" Reader_ID="1251" Score_Value="1" Read_Number="3">
+											</Score>
+										</Item_DataPoint_Score_Details>
+									</Item_Score_Details>
+								</Item_Details>
+							</Item_List>
+						</Student_Test_Details>
+					</Student_Test_List>
+				</Student_Details>
+				<Student_Details Ethnicity="NR" IEP=" " LEP=" " Gender="F" Vendor_Student_ID="398949">
+					<Student_Test_List>
+						<Student_Test_Details Grade="5" Student_Test_ID="10226967">
+							<Item_List>
+								<Item_Details Score="Y" Item_ID="50868">
+									<Item_Response><![CDATA[
+My opinion on the new school rule is, I think the new rule is ok. Fifth graders should have to walk in some what a line, but it doesn't have to be perfectly strate. I think fifth graders souldn't have to be silent when they walk in the halls, they should b
+e able to talk if they can control them selves.]]>
+									</Item_Response>
+									<Item_Score_Details>
+										<Item_DataPoint_Score_Details Final_Score="1">
+											<Score Date_Time="20130809120847" Reader_ID="1385" Score_Value="0" Read_Number="1">
+											</Score>
+											<Score Date_Time="20130809120847" Reader_ID="1218" Score_Value="2" Read_Number="2">
+											</Score>
+											<Score Date_Time="20130809120847" Reader_ID="1221" Score_Value="1" Read_Number="3">
+											</Score>
+										</Item_DataPoint_Score_Details>
+									</Item_Score_Details>
+								</Item_Details>
+							</Item_List>
+						</Student_Test_Details>
+					</Student_Test_List>
+				</Student_Details>
+				<Student_Details Ethnicity="H" IEP="N" LEP="Y" Gender="M" Vendor_Student_ID="399308">
+					<Student_Test_List>
+						<Student_Test_Details Grade="5" Student_Test_ID="10226969">
+							<Item_List>
+								<Item_Details Score="Y" Item_ID="50868">
+									<Item_Response><![CDATA[
+my opinion is that new school is fair becasue if you make too much noise you can disturb students becasue ther duwing work wat if ther duwing the msp or map test and you supost to be an a strat line becasue thats nice and no wisburin becasue thas gibe you 
+and trubel if you wsber wen you ar at the line so do not do that ok and ther not to old to walk thats being men to you thas way do not be men to each oder you mate get in truble for bing mean and by the way new school rocks you can,t talk in line thas y an
+d it is far but i dont like to go to that school becasue it will look wird wiht no takin in the class so thats way its far but i tink way the tok your talkig time becasue you wre takig alot thats y now i now  way is far thas your 0risen]]>
+									</Item_Response>
+									<Item_Score_Details>
+										<Item_DataPoint_Score_Details Final_Score="1">
+											<Score Date_Time="20130809120847" Reader_ID="1385" Score_Value="1" Read_Number="1">
+											</Score>
+											<Score Date_Time="20130809120847" Reader_ID="1251" Score_Value="1" Read_Number="2">
+											</Score>
+										</Item_DataPoint_Score_Details>
+									</Item_Score_Details>
+								</Item_Details>
+							</Item_List>
+						</Student_Test_Details>
+					</Student_Test_List>
+				</Student_Details>
+				<Student_Details Ethnicity="W" IEP="N" LEP="N" Gender="M" Vendor_Student_ID="406147">
+					<Student_Test_List>
+						<Student_Test_Details Grade="5" Student_Test_ID="10226997">
+							<Item_List>
+								<Item_Details Score="Y" Item_ID="50868">
+									<Item_Response><![CDATA[
+I think the rule is not fair. Fifth graders are responsible. The could also talk quietly. Walking in lines would be embarrasing.  It would just be cruel to make fifth graders walk in lines. All the fifth graders would be mad. They would still talk if you d
+ont give them another chance. That's why I think the rule wouldn't be fair.]]>
+									</Item_Response>
+									<Item_Score_Details>
+										<Item_DataPoint_Score_Details Final_Score="1">
+											<Score Date_Time="20130809120847" Reader_ID="1385" Score_Value="1" Read_Number="1">
+											</Score>
+											<Score Date_Time="20130809120847" Reader_ID="1251" Score_Value="1" Read_Number="2">
+											</Score>
+										</Item_DataPoint_Score_Details>
+									</Item_Score_Details>
+								</Item_Details>
+							</Item_List>
+						</Student_Test_Details>
+					</Student_Test_List>
+				</Student_Details>
+				<Student_Details Ethnicity="NR" IEP=" " LEP=" " Gender="F" Vendor_Student_ID="406502">
+					<Student_Test_List>
+						<Student_Test_Details Grade="5" Student_Test_ID="10226999">
+							<Item_List>
+								<Item_Details Score="Y" Item_ID="50868">
+									<Item_Response><![CDATA[
+I think that fifth graders should be responsible to control their voice level. Some fifth graders can't though. The teachers should trust the fifth graders. The students who talk out of conrol should get punshied. The teachers should still let the students
+ walk out of line, but they will be more strict about it.If the teachers make the new rule then the students might act bad and then it will just create a problem. The students are thinkg badky about the rule and they think it is unfair.     The students ar
+en't perfect and won't be dead silent all of the time. Teachers don't give the students that much time to talk besides rescess. All of the teachers say that you shoud talk after school, but with all of the students homework and activitys they do the don't 
+have time. School is most if the day and after school there isn't much time left. That is why I think the the new rule is unfair.]]>
+									</Item_Response>
+									<Item_Score_Details>
+										<Item_DataPoint_Score_Details Final_Score="1">
+											<Score Date_Time="20130809120847" Reader_ID="1385" Score_Value="1" Read_Number="1">
+											</Score>
+											<Score Date_Time="20130809120847" Reader_ID="1218" Score_Value="2" Read_Number="2">
+											</Score>
+											<Score Date_Time="20130809120847" Reader_ID="1221" Score_Value="1" Read_Number="3">
+											</Score>
+										</Item_DataPoint_Score_Details>
+									</Item_Score_Details>
+								</Item_Details>
+							</Item_List>
+						</Student_Test_Details>
+					</Student_Test_List>
+				</Student_Details>
+				<Student_Details Ethnicity="NR" IEP=" " LEP=" " Gender="M" Vendor_Student_ID="408652">
+					<Student_Test_List>
+						<Student_Test_Details Grade="5" Student_Test_ID="10227014">
+							<Item_List>
+								<Item_Details Score="Y" Item_ID="50868">
+									<Item_Response><![CDATA[
+My opinion of this new school rule is that fifth grade students are mature enough to not have to walk in a line.  Some ways you can prevent the talking is actually inforcing the rule of no talking in the hallways,therefore it would be a win,win for both te
+achers and students.The teachers would get the quiet they need for there class and the fifth graders will be able to not have to walk in a line in the hallways.That is my opinion of the new school rule.]]>
+									</Item_Response>
+									<Item_Score_Details>
+										<Item_DataPoint_Score_Details Final_Score="1">
+											<Score Date_Time="20130809120847" Reader_ID="1385" Score_Value="2" Read_Number="1">
+											</Score>
+											<Score Date_Time="20130809120847" Reader_ID="1251" Score_Value="1" Read_Number="2">
+											</Score>
+											<Score Date_Time="20130809120847" Reader_ID="1221" Score_Value="1" Read_Number="3">
+											</Score>
+										</Item_DataPoint_Score_Details>
+									</Item_Score_Details>
+								</Item_Details>
+							</Item_List>
+						</Student_Test_Details>
+					</Student_Test_List>
+				</Student_Details>
+				<Student_Details Ethnicity="NR" IEP=" " LEP=" " Gender="M" Vendor_Student_ID="408653">
+					<Student_Test_List>
+						<Student_Test_Details Grade="5" Student_Test_ID="10227015">
+							<Item_List>
+								<Item_Details Score="Y" Item_ID="50868">
+									<Item_Response><![CDATA[it is fair wen students ar tring to her the teacher thay cant her the teacher.]]>
+									</Item_Response>
+									<Item_Score_Details>
+										<Item_DataPoint_Score_Details Final_Score="1">
+											<Score Date_Time="20130809120847" Reader_ID="1385" Score_Value="1" Read_Number="1">
+											</Score>
+											<Score Date_Time="20130809120847" Reader_ID="1251" Score_Value="1" Read_Number="2">
+											</Score>
+										</Item_DataPoint_Score_Details>
+									</Item_Score_Details>
+								</Item_Details>
+							</Item_List>
+						</Student_Test_Details>
+					</Student_Test_List>
+				</Student_Details>
+				<Student_Details Ethnicity="W" IEP="N" LEP="N" Gender="F" Vendor_Student_ID="412937">
+					<Student_Test_List>
+						<Student_Test_Details Grade="5" Student_Test_ID="10227030">
+							<Item_List>
+								<Item_Details Score="Y" Item_ID="50868">
+									<Item_Response><![CDATA[I think the rule isn't fair and students should be allowed to speak quietly in the hallways to your friends and clasmates.]]>
+									</Item_Response>
+									<Item_Score_Details>
+										<Item_DataPoint_Score_Details Final_Score="1">
+											<Score Date_Time="20130809120847" Reader_ID="1251" Score_Value="1" Read_Number="1">
+											</Score>
+											<Score Date_Time="20130809120847" Reader_ID="1385" Score_Value="0" Read_Number="2">
+											</Score>
+											<Score Date_Time="20130809120847" Reader_ID="1221" Score_Value="1" Read_Number="3">
+											</Score>
+										</Item_DataPoint_Score_Details>
+									</Item_Score_Details>
+								</Item_Details>
+							</Item_List>
+						</Student_Test_Details>
+					</Student_Test_List>
+				</Student_Details>
+				<Student_Details Ethnicity="B" IEP="N" LEP="N" Gender="M" Vendor_Student_ID="418099">
+					<Student_Test_List>
+						<Student_Test_Details Grade="5" Student_Test_ID="10227047">
+							<Item_List>
+								<Item_Details Score="Y" Item_ID="50868">
+									<Item_Response><![CDATA[i think itis unfair because u cant talk]]>
+									</Item_Response>
+									<Item_Score_Details>
+										<Item_DataPoint_Score_Details Final_Score="1">
+											<Score Date_Time="20130809120847" Reader_ID="1251" Score_Value="0" Read_Number="1">
+											</Score>
+											<Score Date_Time="20130809120847" Reader_ID="1161" Score_Value="1" Read_Number="2">
+											</Score>
+											<Score Date_Time="20130809120847" Reader_ID="1221" Score_Value="1" Read_Number="3">
+											</Score>
+										</Item_DataPoint_Score_Details>
+									</Item_Score_Details>
+								</Item_Details>
+							</Item_List>
+						</Student_Test_Details>
+					</Student_Test_List>
+				</Student_Details>
+				<Student_Details Ethnicity="W" IEP="Y" LEP="N" Gender="M" Vendor_Student_ID="428398">
+					<Student_Test_List>
+						<Student_Test_Details Grade="5" Student_Test_ID="10227069">
+							<Item_List>
+								<Item_Details Score="Y" Item_ID="50868">
+									<Item_Response><![CDATA[it is not fair because you don't walk in line in middle school .]]>
+									</Item_Response>
+									<Item_Score_Details>
+										<Item_DataPoint_Score_Details Final_Score="1">
+											<Score Date_Time="20130809120847" Reader_ID="1165" Score_Value="1" Read_Number="1">
+											</Score>
+											<Score Date_Time="20130809120847" Reader_ID="1251" Score_Value="1" Read_Number="2">
+											</Score>
+										</Item_DataPoint_Score_Details>
+									</Item_Score_Details>
+								</Item_Details>
+							</Item_List>
+						</Student_Test_Details>
+					</Student_Test_List>
+				</Student_Details>
+				<Student_Details Ethnicity="H" IEP=" " LEP=" " Gender="M" Vendor_Student_ID="431980">
+					<Student_Test_List>
+						<Student_Test_Details Grade="5" Student_Test_ID="10227105">
+							<Item_List>
+								<Item_Details Score="Y" Item_ID="50868">
+									<Item_Response><![CDATA[
+I do think the new rule is fair. But some people can control themselves. Those people should get to talk. It is up to the teacher.With walking in  line everyone should do it.                                                                                  
+                                                                                   It is really easy.Just one behind the other.It will be more organized that way.Also you won't take up as much space. That is why I think the new rule is fair.]]>
+									</Item_Response>
+									<Item_Score_Details>
+										<Item_DataPoint_Score_Details Final_Score="1">
+											<Score Date_Time="20130809120847" Reader_ID="1218" Score_Value="1" Read_Number="1">
+											</Score>
+											<Score Date_Time="20130809120847" Reader_ID="1385" Score_Value="2" Read_Number="2">
+											</Score>
+											<Score Date_Time="20130809120847" Reader_ID="1221" Score_Value="1" Read_Number="3">
+											</Score>
+										</Item_DataPoint_Score_Details>
+									</Item_Score_Details>
+								</Item_Details>
+							</Item_List>
+						</Student_Test_Details>
+					</Student_Test_List>
+				</Student_Details>
+				<Student_Details Ethnicity="NR" IEP=" " LEP=" " Gender="F" Vendor_Student_ID="432269">
+					<Student_Test_List>
+						<Student_Test_Details Grade="5" Student_Test_ID="10227108">
+							<Item_List>
+								<Item_Details Score="Y" Item_ID="50868">
+									<Item_Response><![CDATA[
+I think it is not fair that they have to walk in a line and be quite in the hall because they can talk quitely they are old enogh to know that talking in the hall was always a rule but i also think that they are old enogh that they dont have to be in a lin
+e they need to have resonsableites and walking in the hall is an resonsableites because they know that they can walk in  aline but they choose not to and if they are queit they know that they have that privleg to walk in the hall not being in a line.]]>
+									</Item_Response>
+									<Item_Score_Details>
+										<Item_DataPoint_Score_Details Final_Score="1">
+											<Score Date_Time="20130809120847" Reader_ID="1385" Score_Value="1" Read_Number="1">
+											</Score>
+											<Score Date_Time="20130809120847" Reader_ID="1161" Score_Value="2" Read_Number="2">
+											</Score>
+											<Score Date_Time="20130809120847" Reader_ID="1221" Score_Value="1" Read_Number="3">
+											</Score>
+										</Item_DataPoint_Score_Details>
+									</Item_Score_Details>
+								</Item_Details>
+							</Item_List>
+						</Student_Test_Details>
+					</Student_Test_List>
+				</Student_Details>
+				<Student_Details Ethnicity="B" IEP=" " LEP=" " Gender="M" Vendor_Student_ID="435587">
+					<Student_Test_List>
+						<Student_Test_Details Grade="5" Student_Test_ID="10227131">
+							<Item_List>
+								<Item_Details Score="Y" Item_ID="50868">
+									<Item_Response><![CDATA[I think not only fifth graders should do that all of the grades should]]>
+									</Item_Response>
+									<Item_Score_Details>
+										<Item_DataPoint_Score_Details Final_Score="1">
+											<Score Date_Time="20130809120847" Reader_ID="1385" Score_Value="1" Read_Number="1">
+											</Score>
+											<Score Date_Time="20130809120847" Reader_ID="1216" Score_Value="1" Read_Number="2">
+											</Score>
+										</Item_DataPoint_Score_Details>
+									</Item_Score_Details>
+								</Item_Details>
+							</Item_List>
+						</Student_Test_Details>
+					</Student_Test_List>
+				</Student_Details>
+				<Student_Details Ethnicity="NR" IEP="Y" LEP="N" Gender="F" Vendor_Student_ID="440159">
+					<Student_Test_List>
+						<Student_Test_Details Grade="5" Student_Test_ID="10227185">
+							<Item_List>
+								<Item_Details Score="Y" Item_ID="50868">
+									<Item_Response><![CDATA[
+'I thenk its not fair to the fifth graders , becaus every one elas does not need that rule.Do you thenk it is fair for them?Well I don't . I thenk they should have the same rule as all of the kids .I know I would like that school if was in fifth grade .   
+             'Would you like that school ? I know I wonted .Any way I feel bad for those kids in fifth grade . I thank that school is not fair at all.Thats what I thank of that school !]]>
+									</Item_Response>
+									<Item_Score_Details>
+										<Item_DataPoint_Score_Details Final_Score="1">
+											<Score Date_Time="20130809120847" Reader_ID="1385" Score_Value="1" Read_Number="1">
+											</Score>
+											<Score Date_Time="20130809120847" Reader_ID="1307" Score_Value="1" Read_Number="2">
+											</Score>
+										</Item_DataPoint_Score_Details>
+									</Item_Score_Details>
+								</Item_Details>
+							</Item_List>
+						</Student_Test_Details>
+					</Student_Test_List>
+				</Student_Details>
+				<Student_Details Ethnicity="H" IEP="N" LEP="N" Gender="M" Vendor_Student_ID="455715">
+					<Student_Test_List>
+						<Student_Test_Details Grade="5" Student_Test_ID="10227223">
+							<Item_List>
+								<Item_Details Score="Y" Item_ID="50868">
+									<Item_Response><![CDATA[
+I think it is fair because everyone in the school has to be treated equal. It wouldn't be fair for the other kids to just have to listen to the rules it has to be all of us.  Also, people are all created equal so they should be treated too at school.]]>
+									</Item_Response>
+									<Item_Score_Details>
+										<Item_DataPoint_Score_Details Final_Score="1">
+											<Score Date_Time="20130809120847" Reader_ID="1221" Score_Value="1" Read_Number="1">
+											</Score>
+											<Score Date_Time="20130809120847" Reader_ID="1251" Score_Value="1" Read_Number="2">
+											</Score>
+										</Item_DataPoint_Score_Details>
+									</Item_Score_Details>
+								</Item_Details>
+							</Item_List>
+						</Student_Test_Details>
+					</Student_Test_List>
+				</Student_Details>
+				<Student_Details Ethnicity="H" IEP="N" LEP="N" Gender="F" Vendor_Student_ID="463084">
+					<Student_Test_List>
+						<Student_Test_Details Grade="5" Student_Test_ID="10227268">
+							<Item_List>
+								<Item_Details Score="Y" Item_ID="50868">
+									<Item_Response><![CDATA[
+my opinion on the new school is not fair because some of the student dont do these things but other do. i say this because it is not fair the studentsthat are not doing anything cant have fun and have to sofer for other students behaver.     another reason
+ is that student are able to be quit but they decited not to so they shoud be the people to get in troble.]]>
+									</Item_Response>
+									<Item_Score_Details>
+										<Item_DataPoint_Score_Details Final_Score="1">
+											<Score Date_Time="20130809120847" Reader_ID="1385" Score_Value="0" Read_Number="1">
+											</Score>
+											<Score Date_Time="20130809120847" Reader_ID="1218" Score_Value="2" Read_Number="2">
+											</Score>
+											<Score Date_Time="20130809120847" Reader_ID="1221" Score_Value="1" Read_Number="3">
+											</Score>
+										</Item_DataPoint_Score_Details>
+									</Item_Score_Details>
+								</Item_Details>
+							</Item_List>
+						</Student_Test_Details>
+					</Student_Test_List>
+				</Student_Details>
+				<Student_Details Ethnicity="A" IEP="N" LEP="N" Gender="M" Vendor_Student_ID="465207">
+					<Student_Test_List>
+						<Student_Test_Details Grade="5" Student_Test_ID="10227281">
+							<Item_List>
+								<Item_Details Score="Y" Item_ID="50868">
+									<Item_Response><![CDATA[Yes i think this is fair because fifth graders are very loud i the hallways.]]>
+									</Item_Response>
+									<Item_Score_Details>
+										<Item_DataPoint_Score_Details Final_Score="1">
+											<Score Date_Time="20130809120847" Reader_ID="1541" Score_Value="1" Read_Number="1">
+											</Score>
+											<Score Date_Time="20130809120847" Reader_ID="1221" Score_Value="1" Read_Number="2">
+											</Score>
+										</Item_DataPoint_Score_Details>
+									</Item_Score_Details>
+								</Item_Details>
+							</Item_List>
+						</Student_Test_Details>
+					</Student_Test_List>
+				</Student_Details>
+				<Student_Details Ethnicity="H" IEP="N" LEP="Y" Gender="F" Vendor_Student_ID="490420">
+					<Student_Test_List>
+						<Student_Test_Details Grade="5" Student_Test_ID="10227358">
+							<Item_List>
+								<Item_Details Score="Y" Item_ID="50868">
+									<Item_Response><![CDATA[The new rule is fair because some students are trying learn. And some students are makeing to much noise in the hallway.]]>
+									</Item_Response>
+									<Item_Score_Details>
+										<Item_DataPoint_Score_Details Final_Score="1">
+											<Score Date_Time="20130809120847" Reader_ID="1251" Score_Value="1" Read_Number="1">
+											</Score>
+											<Score Date_Time="20130809120847" Reader_ID="1221" Score_Value="1" Read_Number="2">
+											</Score>
+										</Item_DataPoint_Score_Details>
+									</Item_Score_Details>
+								</Item_Details>
+							</Item_List>
+						</Student_Test_Details>
+					</Student_Test_List>
+				</Student_Details>
+				<Student_Details Ethnicity="NR" IEP=" " LEP=" " Gender="F" Vendor_Student_ID="490652">
+					<Student_Test_List>
+						<Student_Test_Details Grade="5" Student_Test_ID="10227361">
+							<Item_List>
+								<Item_Details Score="Y" Item_ID="50868">
+									<Item_Response><![CDATA[
+i think they should walk in a line in the hallways because people in the hallway could be runing in the hallway and run into somebody and could get hurt  because of someone running in the hallway that way i nthink we should walk in aline in the hallway.]]>
+									</Item_Response>
+									<Item_Score_Details>
+										<Item_DataPoint_Score_Details Final_Score="1">
+											<Score Date_Time="20130809120847" Reader_ID="1221" Score_Value="1" Read_Number="1">
+											</Score>
+											<Score Date_Time="20130809120847" Reader_ID="1251" Score_Value="1" Read_Number="2">
+											</Score>
+										</Item_DataPoint_Score_Details>
+									</Item_Score_Details>
+								</Item_Details>
+							</Item_List>
+						</Student_Test_Details>
+					</Student_Test_List>
+				</Student_Details>
+				<Student_Details Ethnicity="W" IEP="N" LEP="N" Gender="F" Vendor_Student_ID="493199">
+					<Student_Test_List>
+						<Student_Test_Details Grade="5" Student_Test_ID="10227378">
+							<Item_List>
+								<Item_Details Score="Y" Item_ID="50868">
+									<Item_Response><![CDATA[
+I think we should have the new rule. The first reason is because we make too much noise. That can make other students get bad grades. Would you want to get bad grades?       The second reason why we should have the new rule is because we are not walking in
+ a straight line. We are not watching what we are doing. That can cause problems. Like causing people to drop their text books.]]>
+									</Item_Response>
+									<Item_Score_Details>
+										<Item_DataPoint_Score_Details Final_Score="1">
+											<Score Date_Time="20130809120847" Reader_ID="1251" Score_Value="1" Read_Number="1">
+											</Score>
+											<Score Date_Time="20130809120847" Reader_ID="1218" Score_Value="1" Read_Number="2">
+											</Score>
+										</Item_DataPoint_Score_Details>
+									</Item_Score_Details>
+								</Item_Details>
+							</Item_List>
+						</Student_Test_Details>
+					</Student_Test_List>
+				</Student_Details>
+				<Student_Details Ethnicity="W" IEP="N" LEP=" " Gender="M" Vendor_Student_ID="495452">
+					<Student_Test_List>
+						<Student_Test_Details Grade="5" Student_Test_ID="10227400">
+							<Item_List>
+								<Item_Details Score="Y" Item_ID="50868">
+									<Item_Response><![CDATA[I think it is fair because they were the one who lost their privllage of walking in the hallway not in a line.]]>
+									</Item_Response>
+									<Item_Score_Details>
+										<Item_DataPoint_Score_Details Final_Score="1">
+											<Score Date_Time="20130809120847" Reader_ID="1385" Score_Value="0" Read_Number="1">
+											</Score>
+											<Score Date_Time="20130809120847" Reader_ID="1161" Score_Value="1" Read_Number="2">
+											</Score>
+											<Score Date_Time="20130809120847" Reader_ID="1221" Score_Value="1" Read_Number="3">
+											</Score>
+										</Item_DataPoint_Score_Details>
+									</Item_Score_Details>
+								</Item_Details>
+							</Item_List>
+						</Student_Test_Details>
+					</Student_Test_List>
+				</Student_Details>
+				<Student_Details Ethnicity="W" IEP="N" LEP="N" Gender="M" Vendor_Student_ID="496980">
+					<Student_Test_List>
+						<Student_Test_Details Grade="5" Student_Test_ID="10227414">
+							<Item_List>
+								<Item_Details Score="Y" Item_ID="50868">
+									<Item_Response><![CDATA[I think this is not fair because us, fifth graders are able to walk in the hallways while talking quietly.       We are old enough to know to walk quietly.]]>
+									</Item_Response>
+									<Item_Score_Details>
+										<Item_DataPoint_Score_Details Final_Score="1">
+											<Score Date_Time="20130809120847" Reader_ID="1385" Score_Value="1" Read_Number="1">
+											</Score>
+											<Score Date_Time="20130809120847" Reader_ID="1221" Score_Value="1" Read_Number="2">
+											</Score>
+										</Item_DataPoint_Score_Details>
+									</Item_Score_Details>
+								</Item_Details>
+							</Item_List>
+						</Student_Test_Details>
+					</Student_Test_List>
+				</Student_Details>
+				<Student_Details Ethnicity="H" IEP="N" LEP="Y" Gender="F" Vendor_Student_ID="501657">
+					<Student_Test_List>
+						<Student_Test_Details Grade="5" Student_Test_ID="10227446">
+							<Item_List>
+								<Item_Details Score="Y" Item_ID="50868">
+									<Item_Response><![CDATA[
+i thimk we should not get in line in the hall ways because we are in 5th grade and we could stand being in the hall ways silent.also if we whisper in the hallways i really dont think it will disturb other teachers.if we do get a little loud just tell us to
+ quiet done .and if we dont queit done just send us to the office.  and i really think no one is going to listen to be quiet in the hall ways because a lot of boys and girls talk in the hall ways so no one is going to listen so i really hope we dont have t
+o listen to ur demand and that is my opinen]]>
+									</Item_Response>
+									<Item_Score_Details>
+										<Item_DataPoint_Score_Details Final_Score="1">
+											<Score Date_Time="20130809120847" Reader_ID="1251" Score_Value="1" Read_Number="1">
+											</Score>
+											<Score Date_Time="20130809120847" Reader_ID="1218" Score_Value="1" Read_Number="2">
+											</Score>
+										</Item_DataPoint_Score_Details>
+									</Item_Score_Details>
+								</Item_Details>
+							</Item_List>
+						</Student_Test_Details>
+					</Student_Test_List>
+				</Student_Details>
+				<Student_Details Ethnicity="W" IEP="N" LEP="N" Gender="F" Vendor_Student_ID="517150">
+					<Student_Test_List>
+						<Student_Test_Details Grade="5" Student_Test_ID="10227484">
+							<Item_List>
+								<Item_Details Score="Y" Item_ID="50868">
+									<Item_Response><![CDATA[
+I agree wiht Mrs. Redding's new school rule. The first reason is because in middle school you don't walk in lines but as a fitfh grader you do. Second reason is that yes fifth graders are very noisy sometimes and can disturb other classes of teaching.]]>
+									</Item_Response>
+									<Item_Score_Details>
+										<Item_DataPoint_Score_Details Final_Score="1">
+											<Score Date_Time="20130809120847" Reader_ID="1221" Score_Value="1" Read_Number="1">
+											</Score>
+											<Score Date_Time="20130809120847" Reader_ID="1385" Score_Value="1" Read_Number="2">
+											</Score>
+										</Item_DataPoint_Score_Details>
+									</Item_Score_Details>
+								</Item_Details>
+							</Item_List>
+						</Student_Test_Details>
+					</Student_Test_List>
+				</Student_Details>
+				<Student_Details Ethnicity="NR" IEP=" " LEP=" " Gender="M" Vendor_Student_ID="526701">
+					<Student_Test_List>
+						<Student_Test_Details Grade="5" Student_Test_ID="10227533">
+							<Item_List>
+								<Item_Details Score="Y" Item_ID="50868">
+									<Item_Response><![CDATA[
+I think that this rule can be fair and unfair. If kids are being disrespectful to the teaching classes and causing ruckess,then it is fair.Because that is not polite. But if it is just one kid and all of the other kids are being quiet.Then I think  that ma
+ybe the loud kids should just have to have an adult walk in the halls with the noisy kids until they can learn to be quiet. But all of these things are just my opinion.]]>
+									</Item_Response>
+									<Item_Score_Details>
+										<Item_DataPoint_Score_Details Final_Score="1">
+											<Score Date_Time="20130809120847" Reader_ID="1251" Score_Value="1" Read_Number="1">
+											</Score>
+											<Score Date_Time="20130809120847" Reader_ID="1218" Score_Value="1" Read_Number="2">
+											</Score>
+										</Item_DataPoint_Score_Details>
+									</Item_Score_Details>
+								</Item_Details>
+							</Item_List>
+						</Student_Test_Details>
+					</Student_Test_List>
+				</Student_Details>
+				<Student_Details Ethnicity="H" IEP="N" LEP="Y" Gender="M" Vendor_Student_ID="530530">
+					<Student_Test_List>
+						<Student_Test_Details Grade="5" Student_Test_ID="10227549">
+							<Item_List>
+								<Item_Details Score="Y" Item_ID="50868">
+									<Item_Response><![CDATA[
+I think the new rule is way unfair. That rule is kind of dumb. We should have the right to talk in the hallways because next year in sixth grade we are just going to have a ten minute break and not have time to talk and stuff. So ya that rule is so unfair!
+!!!!]]>
+									</Item_Response>
+									<Item_Score_Details>
+										<Item_DataPoint_Score_Details Final_Score="1">
+											<Score Date_Time="20130809120847" Reader_ID="1385" Score_Value="1" Read_Number="1">
+											</Score>
+											<Score Date_Time="20130809120847" Reader_ID="1221" Score_Value="1" Read_Number="2">
+											</Score>
+										</Item_DataPoint_Score_Details>
+									</Item_Score_Details>
+								</Item_Details>
+							</Item_List>
+						</Student_Test_Details>
+					</Student_Test_List>
+				</Student_Details>
+				<Student_Details Ethnicity="A" IEP="N" LEP="Y" Gender="F" Vendor_Student_ID="531310">
+					<Student_Test_List>
+						<Student_Test_Details Grade="5" Student_Test_ID="10227550">
+							<Item_List>
+								<Item_Details Score="Y" Item_ID="50868">
+									<Item_Response><![CDATA[yes it fair because they make too much noise, that disturbs the other class]]>
+									</Item_Response>
+									<Item_Score_Details>
+										<Item_DataPoint_Score_Details Final_Score="1">
+											<Score Date_Time="20130809120847" Reader_ID="1385" Score_Value="1" Read_Number="1">
+											</Score>
+											<Score Date_Time="20130809120847" Reader_ID="1251" Score_Value="1" Read_Number="2">
+											</Score>
+										</Item_DataPoint_Score_Details>
+									</Item_Score_Details>
+								</Item_Details>
+							</Item_List>
+						</Student_Test_Details>
+					</Student_Test_List>
+				</Student_Details>
+				<Student_Details Ethnicity="NR" IEP=" " LEP=" " Gender="F" Vendor_Student_ID="535335">
+					<Student_Test_List>
+						<Student_Test_Details Grade="5" Student_Test_ID="10227570">
+							<Item_List>
+								<Item_Details Score="Y" Item_ID="50868">
+									<Item_Response><![CDATA[
+I think its a good rule because, the kids in class can hear the teacher better and learn more. Also the kids need to learn that they cant talk in the hall ands they need to walk in a line because its the proper way to walk in the hall. And if someone new i
+s at the school and the princepal is walking the kid around the school they need to show that the school is proper.]]>
+									</Item_Response>
+									<Item_Score_Details>
+										<Item_DataPoint_Score_Details Final_Score="1">
+											<Score Date_Time="20130809120847" Reader_ID="1218" Score_Value="2" Read_Number="1">
+											</Score>
+											<Score Date_Time="20130809120847" Reader_ID="1251" Score_Value="1" Read_Number="2">
+											</Score>
+											<Score Date_Time="20130809120847" Reader_ID="1221" Score_Value="1" Read_Number="3">
+											</Score>
+										</Item_DataPoint_Score_Details>
+									</Item_Score_Details>
+								</Item_Details>
+							</Item_List>
+						</Student_Test_Details>
+					</Student_Test_List>
+				</Student_Details>
+				<Student_Details Ethnicity="W" IEP=" " LEP=" " Gender="M" Vendor_Student_ID="535859">
+					<Student_Test_List>
+						<Student_Test_Details Grade="5" Student_Test_ID="10227571">
+							<Item_List>
+								<Item_Details Score="Y" Item_ID="50868">
+									<Item_Response><![CDATA[The new shool rules are ok, and their fair.                                                                                           The new school rules are ok  like if you had a huge test you would want peace and quit.
+]]>
+									</Item_Response>
+									<Item_Score_Details>
+										<Item_DataPoint_Score_Details Final_Score="1">
+											<Score Date_Time="20130809120847" Reader_ID="1221" Score_Value="1" Read_Number="1">
+											</Score>
+											<Score Date_Time="20130809120847" Reader_ID="1251" Score_Value="1" Read_Number="2">
+											</Score>
+										</Item_DataPoint_Score_Details>
+									</Item_Score_Details>
+								</Item_Details>
+							</Item_List>
+						</Student_Test_Details>
+					</Student_Test_List>
+				</Student_Details>
+				<Student_Details Ethnicity="NR" IEP=" " LEP=" " Gender="M" Vendor_Student_ID="552190">
+					<Student_Test_List>
+						<Student_Test_Details Grade="5" Student_Test_ID="10227642">
+							<Item_List>
+								<Item_Details Score="Y" Item_ID="50868">
+									<Item_Response><![CDATA[
+The new rule is fair.Because if im trying to learn and then there are loud kids in the hall running it distracts me and i will not have much time and i will be left behind.Another reason is because it is really loud and you might get an headach.That is why
+ it is fair.]]>
+									</Item_Response>
+									<Item_Score_Details>
+										<Item_DataPoint_Score_Details Final_Score="1">
+											<Score Date_Time="20130809120847" Reader_ID="1251" Score_Value="1" Read_Number="1">
+											</Score>
+											<Score Date_Time="20130809120847" Reader_ID="1161" Score_Value="1" Read_Number="2">
+											</Score>
+										</Item_DataPoint_Score_Details>
+									</Item_Score_Details>
+								</Item_Details>
+							</Item_List>
+						</Student_Test_Details>
+					</Student_Test_List>
+				</Student_Details>
+				<Student_Details Ethnicity="W" IEP=" " LEP=" " Gender="M" Vendor_Student_ID="552491">
+					<Student_Test_List>
+						<Student_Test_Details Grade="5" Student_Test_ID="10227644">
+							<Item_List>
+								<Item_Details Score="Y" Item_ID="50868">
+									<Item_Response><![CDATA[i think it is resonable to stay in line, but we should at least be able to talk quietly. i know we usually make alot of noise in the halls, but that rule is too far to me]]>
+									</Item_Response>
+									<Item_Score_Details>
+										<Item_DataPoint_Score_Details Final_Score="1">
+											<Score Date_Time="20130809120847" Reader_ID="1251" Score_Value="1" Read_Number="1">
+											</Score>
+											<Score Date_Time="20130809120847" Reader_ID="1541" Score_Value="1" Read_Number="2">
+											</Score>
+										</Item_DataPoint_Score_Details>
+									</Item_Score_Details>
+								</Item_Details>
+							</Item_List>
+						</Student_Test_Details>
+					</Student_Test_List>
+				</Student_Details>
+				<Student_Details Ethnicity="W" IEP="N" LEP="N" Gender="F" Vendor_Student_ID="552943">
+					<Student_Test_List>
+						<Student_Test_Details Grade="5" Student_Test_ID="10227650">
+							<Item_List>
+								<Item_Details Score="Y" Item_ID="50868">
+									<Item_Response><![CDATA[
+I think that walking in a line while going through the hallways in a good rule. I think this because when  I walk through the hallways with a small group, not the whole class, we don't walk in a line. Now I believe we should because not walking in a straig
+ht line resulted in a collusion with other students strolling through the halls. Even if you bump into someone, it might have a domino effect where the person who was bumped into could turn]]>
+									</Item_Response>
+									<Item_Score_Details>
+										<Item_DataPoint_Score_Details Final_Score="1">
+											<Score Date_Time="20130809120847" Reader_ID="1218" Score_Value="1" Read_Number="1">
+											</Score>
+											<Score Date_Time="20130809120847" Reader_ID="1161" Score_Value="1" Read_Number="2">
+											</Score>
+										</Item_DataPoint_Score_Details>
+									</Item_Score_Details>
+								</Item_Details>
+							</Item_List>
+						</Student_Test_Details>
+					</Student_Test_List>
+				</Student_Details>
+				<Student_Details Ethnicity="H" IEP="N" LEP="N" Gender="M" Vendor_Student_ID="556201">
+					<Student_Test_List>
+						<Student_Test_Details Grade="5" Student_Test_ID="10227672">
+							<Item_List>
+								<Item_Details Score="Y" Item_ID="50868">
+									<Item_Response><![CDATA[it is fare because the younger kids can get there work done.]]>
+									</Item_Response>
+									<Item_Score_Details>
+										<Item_DataPoint_Score_Details Final_Score="1">
+											<Score Date_Time="20130809120847" Reader_ID="1165" Score_Value="1" Read_Number="1">
+											</Score>
+											<Score Date_Time="20130809120847" Reader_ID="1251" Score_Value="1" Read_Number="2">
+											</Score>
+										</Item_DataPoint_Score_Details>
+									</Item_Score_Details>
+								</Item_Details>
+							</Item_List>
+						</Student_Test_Details>
+					</Student_Test_List>
+				</Student_Details>
+				<Student_Details Ethnicity="H" IEP="N" LEP="Y" Gender="F" Vendor_Student_ID="559251">
+					<Student_Test_List>
+						<Student_Test_Details Grade="5" Student_Test_ID="10227703">
+							<Item_List>
+								<Item_Details Score="Y" Item_ID="50868">
+									<Item_Response><![CDATA[i think its fair because alot of kids can not control how loud they talk and some dont know how to stay in line.]]>
+									</Item_Response>
+									<Item_Score_Details>
+										<Item_DataPoint_Score_Details Final_Score="1">
+											<Score Date_Time="20130809120847" Reader_ID="1385" Score_Value="1" Read_Number="1">
+											</Score>
+											<Score Date_Time="20130809120847" Reader_ID="1218" Score_Value="1" Read_Number="2">
+											</Score>
+										</Item_DataPoint_Score_Details>
+									</Item_Score_Details>
+								</Item_Details>
+							</Item_List>
+						</Student_Test_Details>
+					</Student_Test_List>
+				</Student_Details>
+				<Student_Details Ethnicity="W" IEP="N" LEP="N" Gender="M" Vendor_Student_ID="573251">
+					<Student_Test_List>
+						<Student_Test_Details Grade="5" Student_Test_ID="10227717">
+							<Item_List>
+								<Item_Details Score="Y" Item_ID="50868">
+									<Item_Response><![CDATA[I think that talking in the hallway should not be allowed. it is rude and it desturbs other classrooms.   but I dont we should have to walk in a line. we are responsible enough to walk freely]]>
+									</Item_Response>
+									<Item_Score_Details>
+										<Item_DataPoint_Score_Details Final_Score="1">
+											<Score Date_Time="20130809120847" Reader_ID="1216" Score_Value="1" Read_Number="1">
+											</Score>
+											<Score Date_Time="20130809120847" Reader_ID="1541" Score_Value="1" Read_Number="2">
+											</Score>
+										</Item_DataPoint_Score_Details>
+									</Item_Score_Details>
+								</Item_Details>
+							</Item_List>
+						</Student_Test_Details>
+					</Student_Test_List>
+				</Student_Details>
+				<Student_Details Ethnicity="H" IEP="N" LEP="Y" Gender="F" Vendor_Student_ID="589411">
+					<Student_Test_List>
+						<Student_Test_Details Grade="5" Student_Test_ID="10227828">
+							<Item_List>
+								<Item_Details Score="Y" Item_ID="50868">
+									<Item_Response><![CDATA[I think that the new school rule is not fair because I am a fifth grader and when people tell me to get in a strate lineI feel like a little baby.]]>
+									</Item_Response>
+									<Item_Score_Details>
+										<Item_DataPoint_Score_Details Final_Score="1">
+											<Score Date_Time="20130809120847" Reader_ID="1216" Score_Value="1" Read_Number="1">
+											</Score>
+											<Score Date_Time="20130809120847" Reader_ID="1218" Score_Value="1" Read_Number="2">
+											</Score>
+										</Item_DataPoint_Score_Details>
+									</Item_Score_Details>
+								</Item_Details>
+							</Item_List>
+						</Student_Test_Details>
+					</Student_Test_List>
+				</Student_Details>
+				<Student_Details Ethnicity="B" IEP=" " LEP=" " Gender="M" Vendor_Student_ID="607022">
+					<Student_Test_List>
+						<Student_Test_Details Grade="5" Student_Test_ID="10227875">
+							<Item_List>
+								<Item_Details Score="Y" Item_ID="50868">
+									<Item_Response><![CDATA[
+Well I think that the new school rule is not fair because the little kids talk YELL in the hallway. Also they walk in a crooked line and they run and do a bunch of things. But fifth graders at lest walk a little strait in the hall and wisper in the hall. T
+hat's what I think about the new school rule.]]>
+									</Item_Response>
+									<Item_Score_Details>
+										<Item_DataPoint_Score_Details Final_Score="1">
+											<Score Date_Time="20130809120847" Reader_ID="1218" Score_Value="2" Read_Number="1">
+											</Score>
+											<Score Date_Time="20130809120847" Reader_ID="1251" Score_Value="1" Read_Number="2">
+											</Score>
+											<Score Date_Time="20130809120847" Reader_ID="1221" Score_Value="1" Read_Number="3">
+											</Score>
+										</Item_DataPoint_Score_Details>
+									</Item_Score_Details>
+								</Item_Details>
+							</Item_List>
+						</Student_Test_Details>
+					</Student_Test_List>
+				</Student_Details>
+				<Student_Details Ethnicity="W" IEP="N" LEP="N" Gender="F" Vendor_Student_ID="610080">
+					<Student_Test_List>
+						<Student_Test_Details Grade="5" Student_Test_ID="10227907">
+							<Item_List>
+								<Item_Details Score="Y" Item_ID="50868">
+									<Item_Response><![CDATA[
+I don't think this school rule is fair. Number one we have monitors I don't think they should make it that strick I think the students that are very loud should be punished I think you should be able to whisper. On the other hand I do think they should wal
+k in  a stait line so they don't trample the younger ones. This is my opinion on this subject I didn't think what other students thought on a days bases I hope you will be thinking about what I said because I'm not one of those people who talk when it is n
+ot your turn we should always have chances.]]>
+									</Item_Response>
+									<Item_Score_Details>
+										<Item_DataPoint_Score_Details Final_Score="1">
+											<Score Date_Time="20130809120847" Reader_ID="1218" Score_Value="1" Read_Number="1">
+											</Score>
+											<Score Date_Time="20130809120847" Reader_ID="1541" Score_Value="2" Read_Number="2">
+											</Score>
+											<Score Date_Time="20130809120847" Reader_ID="1221" Score_Value="1" Read_Number="3">
+											</Score>
+										</Item_DataPoint_Score_Details>
+									</Item_Score_Details>
+								</Item_Details>
+							</Item_List>
+						</Student_Test_Details>
+					</Student_Test_List>
+				</Student_Details>
+				<Student_Details Ethnicity="W" IEP=" " LEP=" " Gender="F" Vendor_Student_ID="610408">
+					<Student_Test_List>
+						<Student_Test_Details Grade="5" Student_Test_ID="10227910">
+							<Item_List>
+								<Item_Details Score="Y" Item_ID="50868">
+									<Item_Response><![CDATA[
+Well, I think it's fair and it's not fair because students can get loud but you can control that . But also 5th graders can be responsible and can be able to walk in halways at least quieter then kindergardeners and 3rd graders .               So I think i
+t's fair if they're too loud and disrupting students ,but if they're  quiet then they can talk quiet. And the students acting up can't talk.]]>
+									</Item_Response>
+									<Item_Score_Details>
+										<Item_DataPoint_Score_Details Final_Score="1">
+											<Score Date_Time="20130809120847" Reader_ID="1385" Score_Value="1" Read_Number="1">
+											</Score>
+											<Score Date_Time="20130809120847" Reader_ID="1251" Score_Value="1" Read_Number="2">
+											</Score>
+										</Item_DataPoint_Score_Details>
+									</Item_Score_Details>
+								</Item_Details>
+							</Item_List>
+						</Student_Test_Details>
+					</Student_Test_List>
+				</Student_Details>
+				<Student_Details Ethnicity="W" IEP="N" LEP="N" Gender="F" Vendor_Student_ID="631357">
+					<Student_Test_List>
+						<Student_Test_Details Grade="5" Student_Test_ID="10227990">
+							<Item_List>
+								<Item_Details Score="Y" Item_ID="50868">
+									<Item_Response><![CDATA[
+well i think that that isn't fair because some times when other classes our walking by our room or door they are loud and there teacher are not telling them to be quiet . And our teacher is always telling us and its anoyying.]]>
+									</Item_Response>
+									<Item_Score_Details>
+										<Item_DataPoint_Score_Details Final_Score="1">
+											<Score Date_Time="20130809120847" Reader_ID="1216" Score_Value="1" Read_Number="1">
+											</Score>
+											<Score Date_Time="20130809120847" Reader_ID="1251" Score_Value="1" Read_Number="2">
+											</Score>
+										</Item_DataPoint_Score_Details>
+									</Item_Score_Details>
+								</Item_Details>
+							</Item_List>
+						</Student_Test_Details>
+					</Student_Test_List>
+				</Student_Details>
+				<Student_Details Ethnicity="H" IEP="N" LEP="Y" Gender="M" Vendor_Student_ID="632698">
+					<Student_Test_List>
+						<Student_Test_Details Grade="5" Student_Test_ID="10227994">
+							<Item_List>
+								<Item_Details Score="Y" Item_ID="50868">
+									<Item_Response><![CDATA[I  think that the new rule is a good idea. I think it is a good idea so that if there are classes learning the student will not be disturbed. I think kids sould walk in a strate line so that it could look neat.]]>
+									</Item_Response>
+									<Item_Score_Details>
+										<Item_DataPoint_Score_Details Final_Score="1">
+											<Score Date_Time="20130809120847" Reader_ID="1218" Score_Value="1" Read_Number="1">
+											</Score>
+											<Score Date_Time="20130809120847" Reader_ID="1251" Score_Value="1" Read_Number="2">
+											</Score>
+										</Item_DataPoint_Score_Details>
+									</Item_Score_Details>
+								</Item_Details>
+							</Item_List>
+						</Student_Test_Details>
+					</Student_Test_List>
+				</Student_Details>
+				<Student_Details Ethnicity="B" IEP="N" LEP="N" Gender="F" Vendor_Student_ID="638287">
+					<Student_Test_List>
+						<Student_Test_Details Grade="5" Student_Test_ID="10228030">
+							<Item_List>
+								<Item_Details Score="Y" Item_ID="50868">
+									<Item_Response><![CDATA[I think  this rule is fair  because  in  this school the fifth graders are    disrepectful of kids that are working.]]>
+									</Item_Response>
+									<Item_Score_Details>
+										<Item_DataPoint_Score_Details Final_Score="1">
+											<Score Date_Time="20130809120847" Reader_ID="1385" Score_Value="1" Read_Number="1">
+											</Score>
+											<Score Date_Time="20130809120847" Reader_ID="1161" Score_Value="1" Read_Number="2">
+											</Score>
+										</Item_DataPoint_Score_Details>
+									</Item_Score_Details>
+								</Item_Details>
+							</Item_List>
+						</Student_Test_Details>
+					</Student_Test_List>
+				</Student_Details>
+				<Student_Details Ethnicity="W" IEP="N" LEP="N" Gender="M" Vendor_Student_ID="661657">
+					<Student_Test_List>
+						<Student_Test_Details Grade="5" Student_Test_ID="10228124">
+							<Item_List>
+								<Item_Details Score="Y" Item_ID="50868">
+									<Item_Response><![CDATA[
+I think the rule is unfair because i agree with that one kid that said, "We are to old to walk in a line." Fith graders are loud some times but that doesnt mean that we cant talk in the hallways.  When the one teacher said, "We are making to much noise." I
+ would just say get used to it were fith graders. I really think that, that is an unfair rule.]]>
+									</Item_Response>
+									<Item_Score_Details>
+										<Item_DataPoint_Score_Details Final_Score="1">
+											<Score Date_Time="20130809120847" Reader_ID="1161" Score_Value="1" Read_Number="1">
+											</Score>
+											<Score Date_Time="20130809120847" Reader_ID="1216" Score_Value="1" Read_Number="2">
+											</Score>
+										</Item_DataPoint_Score_Details>
+									</Item_Score_Details>
+								</Item_Details>
+							</Item_List>
+						</Student_Test_Details>
+					</Student_Test_List>
+				</Student_Details>
+				<Student_Details Ethnicity="W" IEP="N" LEP="N" Gender="F" Vendor_Student_ID="664669">
+					<Student_Test_List>
+						<Student_Test_Details Grade="5" Student_Test_ID="10228144">
+							<Item_List>
+								<Item_Details Score="Y" Item_ID="50868">
+									<Item_Response><![CDATA[I think the new school rule is not fair the fifth graders can talk queiter in the hallways well everyone ealse learns.      Also the fifth graders can walk in a line but  we are getting older and we shouldn't have to.]]>
+									</Item_Response>
+									<Item_Score_Details>
+										<Item_DataPoint_Score_Details Final_Score="1">
+											<Score Date_Time="20130809120847" Reader_ID="1541" Score_Value="2" Read_Number="1">
+											</Score>
+											<Score Date_Time="20130809120847" Reader_ID="1165" Score_Value="1" Read_Number="2">
+											</Score>
+											<Score Date_Time="20130809120847" Reader_ID="1221" Score_Value="1" Read_Number="3">
+											</Score>
+										</Item_DataPoint_Score_Details>
+									</Item_Score_Details>
+								</Item_Details>
+							</Item_List>
+						</Student_Test_Details>
+					</Student_Test_List>
+				</Student_Details>
+				<Student_Details Ethnicity="NR" IEP=" " LEP=" " Gender="M" Vendor_Student_ID="664822">
+					<Student_Test_List>
+						<Student_Test_Details Grade="5" Student_Test_ID="10228148">
+							<Item_List>
+								<Item_Details Score="Y" Item_ID="50868">
+									<Item_Response><![CDATA[
+i think the rule is NOT fair. It isn't fair because 10 and 11 year olds are old ebnough to walk in groups. The only thing that is fair is that you have to whisper in the hall so the classes are not interupted but you can still have a little fun.]]>
+									</Item_Response>
+									<Item_Score_Details>
+										<Item_DataPoint_Score_Details Final_Score="1">
+											<Score Date_Time="20130809120847" Reader_ID="1165" Score_Value="1" Read_Number="1">
+											</Score>
+											<Score Date_Time="20130809120847" Reader_ID="1541" Score_Value="1" Read_Number="2">
+											</Score>
+										</Item_DataPoint_Score_Details>
+									</Item_Score_Details>
+								</Item_Details>
+							</Item_List>
+						</Student_Test_Details>
+					</Student_Test_List>
+				</Student_Details>
+				<Student_Details Ethnicity="W" IEP=" " LEP=" " Gender="F" Vendor_Student_ID="665477">
+					<Student_Test_List>
+						<Student_Test_Details Grade="5" Student_Test_ID="10228151">
+							<Item_List>
+								<Item_Details Score="Y" Item_ID="50868">
+									<Item_Response><![CDATA[
+I think that the new school rule is a good idea becasue 5th grades make a lot of noise and the want to talk about the extra stuff that is going on athome are at someones house.  They could save the extra info for after school, on the bus, at lunch, or at r
+ecess.  The kids would also want to talk about what they are doing this weekend or who they are having over or going to someones house.  But kids do not want to walk in a straight line either.   The kids have problems walking in a straight line because the
+y want to stay next to their friends. Then in the line they are sepparted from their own friends. If the kids are wanting to talk about how much fun they had over the weekend they would want to be by their friends and not in a line. That is why kids do not
+ want to stay in a straight line or be quite in the hallways.]]>
+									</Item_Response>
+									<Item_Score_Details>
+										<Item_DataPoint_Score_Details Final_Score="1">
+											<Score Date_Time="20130809120847" Reader_ID="1165" Score_Value="1" Read_Number="1">
+											</Score>
+											<Score Date_Time="20130809120847" Reader_ID="1541" Score_Value="2" Read_Number="2">
+											</Score>
+											<Score Date_Time="20130809120847" Reader_ID="1221" Score_Value="1" Read_Number="3">
+											</Score>
+										</Item_DataPoint_Score_Details>
+									</Item_Score_Details>
+								</Item_Details>
+							</Item_List>
+						</Student_Test_Details>
+					</Student_Test_List>
+				</Student_Details>
+				<Student_Details Ethnicity="H" IEP="N" LEP="N" Gender="M" Vendor_Student_ID="665782">
+					<Student_Test_List>
+						<Student_Test_Details Grade="5" Student_Test_ID="10228160">
+							<Item_List>
+								<Item_Details Score="Y" Item_ID="50868">
+									<Item_Response><![CDATA[
+I think that its not fair because 5th graders grow up and when they grow up there mature so they talk.Another thing is that the 5th graders are board so they talk a lot.  The 5th graders have a lot of cool things to tell there freinds so they talk.Plus we 
+have so many freinds to talk to.So thats my oponion.]]>
+									</Item_Response>
+									<Item_Score_Details>
+										<Item_DataPoint_Score_Details Final_Score="1">
+											<Score Date_Time="20130809120847" Reader_ID="1161" Score_Value="2" Read_Number="1">
+											</Score>
+											<Score Date_Time="20130809120847" Reader_ID="1385" Score_Value="1" Read_Number="2">
+											</Score>
+											<Score Date_Time="20130809120847" Reader_ID="1221" Score_Value="1" Read_Number="3">
+											</Score>
+										</Item_DataPoint_Score_Details>
+									</Item_Score_Details>
+								</Item_Details>
+							</Item_List>
+						</Student_Test_Details>
+					</Student_Test_List>
+				</Student_Details>
+				<Student_Details Ethnicity="H" IEP="N" LEP="Y" Gender="M" Vendor_Student_ID="673422">
+					<Student_Test_List>
+						<Student_Test_Details Grade="5" Student_Test_ID="10228226">
+							<Item_List>
+								<Item_Details Score="Y" Item_ID="50868">
+									<Item_Response><![CDATA[It is fair because the kids talk to loud & run in the hallways.]]>
+									</Item_Response>
+									<Item_Score_Details>
+										<Item_DataPoint_Score_Details Final_Score="1">
+											<Score Date_Time="20130809120847" Reader_ID="1221" Score_Value="1" Read_Number="1">
+											</Score>
+											<Score Date_Time="20130809120847" Reader_ID="1251" Score_Value="1" Read_Number="2">
+											</Score>
+										</Item_DataPoint_Score_Details>
+									</Item_Score_Details>
+								</Item_Details>
+							</Item_List>
+						</Student_Test_Details>
+					</Student_Test_List>
+				</Student_Details>
+				<Student_Details Ethnicity="NR" IEP=" " LEP="N" Gender="M" Vendor_Student_ID="694225">
+					<Student_Test_List>
+						<Student_Test_Details Grade="5" Student_Test_ID="10228288">
+							<Item_List>
+								<Item_Details Score="Y" Item_ID="50868">
+									<Item_Response><![CDATA[It's   boring and also not fair because only fifth grade.]]>
+									</Item_Response>
+									<Item_Score_Details>
+										<Item_DataPoint_Score_Details Final_Score="1">
+											<Score Date_Time="20130809120847" Reader_ID="1218" Score_Value="0" Read_Number="1">
+											</Score>
+											<Score Date_Time="20130809120847" Reader_ID="1385" Score_Value="1" Read_Number="2">
+											</Score>
+											<Score Date_Time="20130809120847" Reader_ID="1221" Score_Value="1" Read_Number="3">
+											</Score>
+										</Item_DataPoint_Score_Details>
+									</Item_Score_Details>
+								</Item_Details>
+							</Item_List>
+						</Student_Test_Details>
+					</Student_Test_List>
+				</Student_Details>
+				<Student_Details Ethnicity="NR" IEP=" " LEP=" " Gender="F" Vendor_Student_ID="377837">
+					<Student_Test_List>
+						<Student_Test_Details Grade="5" Student_Test_ID="10226891">
+							<Item_List>
+								<Item_Details Score="Y" Item_ID="50868">
+									<Item_Response><![CDATA[
+I think that the new rule is fair.I think that it is fair because other students should be able to learn in a quiet room.Another thing is that if the students think they can be quiet in the halls the teachers should give them a chance to prove themselveas.
+Also I do think that they should walk in a line so if you were not sure where to go you could follow the line.Also if the kids are not in a line you might wonder off and then the teacher might lose you then it will be the teachers falt and the teacher will
+ have to call you to the office then you will get in trouble fore walking away from the teacher.Therefore I think that the new rule is fair.]]>
+									</Item_Response>
+									<Item_Score_Details>
+										<Item_DataPoint_Score_Details Final_Score="2">
+											<Score Date_Time="20130809120847" Reader_ID="1251" Score_Value="2" Read_Number="1">
+											</Score>
+											<Score Date_Time="20130809120847" Reader_ID="1385" Score_Value="1" Read_Number="2">
+											</Score>
+											<Score Date_Time="20130809120847" Reader_ID="1221" Score_Value="2" Read_Number="3">
+											</Score>
+										</Item_DataPoint_Score_Details>
+									</Item_Score_Details>
+								</Item_Details>
+							</Item_List>
+						</Student_Test_Details>
+					</Student_Test_List>
+				</Student_Details>
+				<Student_Details Ethnicity="W" IEP="N" LEP="N" Gender="F" Vendor_Student_ID="403520">
+					<Student_Test_List>
+						<Student_Test_Details Grade="5" Student_Test_ID="10226987">
+							<Item_List>
+								<Item_Details Score="Y" Item_ID="50868">
+									<Item_Response><![CDATA[
+I think the school rule is good because if you do talk to loud it will desturb other students. I don't think that they are to old to walk in the straught line and not talk. If you don'y walk in a straight line then people can get out of contol and walk aro
+und instead of just styaing still. Ithink the rule is fair.]]>
+									</Item_Response>
+									<Item_Score_Details>
+										<Item_DataPoint_Score_Details Final_Score="2">
+											<Score Date_Time="20130809120847" Reader_ID="1385" Score_Value="2" Read_Number="1">
+											</Score>
+											<Score Date_Time="20130809120847" Reader_ID="1218" Score_Value="2" Read_Number="2">
+											</Score>
+										</Item_DataPoint_Score_Details>
+									</Item_Score_Details>
+								</Item_Details>
+							</Item_List>
+						</Student_Test_Details>
+					</Student_Test_List>
+				</Student_Details>
+				<Student_Details Ethnicity="W" IEP="N" LEP="N" Gender="F" Vendor_Student_ID="404635">
+					<Student_Test_List>
+						<Student_Test_Details Grade="5" Student_Test_ID="10226990">
+							<Item_List>
+								<Item_Details Score="Y" Item_ID="50868">
+									<Item_Response><![CDATA[
+I think the rule is not fair. It is not fair becuase the fifth graders are old enough to walk with there friends if they whisper. If they talk the teacher will make them walk alone with her/him and they wont be aloud to talk.       Maybe that could be a co
+mprimise of the "New school rule." Because in Sixth, Seventh, and Eighth grade they will have to walk in the hallway without being in a line. So walking in the hallway, not in a line, with friends, and having to whisper could be good practice for later gra
+des.]]>
+									</Item_Response>
+									<Item_Score_Details>
+										<Item_DataPoint_Score_Details Final_Score="2">
+											<Score Date_Time="20130809120847" Reader_ID="1385" Score_Value="2" Read_Number="1">
+											</Score>
+											<Score Date_Time="20130809120847" Reader_ID="1251" Score_Value="2" Read_Number="2">
+											</Score>
+										</Item_DataPoint_Score_Details>
+									</Item_Score_Details>
+								</Item_Details>
+							</Item_List>
+						</Student_Test_Details>
+					</Student_Test_List>
+				</Student_Details>
+				<Student_Details Ethnicity="H" IEP="N" LEP="Y" Gender="M" Vendor_Student_ID="453185">
+					<Student_Test_List>
+						<Student_Test_Details Grade="5" Student_Test_ID="10227200">
+							<Item_List>
+								<Item_Details Score="Y" Item_ID="50868">
+									<Item_Response><![CDATA[
+" Think you can talk quietly in the school hallway?" I think it is fair that fifth graders are suppose to be quiet in the school hallway, because other students may be taking test and mess up on it. If students are talking in the hallway kids may not pay a
+ttention to the teacher and miss important information. Most of all if you are talking the hallway you may get yourself in trouble.       Students should walk in line no matter old they are, because if they aren't they may bump into someone else and could 
+cause an injury. If students don't walk in line they may get lost on a fieldtrip in the woods or a zoo. Even if a fifth grader doesn't walk in a line they can lose a game or something very important to you. These are the reasons why I think the new school 
+rule is fair.]]>
+									</Item_Response>
+									<Item_Score_Details>
+										<Item_DataPoint_Score_Details Final_Score="2">
+											<Score Date_Time="20130809120847" Reader_ID="1251" Score_Value="2" Read_Number="1">
+											</Score>
+											<Score Date_Time="20130809120847" Reader_ID="1541" Score_Value="2" Read_Number="2">
+											</Score>
+										</Item_DataPoint_Score_Details>
+									</Item_Score_Details>
+								</Item_Details>
+							</Item_List>
+						</Student_Test_Details>
+					</Student_Test_List>
+				</Student_Details>
+				<Student_Details Ethnicity="H" IEP="Y" LEP="N" Gender="M" Vendor_Student_ID="457893">
+					<Student_Test_List>
+						<Student_Test_Details Grade="5" Student_Test_ID="10227233">
+							<Item_List>
+								<Item_Details Score="Y" Item_ID="50868">
+									<Item_Response><![CDATA[yes because they need to be in a line because if the fith graders dont walk in line the will buck to some one. next they shound be qiute because they will disturbs kids when they are working.]]>
+									</Item_Response>
+									<Item_Score_Details>
+										<Item_DataPoint_Score_Details Final_Score="2">
+											<Score Date_Time="20130809120847" Reader_ID="1216" Score_Value="2" Read_Number="1">
+											</Score>
+											<Score Date_Time="20130809120847" Reader_ID="1251" Score_Value="1" Read_Number="2">
+											</Score>
+											<Score Date_Time="20130809120847" Reader_ID="1221" Score_Value="2" Read_Number="3">
+											</Score>
+										</Item_DataPoint_Score_Details>
+									</Item_Score_Details>
+								</Item_Details>
+							</Item_List>
+						</Student_Test_Details>
+					</Student_Test_List>
+				</Student_Details>
+				<Student_Details Ethnicity="W" IEP="N" LEP="N" Gender="F" Vendor_Student_ID="464841">
+					<Student_Test_List>
+						<Student_Test_Details Grade="5" Student_Test_ID="10227278">
+							<Item_List>
+								<Item_Details Score="Y" Item_ID="50868">
+									<Item_Response><![CDATA[
+I think it is far because when you get to lound other classess will hear you. Some classess are in section. So if your to loud you will lose foces. But some student say they will be quiet but they start getting even louder. So it is kind of far that we can
+'t talk in the hallways.  Some people are quiet but the other people around them are loud so they get in trouble to. I don't think people should talk in the hallway at all. It disturbs when people pass you or when your trying to learn but you can't pay att
+enction. It might not disturb you but it can  disturb the people around you if they like to be quiet.]]>
+									</Item_Response>
+									<Item_Score_Details>
+										<Item_DataPoint_Score_Details Final_Score="2">
+											<Score Date_Time="20130809120847" Reader_ID="1221" Score_Value="2" Read_Number="1">
+											</Score>
+											<Score Date_Time="20130809120847" Reader_ID="1165" Score_Value="2" Read_Number="2">
+											</Score>
+										</Item_DataPoint_Score_Details>
+									</Item_Score_Details>
+								</Item_Details>
+							</Item_List>
+						</Student_Test_Details>
+					</Student_Test_List>
+				</Student_Details>
+				<Student_Details Ethnicity="NR" IEP=" " LEP=" " Gender="F" Vendor_Student_ID="467225">
+					<Student_Test_List>
+						<Student_Test_Details Grade="5" Student_Test_ID="10227290">
+							<Item_List>
+								<Item_Details Score="Y" Item_ID="50868">
+									<Item_Response><![CDATA[
+i think the new rule is fair because if other students were trying to do a test and fith graders were walking down the hall talking it would disturb other students trying to take a test and they wouldnt be able to consentrate.If they didnt walk in a line t
+hen the hallway would be crouded and it would be hard to stay with your class if fith gragers werent in a strait line..]]>
+									</Item_Response>
+									<Item_Score_Details>
+										<Item_DataPoint_Score_Details Final_Score="2">
+											<Score Date_Time="20130809120847" Reader_ID="1165" Score_Value="2" Read_Number="1">
+											</Score>
+											<Score Date_Time="20130809120847" Reader_ID="1251" Score_Value="1" Read_Number="2">
+											</Score>
+											<Score Date_Time="20130809120847" Reader_ID="1221" Score_Value="2" Read_Number="3">
+											</Score>
+										</Item_DataPoint_Score_Details>
+									</Item_Score_Details>
+								</Item_Details>
+							</Item_List>
+						</Student_Test_Details>
+					</Student_Test_List>
+				</Student_Details>
+				<Student_Details Ethnicity="B" IEP="N" LEP="N" Gender="M" Vendor_Student_ID="470370">
+					<Student_Test_List>
+						<Student_Test_Details Grade="5" Student_Test_ID="10227306">
+							<Item_List>
+								<Item_Details Score="Y" Item_ID="50868">
+									<Item_Response><![CDATA[
+I think its unfair because we never get to talk to our friends in class or anywhere in school. And we know how to walk in the halls. we have been doing it for so long when we were kids. I think we should not walk in a line anymore.  We only talk because we
+ like to tell our friends stuff. And we almost never get to do talk in class because the teacher is talking. Thats the only place we can talk, exept the bathroom.]]>
+									</Item_Response>
+									<Item_Score_Details>
+										<Item_DataPoint_Score_Details Final_Score="2">
+											<Score Date_Time="20130809120847" Reader_ID="1251" Score_Value="2" Read_Number="1">
+											</Score>
+											<Score Date_Time="20130809120847" Reader_ID="1161" Score_Value="1" Read_Number="2">
+											</Score>
+											<Score Date_Time="20130809120847" Reader_ID="1221" Score_Value="2" Read_Number="3">
+											</Score>
+										</Item_DataPoint_Score_Details>
+									</Item_Score_Details>
+								</Item_Details>
+							</Item_List>
+						</Student_Test_Details>
+					</Student_Test_List>
+				</Student_Details>
+				<Student_Details Ethnicity="H" IEP="N" LEP="N" Gender="F" Vendor_Student_ID="470754">
+					<Student_Test_List>
+						<Student_Test_Details Grade="5" Student_Test_ID="10227308">
+							<Item_List>
+								<Item_Details Score="Y" Item_ID="50868">
+									<Item_Response><![CDATA[
+No, I dont think the new school rule is fair. The fifth garders who say that they are too old for waliking in line are right, fifth graders shouldn't have to walk in line anymore. And there are some responsible fifth graders and the are some not-so respons
+ible students who ruin it for others. It would also not be fair to not talk in the hallway  because students should be able to talk to their friends and have coversations with others without getting in trouble.I know this because some students in the fifth
+ grade at my school don't know how whisper or talk quietly so other people get in trouble because of  them.    If you hear someone talking in a loud voice tell them to quiet down or talk in a softer voice. 5th garders should also be responsible enough to a
+pologize to the classes they disturb. As you can see, I think the fifth graders need a second chance for walking and talking in the hallways.]]>
+									</Item_Response>
+									<Item_Score_Details>
+										<Item_DataPoint_Score_Details Final_Score="2">
+											<Score Date_Time="20130809120847" Reader_ID="1541" Score_Value="2" Read_Number="1">
+											</Score>
+											<Score Date_Time="20130809120847" Reader_ID="1218" Score_Value="2" Read_Number="2">
+											</Score>
+										</Item_DataPoint_Score_Details>
+									</Item_Score_Details>
+								</Item_Details>
+							</Item_List>
+						</Student_Test_Details>
+					</Student_Test_List>
+				</Student_Details>
+				<Student_Details Ethnicity="NR" IEP=" " LEP=" " Gender="F" Vendor_Student_ID="497950">
+					<Student_Test_List>
+						<Student_Test_Details Grade="5" Student_Test_ID="10227425">
+							<Item_List>
+								<Item_Details Score="Y" Item_ID="50868">
+									<Item_Response><![CDATA[
+I think it is fair because some kids want to learn. Even if they dont want to, they have time to play and have fun at home.School is where your supposed to learn.Not have fun.You should not play or mess around in the hallways.      If you played at school 
+in the hallways some kids might get distracted.Then you could get in trouble. You dont want to get in trouble with the princapil.If you get in trouble with him/her you would get in trouble with your parents. That would be bad.]]>
+									</Item_Response>
+									<Item_Score_Details>
+										<Item_DataPoint_Score_Details Final_Score="2">
+											<Score Date_Time="20130809120847" Reader_ID="1307" Score_Value="2" Read_Number="1">
+											</Score>
+											<Score Date_Time="20130809120847" Reader_ID="1385" Score_Value="2" Read_Number="2">
+											</Score>
+										</Item_DataPoint_Score_Details>
+									</Item_Score_Details>
+								</Item_Details>
+							</Item_List>
+						</Student_Test_Details>
+					</Student_Test_List>
+				</Student_Details>
+				<Student_Details Ethnicity="W" IEP="Y" LEP="N" Gender="M" Vendor_Student_ID="521296">
+					<Student_Test_List>
+						<Student_Test_Details Grade="5" Student_Test_ID="10227503">
+							<Item_List>
+								<Item_Details Score="Y" Item_ID="50868">
+									<Item_Response><![CDATA[
+I think that it is a good school rule because students need to be respectfull to others. It is disturbing when kids are talking in the hallway and others are trying to learn. Students need to walk in a line and be respectfull in the hallway. And other clas
+ses can be in the hallways. If kids were not in a straight line it would be very noisy in the halls.  I think that this school rule is fair. The reason I think this is fair is because when others need it quiet to learn and kids are being distracting it is 
+hard for people to listen and learn. It is hard when people are noisy and people need to get work done. People need to pay some respect to the people that whant to get work done. That is why I think this school rule is fair.]]>
+									</Item_Response>
+									<Item_Score_Details>
+										<Item_DataPoint_Score_Details Final_Score="2">
+											<Score Date_Time="20130809120847" Reader_ID="1307" Score_Value="2" Read_Number="1">
+											</Score>
+											<Score Date_Time="20130809120847" Reader_ID="1251" Score_Value="2" Read_Number="2">
+											</Score>
+										</Item_DataPoint_Score_Details>
+									</Item_Score_Details>
+								</Item_Details>
+							</Item_List>
+						</Student_Test_Details>
+					</Student_Test_List>
+				</Student_Details>
+				<Student_Details Ethnicity="B" IEP="Y" LEP=" " Gender="F" Vendor_Student_ID="536286">
+					<Student_Test_List>
+						<Student_Test_Details Grade="5" Student_Test_ID="10227575">
+							<Item_List>
+								<Item_Details Score="Y" Item_ID="50868">
+									<Item_Response><![CDATA[
+I think it is fair because it is not fair to other kind how is trying to lean but they cannot lean because they cannot consontrait on what is doing. The students could of been doindg somthing very inportant and they could mass up from the fifth graders are
+ so loud in the hall way.  Also if the teacher has to do something very inportant for the prinsble and they cannot consontrait and they get frired and it was the fifth graders that was out in the hall way that was so loud.]]>
+									</Item_Response>
+									<Item_Score_Details>
+										<Item_DataPoint_Score_Details Final_Score="2">
+											<Score Date_Time="20130809120847" Reader_ID="1221" Score_Value="1" Read_Number="1">
+											</Score>
+											<Score Date_Time="20130809120847" Reader_ID="1251" Score_Value="2" Read_Number="2">
+											</Score>
+											<Score Date_Time="20130809120847" Reader_ID="1107" Score_Value="2" Read_Number="3">
+											</Score>
+										</Item_DataPoint_Score_Details>
+									</Item_Score_Details>
+								</Item_Details>
+							</Item_List>
+						</Student_Test_Details>
+					</Student_Test_List>
+				</Student_Details>
+				<Student_Details Ethnicity="A" IEP="N" LEP="N" Gender="M" Vendor_Student_ID="550024">
+					<Student_Test_List>
+						<Student_Test_Details Grade="5" Student_Test_ID="10227621">
+							<Item_List>
+								<Item_Details Score="Y" Item_ID="50868">
+									<Item_Response><![CDATA[I think there shouldn't be a new rule because I believe that fifth graders are responsible and can talk quietly.If a fifth grader is loud in the hallway their classmate can tell them to whisper.]]>
+									</Item_Response>
+									<Item_Score_Details>
+										<Item_DataPoint_Score_Details Final_Score="2">
+											<Score Date_Time="20130809120847" Reader_ID="1161" Score_Value="2" Read_Number="1">
+											</Score>
+											<Score Date_Time="20130809120847" Reader_ID="1385" Score_Value="2" Read_Number="2">
+											</Score>
+										</Item_DataPoint_Score_Details>
+									</Item_Score_Details>
+								</Item_Details>
+							</Item_List>
+						</Student_Test_Details>
+					</Student_Test_List>
+				</Student_Details>
+				<Student_Details Ethnicity="W" IEP="N" LEP="N" Gender="F" Vendor_Student_ID="556890">
+					<Student_Test_List>
+						<Student_Test_Details Grade="5" Student_Test_ID="10227680">
+							<Item_List>
+								<Item_Details Score="Y" Item_ID="50868">
+									<Item_Response><![CDATA[
+I think this school rule is not fair. Why is it only fifth graders? Why isn't it other kids? I think they could be responsible enough to change their behavior in hallways. They could listen better, talk quiter, and not run. Kids always deserve second chanc
+es and it shouldn't just become a rule. Why don't any other kids have to walk in a line or not talk?   What if when other kids talk and walk in the hallway it bothers the fifth graders? And now just fifth graders can't talk and they have ti walk in a strai
+ght line in the hallway? Other kids need to do this rule too. It wouldn't be fair just if only one grade has to do it. This is why I don't think this rule is fair ansd why other kids in the school should not talk and walk in a straight line too.]]>
+									</Item_Response>
+									<Item_Score_Details>
+										<Item_DataPoint_Score_Details Final_Score="2">
+											<Score Date_Time="20130809120847" Reader_ID="1216" Score_Value="2" Read_Number="1">
+											</Score>
+											<Score Date_Time="20130809120847" Reader_ID="1385" Score_Value="1" Read_Number="2">
+											</Score>
+											<Score Date_Time="20130809120847" Reader_ID="1221" Score_Value="2" Read_Number="3">
+											</Score>
+										</Item_DataPoint_Score_Details>
+									</Item_Score_Details>
+								</Item_Details>
+							</Item_List>
+						</Student_Test_Details>
+					</Student_Test_List>
+				</Student_Details>
+				<Student_Details Ethnicity="H" IEP="N" LEP="Y" Gender="F" Vendor_Student_ID="556976">
+					<Student_Test_List>
+						<Student_Test_Details Grade="5" Student_Test_ID="10227681">
+							<Item_List>
+								<Item_Details Score="Y" Item_ID="50868">
+									<Item_Response><![CDATA[
+My opinion of the new school rule is that it is a good rule because they got to learn how to not speak when thier not supposed to.They also got to learn how to walk in a straight quite line,well thats my opinion because even the teachers get tired of stopp
+ing and getting thier students into a line.Thats why the teachers always say we don't want to give you detention but we have to because you think they don't but the teachers get frustraided.]]>
+									</Item_Response>
+									<Item_Score_Details>
+										<Item_DataPoint_Score_Details Final_Score="2">
+											<Score Date_Time="20130809120847" Reader_ID="1385" Score_Value="2" Read_Number="1">
+											</Score>
+											<Score Date_Time="20130809120847" Reader_ID="1218" Score_Value="2" Read_Number="2">
+											</Score>
+										</Item_DataPoint_Score_Details>
+									</Item_Score_Details>
+								</Item_Details>
+							</Item_List>
+						</Student_Test_Details>
+					</Student_Test_List>
+				</Student_Details>
+				<Student_Details Ethnicity="W" IEP=" " LEP=" " Gender="M" Vendor_Student_ID="575256">
+					<Student_Test_List>
+						<Student_Test_Details Grade="5" Student_Test_ID="10227733">
+							<Item_List>
+								<Item_Details Score="Y" Item_ID="50868">
+									<Item_Response><![CDATA[
+I think it is perfectly fair that they have to walk in a straight line and not talk. It was their privlidge to not walk in a line and they lost it. Even the  military still walks in a straight line ,so they aren't to old.     Talking is also a privlidge an
+d again they lost it. If they are talking to loudly don't let them talk at all.]]>
+									</Item_Response>
+									<Item_Score_Details>
+										<Item_DataPoint_Score_Details Final_Score="2">
+											<Score Date_Time="20130809120847" Reader_ID="1251" Score_Value="2" Read_Number="1">
+											</Score>
+											<Score Date_Time="20130809120847" Reader_ID="1221" Score_Value="2" Read_Number="2">
+											</Score>
+										</Item_DataPoint_Score_Details>
+									</Item_Score_Details>
+								</Item_Details>
+							</Item_List>
+						</Student_Test_Details>
+					</Student_Test_List>
+				</Student_Details>
+				<Student_Details Ethnicity="W" IEP=" " LEP=" " Gender="F" Vendor_Student_ID="578630">
+					<Student_Test_List>
+						<Student_Test_Details Grade="5" Student_Test_ID="10227757">
+							<Item_List>
+								<Item_Details Score="Y" Item_ID="50868">
+									<Item_Response><![CDATA[
+I think the new school rule is fair. Because if the fifth graders dont walk in a  straight line and be quiet in the halls the halls will be crouded and people will bump into each  other and get hirt and if you don't be quiet in the halls you will distract 
+people from learnig. The fifth graders also have to think about the little kids it sets bad examples for them and if they don't walk in a line and keep quiet they can get in trouble.  If you don't walk in aline then someone will get hirt and have to go hom
+e and they won't be able to learnthat day. If your not quiet in the halls other people will get distacted and won't learn anyting. So always be quiet in the halls and walk in a line so people can learn and be safe, responcible and resecful.]]>
+									</Item_Response>
+									<Item_Score_Details>
+										<Item_DataPoint_Score_Details Final_Score="2">
+											<Score Date_Time="20130809120847" Reader_ID="1221" Score_Value="2" Read_Number="1">
+											</Score>
+											<Score Date_Time="20130809120847" Reader_ID="1251" Score_Value="2" Read_Number="2">
+											</Score>
+										</Item_DataPoint_Score_Details>
+									</Item_Score_Details>
+								</Item_Details>
+							</Item_List>
+						</Student_Test_Details>
+					</Student_Test_List>
+				</Student_Details>
+				<Student_Details Ethnicity="W" IEP="N" LEP="N" Gender="F" Vendor_Student_ID="581193">
+					<Student_Test_List>
+						<Student_Test_Details Grade="5" Student_Test_ID="10227769">
+							<Item_List>
+								<Item_Details Score="Y" Item_ID="50868">
+									<Item_Response><![CDATA[
+I think the rule is fair because if the fifth grade students are disturbing the other people in the school that is not fair. i know when I was in a younger grade all the students were really loud. I could not consintrate on my work.        Now I am in fift
+h grade and all of the fifth grade does talk alot. Sometimes we even get in trouble by other teachers. Yes, I think this new school rule is fair.]]>
+									</Item_Response>
+									<Item_Score_Details>
+										<Item_DataPoint_Score_Details Final_Score="2">
+											<Score Date_Time="20130809120847" Reader_ID="1165" Score_Value="1" Read_Number="1">
+											</Score>
+											<Score Date_Time="20130809120847" Reader_ID="1385" Score_Value="2" Read_Number="2">
+											</Score>
+											<Score Date_Time="20130809120847" Reader_ID="1221" Score_Value="2" Read_Number="3">
+											</Score>
+										</Item_DataPoint_Score_Details>
+									</Item_Score_Details>
+								</Item_Details>
+							</Item_List>
+						</Student_Test_Details>
+					</Student_Test_List>
+				</Student_Details>
+				<Student_Details Ethnicity="W" IEP="N" LEP="N" Gender="M" Vendor_Student_ID="589668">
+					<Student_Test_List>
+						<Student_Test_Details Grade="5" Student_Test_ID="10227829">
+							<Item_List>
+								<Item_Details Score="Y" Item_ID="50868">
+									<Item_Response><![CDATA[
+I think this rule is totally not fair. I don't think it's fair because the teachers in my school almost always stop what they are doing in the hall to talk to another teacher and are pretty loud. So if this rule does go on I think the teachers also follow 
+it.  The part about the line I wouldn't really care.It's because it's not so bad to stand in a line but you could run into other people. But all together it's not fair because other kids won't have to follow it and they can just as easily talk loud and dis
+turb classes trying to listen.]]>
+									</Item_Response>
+									<Item_Score_Details>
+										<Item_DataPoint_Score_Details Final_Score="2">
+											<Score Date_Time="20130809120847" Reader_ID="1221" Score_Value="2" Read_Number="1">
+											</Score>
+											<Score Date_Time="20130809120847" Reader_ID="1251" Score_Value="1" Read_Number="2">
+											</Score>
+											<Score Date_Time="20130809120847" Reader_ID="1107" Score_Value="2" Read_Number="3">
+											</Score>
+										</Item_DataPoint_Score_Details>
+									</Item_Score_Details>
+								</Item_Details>
+							</Item_List>
+						</Student_Test_Details>
+					</Student_Test_List>
+				</Student_Details>
+				<Student_Details Ethnicity="NR" IEP="N" LEP="N" Gender="F" Vendor_Student_ID="589926">
+					<Student_Test_List>
+						<Student_Test_Details Grade="5" Student_Test_ID="10227832">
+							<Item_List>
+								<Item_Details Score="Y" Item_ID="50868">
+									<Item_Response><![CDATA[
+I believe that the new school rule is unfair. I think it's unfair because children should have the freedom to talk in hallways, and they're at the age where they do not have to stay in a single file line all the time. Although, the fifth graders should kno
+w that they cannot disturb teachers or students that are learning, because it's unfair for those who need to learn.]]>
+									</Item_Response>
+									<Item_Score_Details>
+										<Item_DataPoint_Score_Details Final_Score="2">
+											<Score Date_Time="20130809120847" Reader_ID="1221" Score_Value="2" Read_Number="1">
+											</Score>
+											<Score Date_Time="20130809120847" Reader_ID="1385" Score_Value="2" Read_Number="2">
+											</Score>
+										</Item_DataPoint_Score_Details>
+									</Item_Score_Details>
+								</Item_Details>
+							</Item_List>
+						</Student_Test_Details>
+					</Student_Test_List>
+				</Student_Details>
+				<Student_Details Ethnicity="W" IEP=" " LEP=" " Gender="M" Vendor_Student_ID="630808">
+					<Student_Test_List>
+						<Student_Test_Details Grade="5" Student_Test_ID="10227987">
+							<Item_List>
+								<Item_Details Score="Y" Item_ID="50868">
+									<Item_Response><![CDATA[
+I do not think that it is fair.  I don't think that people should feel the need to be loud in the hallways but I also think that just the fifth grade should be silent.  If people have to be silent in the halls, the whole school should have to do the same n
+ot just the fifth grade.  Every body should be able to talk softly in the halls.  Alomost the same thing for walking down the halls in a line.  The school should not just make the fifth grade do it, they should have to make the whole school do it.  It woul
+d be like military school if we had to walk down the halls in a line and silently]]>
+									</Item_Response>
+									<Item_Score_Details>
+										<Item_DataPoint_Score_Details Final_Score="2">
+											<Score Date_Time="20130809120847" Reader_ID="1385" Score_Value="1" Read_Number="1">
+											</Score>
+											<Score Date_Time="20130809120847" Reader_ID="1541" Score_Value="2" Read_Number="2">
+											</Score>
+											<Score Date_Time="20130809120847" Reader_ID="1221" Score_Value="2" Read_Number="3">
+											</Score>
+										</Item_DataPoint_Score_Details>
+									</Item_Score_Details>
+								</Item_Details>
+							</Item_List>
+						</Student_Test_Details>
+					</Student_Test_List>
+				</Student_Details>
+				<Student_Details Ethnicity="NR" IEP=" " LEP=" " Gender="F" Vendor_Student_ID="640390">
+					<Student_Test_List>
+						<Student_Test_Details Grade="5" Student_Test_ID="10228044">
+							<Item_List>
+								<Item_Details Score="Y" Item_ID="50868">
+									<Item_Response><![CDATA[
+I think that the new schoool rule is a great rule. I think that the new school rule is good because, you wont be disturbing classes while they are taking a test, doing a school project or learning something new. If students walk in a strait line then frien
+dds more than likely wouldn't be able to talk to each other because one person  is infront and one person is behind them. You would probably want to be next to each otjher when you are talking, not having to lean back. If you did lean back to listen to wha
+t someone is trying to say then you will get caught by the teacher.  in conclusion I think that the new school rule is a rewally good school rule because students will then be able to concentrate in classes and not have to shut there doors and then still b
+e able to hear the loud kids in the hallway.]]>
+									</Item_Response>
+									<Item_Score_Details>
+										<Item_DataPoint_Score_Details Final_Score="2">
+											<Score Date_Time="20130809120847" Reader_ID="1541" Score_Value="2" Read_Number="1">
+											</Score>
+											<Score Date_Time="20130809120847" Reader_ID="1161" Score_Value="2" Read_Number="2">
+											</Score>
+										</Item_DataPoint_Score_Details>
+									</Item_Score_Details>
+								</Item_Details>
+							</Item_List>
+						</Student_Test_Details>
+					</Student_Test_List>
+				</Student_Details>
+				<Student_Details Ethnicity="W" IEP="N" LEP="N" Gender="F" Vendor_Student_ID="670613">
+					<Student_Test_List>
+						<Student_Test_Details Grade="5" Student_Test_ID="10228196">
+							<Item_List>
+								<Item_Details Score="Y" Item_ID="50868">
+									<Item_Response><![CDATA[
+I think that the new school rule is fair because the fifth graders are role models to the younger grade levels. So if the fifth graders are talking in the hallways then the younger grade level will think that it is ok also ok to talk in the halls. Or the f
+ifth graders are in a big group walking down the hallways then the youngert grade levels will think it is ok to also walk in groups down the hall.]]>
+									</Item_Response>
+									<Item_Score_Details>
+										<Item_DataPoint_Score_Details Final_Score="2">
+											<Score Date_Time="20130809120847" Reader_ID="1251" Score_Value="2" Read_Number="1">
+											</Score>
+											<Score Date_Time="20130809120847" Reader_ID="1218" Score_Value="2" Read_Number="2">
+											</Score>
+										</Item_DataPoint_Score_Details>
+									</Item_Score_Details>
+								</Item_Details>
+							</Item_List>
+						</Student_Test_Details>
+					</Student_Test_List>
+				</Student_Details>
+				<Student_Details Ethnicity="H" IEP=" " LEP="Y" Gender="F" Vendor_Student_ID="696591">
+					<Student_Test_List>
+						<Student_Test_Details Grade="5" Student_Test_ID="10228302">
+							<Item_List>
+								<Item_Details Score="Y" Item_ID="50868">
+									<Item_Response><![CDATA[
+My opnion for the new school rule is that I think it's they should whisper.I know how it feels because i'm also a fifth graders and just because of that they think they are already six graders.There might be other classes that might do the same thing and t
+hey gaet mad.Also not just the fifth grader all the grades becaused it wouldn't be the same.That is what I think about the new school rule.                I think the school rule is not fair because they are just doing it for the fifth graders they should 
+do all the grades K-12.That is what I think they should do with all the school even pre school so they can learn soon.]]>
+									</Item_Response>
+									<Item_Score_Details>
+										<Item_DataPoint_Score_Details Final_Score="2">
+											<Score Date_Time="20130809120847" Reader_ID="1221" Score_Value="2" Read_Number="1">
+											</Score>
+											<Score Date_Time="20130809120847" Reader_ID="1541" Score_Value="2" Read_Number="2">
+											</Score>
+										</Item_DataPoint_Score_Details>
+									</Item_Score_Details>
+								</Item_Details>
+							</Item_List>
+						</Student_Test_Details>
+					</Student_Test_List>
+				</Student_Details>
+			</Student_List>
+		</Group_Details>
+	</Group_List>
+</Job_Details>

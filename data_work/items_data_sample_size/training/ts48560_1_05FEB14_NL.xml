@@ -1,0 +1,2035 @@
+<?xml version="1.0" encoding="UTF-8"?> 
+<Job_Details AI_Score_Provider_Name="AI-PJ" Date_Time="20140131093619" Case_Count="100">
+	<Group_List>
+		<Group_Details Case_Count="100">
+			<Student_List>
+				<Student_Details Ethnicity="W" IEP="N" LEP="N" Gender="F" Vendor_Student_ID="1004177">
+					<Student_Test_List>
+						<Student_Test_Details Grade="8" Student_Test_ID="10052013">
+							<Item_List>
+								<Item_Details Score="Y" Item_ID="48560">
+									<Item_Response><![CDATA[This is hard.]]>
+									</Item_Response>
+									<Item_Score_Details>
+										<Item_DataPoint_Score_Details Final_Score="N">
+											<Score Date_Time="20130809120847" Reader_ID="1663" Score_Value="0" Read_Number="1">
+											</Score>
+											<Score Date_Time="20130809120847" Reader_ID="1392" Condition_Code="N" Read_Number="2">
+											</Score>
+											<Score Date_Time="20130809120847" Reader_ID="1184" Condition_Code="R" Read_Number="3">
+											</Score>
+											<Score Date_Time="20130809120847" Reader_ID="1392" Condition_Code="N" Read_Number="5">
+											</Score>
+										</Item_DataPoint_Score_Details>
+									</Item_Score_Details>
+								</Item_Details>
+							</Item_List>
+						</Student_Test_Details>
+					</Student_Test_List>
+				</Student_Details>
+				<Student_Details Ethnicity="A" IEP="N" LEP="N" Gender="F" Vendor_Student_ID="709680">
+					<Student_Test_List>
+						<Student_Test_Details Grade="8" Student_Test_ID="10043413">
+							<Item_List>
+								<Item_Details Score="Y" Item_ID="48560">
+									<Item_Response><![CDATA[the skateboard because since there time is longer they can have the skateboards for a longer time an a cheaper price.]]>
+									</Item_Response>
+									<Item_Score_Details>
+										<Item_DataPoint_Score_Details Final_Score="0">
+											<Score Date_Time="20130809120847" Reader_ID="1741" Score_Value="0" Read_Number="1">
+											</Score>
+											<Score Date_Time="20130809120847" Reader_ID="1271" Score_Value="0" Read_Number="2">
+											</Score>
+										</Item_DataPoint_Score_Details>
+									</Item_Score_Details>
+								</Item_Details>
+							</Item_List>
+						</Student_Test_Details>
+					</Student_Test_List>
+				</Student_Details>
+				<Student_Details Ethnicity="B" IEP="N" LEP="N" Gender="M" Vendor_Student_ID="709682">
+					<Student_Test_List>
+						<Student_Test_Details Grade="8" Student_Test_ID="10043415">
+							<Item_List>
+								<Item_Details Score="Y" Item_ID="48560">
+									<Item_Response><![CDATA[bike]]>
+									</Item_Response>
+									<Item_Score_Details>
+										<Item_DataPoint_Score_Details Final_Score="0">
+											<Score Date_Time="20130809120847" Reader_ID="1256" Score_Value="0" Read_Number="1">
+											</Score>
+											<Score Date_Time="20130809120847" Reader_ID="1396" Score_Value="0" Read_Number="2">
+											</Score>
+										</Item_DataPoint_Score_Details>
+									</Item_Score_Details>
+								</Item_Details>
+							</Item_List>
+						</Student_Test_Details>
+					</Student_Test_List>
+				</Student_Details>
+				<Student_Details Ethnicity="B" IEP="N" LEP="N" Gender="M" Vendor_Student_ID="711125">
+					<Student_Test_List>
+						<Student_Test_Details Grade="8" Student_Test_ID="10043582">
+							<Item_List>
+								<Item_Details Score="Y" Item_ID="48560">
+									<Item_Response><![CDATA[bike and helmet]]>
+									</Item_Response>
+									<Item_Score_Details>
+										<Item_DataPoint_Score_Details Final_Score="0">
+											<Score Date_Time="20130809120847" Reader_ID="1741" Score_Value="0" Read_Number="1">
+											</Score>
+											<Score Date_Time="20130809120847" Reader_ID="1271" Score_Value="0" Read_Number="2">
+											</Score>
+										</Item_DataPoint_Score_Details>
+									</Item_Score_Details>
+								</Item_Details>
+							</Item_List>
+						</Student_Test_Details>
+					</Student_Test_List>
+				</Student_Details>
+				<Student_Details Ethnicity="H" IEP=" " LEP=" " Gender="M" Vendor_Student_ID="711427">
+					<Student_Test_List>
+						<Student_Test_Details Grade="8" Student_Test_ID="10043591">
+							<Item_List>
+								<Item_Details Score="Y" Item_ID="48560">
+									<Item_Response><![CDATA[one of the students should rent a bike]]>
+									</Item_Response>
+									<Item_Score_Details>
+										<Item_DataPoint_Score_Details Final_Score="0">
+											<Score Date_Time="20130809120847" Reader_ID="1396" Score_Value="0" Read_Number="1">
+											</Score>
+											<Score Date_Time="20130809120847" Reader_ID="1290" Score_Value="0" Read_Number="2">
+											</Score>
+										</Item_DataPoint_Score_Details>
+									</Item_Score_Details>
+								</Item_Details>
+							</Item_List>
+						</Student_Test_Details>
+					</Student_Test_List>
+				</Student_Details>
+				<Student_Details Ethnicity="W" IEP="N" LEP="N" Gender="M" Vendor_Student_ID="711709">
+					<Student_Test_List>
+						<Student_Test_Details Grade="8" Student_Test_ID="10043592">
+							<Item_List>
+								<Item_Details Score="Y" Item_ID="48560">
+									<Item_Response><![CDATA[skateboard]]>
+									</Item_Response>
+									<Item_Score_Details>
+										<Item_DataPoint_Score_Details Final_Score="0">
+											<Score Date_Time="20130809120847" Reader_ID="1290" Score_Value="0" Read_Number="1">
+											</Score>
+											<Score Date_Time="20130809120847" Reader_ID="1199" Score_Value="0" Read_Number="2">
+											</Score>
+										</Item_DataPoint_Score_Details>
+									</Item_Score_Details>
+								</Item_Details>
+							</Item_List>
+						</Student_Test_Details>
+					</Student_Test_List>
+				</Student_Details>
+				<Student_Details Ethnicity="W" IEP="N" LEP="N" Gender="F" Vendor_Student_ID="711752">
+					<Student_Test_List>
+						<Student_Test_Details Grade="8" Student_Test_ID="10043593">
+							<Item_List>
+								<Item_Details Score="Y" Item_ID="48560">
+									<Item_Response><![CDATA[either one]]>
+									</Item_Response>
+									<Item_Score_Details>
+										<Item_DataPoint_Score_Details Final_Score="0">
+											<Score Date_Time="20130809120847" Reader_ID="1663" Score_Value="1" Read_Number="1">
+											</Score>
+											<Score Date_Time="20130809120847" Reader_ID="1396" Score_Value="0" Read_Number="2">
+											</Score>
+											<Score Date_Time="20130809120847" Reader_ID="1261" Score_Value="0" Read_Number="3">
+											</Score>
+										</Item_DataPoint_Score_Details>
+									</Item_Score_Details>
+								</Item_Details>
+							</Item_List>
+						</Student_Test_Details>
+					</Student_Test_List>
+				</Student_Details>
+				<Student_Details Ethnicity="H" IEP="N" LEP="N" Gender="F" Vendor_Student_ID="711971">
+					<Student_Test_List>
+						<Student_Test_Details Grade="8" Student_Test_ID="10043597">
+							<Item_List>
+								<Item_Details Score="Y" Item_ID="48560">
+									<Item_Response><![CDATA[the bike because it only costs 3 dollars an hour for how many hours you want]]>
+									</Item_Response>
+									<Item_Score_Details>
+										<Item_DataPoint_Score_Details Final_Score="0">
+											<Score Date_Time="20130809120847" Reader_ID="1741" Score_Value="0" Read_Number="1">
+											</Score>
+											<Score Date_Time="20130809120847" Reader_ID="1392" Score_Value="0" Read_Number="2">
+											</Score>
+										</Item_DataPoint_Score_Details>
+									</Item_Score_Details>
+								</Item_Details>
+							</Item_List>
+						</Student_Test_Details>
+					</Student_Test_List>
+				</Student_Details>
+				<Student_Details Ethnicity="I" IEP="N" LEP="N" Gender="M" Vendor_Student_ID="712064">
+					<Student_Test_List>
+						<Student_Test_Details Grade="8" Student_Test_ID="10043599">
+							<Item_List>
+								<Item_Details Score="Y" Item_ID="48560">
+									<Item_Response><![CDATA[Skateboard rental]]>
+									</Item_Response>
+									<Item_Score_Details>
+										<Item_DataPoint_Score_Details Final_Score="0">
+											<Score Date_Time="20130809120847" Reader_ID="1396" Score_Value="0" Read_Number="1">
+											</Score>
+											<Score Date_Time="20130809120847" Reader_ID="1271" Score_Value="0" Read_Number="2">
+											</Score>
+										</Item_DataPoint_Score_Details>
+									</Item_Score_Details>
+								</Item_Details>
+							</Item_List>
+						</Student_Test_Details>
+					</Student_Test_List>
+				</Student_Details>
+				<Student_Details Ethnicity="NR" IEP=" " LEP=" " Gender="M" Vendor_Student_ID="714157">
+					<Student_Test_List>
+						<Student_Test_Details Grade="8" Student_Test_ID="10044124">
+							<Item_List>
+								<Item_Details Score="Y" Item_ID="48560">
+									<Item_Response><![CDATA[bike]]>
+									</Item_Response>
+									<Item_Score_Details>
+										<Item_DataPoint_Score_Details Final_Score="0">
+											<Score Date_Time="20130809120847" Reader_ID="1199" Score_Value="0" Read_Number="1">
+											</Score>
+											<Score Date_Time="20130809120847" Reader_ID="2041" Score_Value="0" Read_Number="2">
+											</Score>
+										</Item_DataPoint_Score_Details>
+									</Item_Score_Details>
+								</Item_Details>
+							</Item_List>
+						</Student_Test_Details>
+					</Student_Test_List>
+				</Student_Details>
+				<Student_Details Ethnicity="W" IEP="Y" LEP=" " Gender="M" Vendor_Student_ID="717401">
+					<Student_Test_List>
+						<Student_Test_Details Grade="8" Student_Test_ID="10044647">
+							<Item_List>
+								<Item_Details Score="Y" Item_ID="48560">
+									<Item_Response><![CDATA[bike]]>
+									</Item_Response>
+									<Item_Score_Details>
+										<Item_DataPoint_Score_Details Final_Score="0">
+											<Score Date_Time="20130809120847" Reader_ID="1271" Score_Value="0" Read_Number="1">
+											</Score>
+											<Score Date_Time="20130809120847" Reader_ID="1396" Score_Value="0" Read_Number="2">
+											</Score>
+										</Item_DataPoint_Score_Details>
+									</Item_Score_Details>
+								</Item_Details>
+							</Item_List>
+						</Student_Test_Details>
+					</Student_Test_List>
+				</Student_Details>
+				<Student_Details Ethnicity="NR" IEP=" " LEP=" " Gender="F" Vendor_Student_ID="720041">
+					<Student_Test_List>
+						<Student_Test_Details Grade="8" Student_Test_ID="10044776">
+							<Item_List>
+								<Item_Details Score="Y" Item_ID="48560">
+									<Item_Response><![CDATA[bikebike and skateboard]]>
+									</Item_Response>
+									<Item_Score_Details>
+										<Item_DataPoint_Score_Details Final_Score="0">
+											<Score Date_Time="20130809120847" Reader_ID="1396" Score_Value="0" Read_Number="1">
+											</Score>
+											<Score Date_Time="20130809120847" Reader_ID="1271" Score_Value="1" Read_Number="2">
+											</Score>
+											<Score Date_Time="20130809120847" Reader_ID="1256" Score_Value="0" Read_Number="3">
+											</Score>
+										</Item_DataPoint_Score_Details>
+									</Item_Score_Details>
+								</Item_Details>
+							</Item_List>
+						</Student_Test_Details>
+					</Student_Test_List>
+				</Student_Details>
+				<Student_Details Ethnicity="W" IEP="N" LEP="N" Gender="F" Vendor_Student_ID="721063">
+					<Student_Test_List>
+						<Student_Test_Details Grade="8" Student_Test_ID="10044830">
+							<Item_List>
+								<Item_Details Score="Y" Item_ID="48560">
+									<Item_Response><![CDATA[skateboard]]>
+									</Item_Response>
+									<Item_Score_Details>
+										<Item_DataPoint_Score_Details Final_Score="0">
+											<Score Date_Time="20130809120847" Reader_ID="1396" Score_Value="0" Read_Number="1">
+											</Score>
+											<Score Date_Time="20130809120847" Reader_ID="1261" Score_Value="0" Read_Number="2">
+											</Score>
+										</Item_DataPoint_Score_Details>
+									</Item_Score_Details>
+								</Item_Details>
+							</Item_List>
+						</Student_Test_Details>
+					</Student_Test_List>
+				</Student_Details>
+				<Student_Details Ethnicity="W" IEP="N" LEP="N" Gender="F" Vendor_Student_ID="724871">
+					<Student_Test_List>
+						<Student_Test_Details Grade="8" Student_Test_ID="10044896">
+							<Item_List>
+								<Item_Details Score="Y" Item_ID="48560">
+									<Item_Response><![CDATA[If the students are planning on riding for under five hours they should go with renting skateboards because they are a dollar cheaper than bike rentals per hour.]]>
+									</Item_Response>
+									<Item_Score_Details>
+										<Item_DataPoint_Score_Details Final_Score="0">
+											<Score Date_Time="20130809120847" Reader_ID="1741" Score_Value="0" Read_Number="1">
+											</Score>
+											<Score Date_Time="20130809120847" Reader_ID="1396" Score_Value="0" Read_Number="2">
+											</Score>
+										</Item_DataPoint_Score_Details>
+									</Item_Score_Details>
+								</Item_Details>
+							</Item_List>
+						</Student_Test_Details>
+					</Student_Test_List>
+				</Student_Details>
+				<Student_Details Ethnicity="NR" IEP=" " LEP=" " Gender="M" Vendor_Student_ID="727336">
+					<Student_Test_List>
+						<Student_Test_Details Grade="8" Student_Test_ID="10044987">
+							<Item_List>
+								<Item_Details Score="Y" Item_ID="48560">
+									<Item_Response><![CDATA[NEITHER]]>
+									</Item_Response>
+									<Item_Score_Details>
+										<Item_DataPoint_Score_Details Final_Score="0">
+											<Score Date_Time="20130809120847" Reader_ID="1396" Score_Value="0" Read_Number="1">
+											</Score>
+											<Score Date_Time="20130809120847" Reader_ID="1392" Score_Value="0" Read_Number="2">
+											</Score>
+										</Item_DataPoint_Score_Details>
+									</Item_Score_Details>
+								</Item_Details>
+							</Item_List>
+						</Student_Test_Details>
+					</Student_Test_List>
+				</Student_Details>
+				<Student_Details Ethnicity="B" IEP=" " LEP=" " Gender="M" Vendor_Student_ID="729228">
+					<Student_Test_List>
+						<Student_Test_Details Grade="8" Student_Test_ID="10045022">
+							<Item_List>
+								<Item_Details Score="Y" Item_ID="48560">
+									<Item_Response><![CDATA[it does not matter]]>
+									</Item_Response>
+									<Item_Score_Details>
+										<Item_DataPoint_Score_Details Final_Score="0">
+											<Score Date_Time="20130809120847" Reader_ID="1663" Score_Value="1" Read_Number="1">
+											</Score>
+											<Score Date_Time="20130809120847" Reader_ID="1199" Score_Value="0" Read_Number="2">
+											</Score>
+											<Score Date_Time="20130809120847" Reader_ID="1392" Score_Value="0" Read_Number="3">
+											</Score>
+										</Item_DataPoint_Score_Details>
+									</Item_Score_Details>
+								</Item_Details>
+							</Item_List>
+						</Student_Test_Details>
+					</Student_Test_List>
+				</Student_Details>
+				<Student_Details Ethnicity="H" IEP=" " LEP=" " Gender="F" Vendor_Student_ID="736909">
+					<Student_Test_List>
+						<Student_Test_Details Grade="8" Student_Test_ID="10045125">
+							<Item_List>
+								<Item_Details Score="Y" Item_ID="48560">
+									<Item_Response><![CDATA[if the students are planning to ride more than 5 hours then they should rent bikes.]]>
+									</Item_Response>
+									<Item_Score_Details>
+										<Item_DataPoint_Score_Details Final_Score="0">
+											<Score Date_Time="20130809120847" Reader_ID="1271" Score_Value="0" Read_Number="1">
+											</Score>
+											<Score Date_Time="20130809120847" Reader_ID="1392" Score_Value="0" Read_Number="2">
+											</Score>
+										</Item_DataPoint_Score_Details>
+									</Item_Score_Details>
+								</Item_Details>
+							</Item_List>
+						</Student_Test_Details>
+					</Student_Test_List>
+				</Student_Details>
+				<Student_Details Ethnicity="H" IEP="N" LEP="N" Gender="M" Vendor_Student_ID="742894">
+					<Student_Test_List>
+						<Student_Test_Details Grade="8" Student_Test_ID="10045196">
+							<Item_List>
+								<Item_Details Score="Y" Item_ID="48560">
+									<Item_Response><![CDATA[skateboard]]>
+									</Item_Response>
+									<Item_Score_Details>
+										<Item_DataPoint_Score_Details Final_Score="0">
+											<Score Date_Time="20130809120847" Reader_ID="2041" Score_Value="0" Read_Number="1">
+											</Score>
+											<Score Date_Time="20130809120847" Reader_ID="1199" Score_Value="0" Read_Number="2">
+											</Score>
+										</Item_DataPoint_Score_Details>
+									</Item_Score_Details>
+								</Item_Details>
+							</Item_List>
+						</Student_Test_Details>
+					</Student_Test_List>
+				</Student_Details>
+				<Student_Details Ethnicity="H" IEP="N" LEP="N" Gender="F" Vendor_Student_ID="745832">
+					<Student_Test_List>
+						<Student_Test_Details Grade="8" Student_Test_ID="10045235">
+							<Item_List>
+								<Item_Details Score="Y" Item_ID="48560">
+									<Item_Response><![CDATA[The skateboard]]>
+									</Item_Response>
+									<Item_Score_Details>
+										<Item_DataPoint_Score_Details Final_Score="0">
+											<Score Date_Time="20130809120847" Reader_ID="1663" Score_Value="0" Read_Number="1">
+											</Score>
+											<Score Date_Time="20130809120847" Reader_ID="2041" Score_Value="0" Read_Number="2">
+											</Score>
+										</Item_DataPoint_Score_Details>
+									</Item_Score_Details>
+								</Item_Details>
+							</Item_List>
+						</Student_Test_Details>
+					</Student_Test_List>
+				</Student_Details>
+				<Student_Details Ethnicity="NR" IEP="N" LEP="N" Gender="M" Vendor_Student_ID="750602">
+					<Student_Test_List>
+						<Student_Test_Details Grade="8" Student_Test_ID="10045485">
+							<Item_List>
+								<Item_Details Score="Y" Item_ID="48560">
+									<Item_Response><![CDATA[skateboard]]>
+									</Item_Response>
+									<Item_Score_Details>
+										<Item_DataPoint_Score_Details Final_Score="0">
+											<Score Date_Time="20130809120847" Reader_ID="1396" Score_Value="0" Read_Number="1">
+											</Score>
+											<Score Date_Time="20130809120847" Reader_ID="1741" Score_Value="0" Read_Number="2">
+											</Score>
+										</Item_DataPoint_Score_Details>
+									</Item_Score_Details>
+								</Item_Details>
+							</Item_List>
+						</Student_Test_Details>
+					</Student_Test_List>
+				</Student_Details>
+				<Student_Details Ethnicity="NR" IEP="N" LEP="N" Gender="F" Vendor_Student_ID="750650">
+					<Student_Test_List>
+						<Student_Test_Details Grade="8" Student_Test_ID="10045487">
+							<Item_List>
+								<Item_Details Score="Y" Item_ID="48560">
+									<Item_Response><![CDATA[40.00]]>
+									</Item_Response>
+									<Item_Score_Details>
+										<Item_DataPoint_Score_Details Final_Score="0">
+											<Score Date_Time="20130809120847" Reader_ID="1741" Score_Value="0" Read_Number="1">
+											</Score>
+											<Score Date_Time="20130809120847" Reader_ID="1271" Score_Value="0" Read_Number="2">
+											</Score>
+										</Item_DataPoint_Score_Details>
+									</Item_Score_Details>
+								</Item_Details>
+							</Item_List>
+						</Student_Test_Details>
+					</Student_Test_List>
+				</Student_Details>
+				<Student_Details Ethnicity="H" IEP="N" LEP="Y" Gender="F" Vendor_Student_ID="753511">
+					<Student_Test_List>
+						<Student_Test_Details Grade="8" Student_Test_ID="10045557">
+							<Item_List>
+								<Item_Details Score="Y" Item_ID="48560">
+									<Item_Response><![CDATA[skateboard 2dollar per hour]]>
+									</Item_Response>
+									<Item_Score_Details>
+										<Item_DataPoint_Score_Details Final_Score="0">
+											<Score Date_Time="20130809120847" Reader_ID="1271" Score_Value="0" Read_Number="1">
+											</Score>
+											<Score Date_Time="20130809120847" Reader_ID="1396" Score_Value="0" Read_Number="2">
+											</Score>
+										</Item_DataPoint_Score_Details>
+									</Item_Score_Details>
+								</Item_Details>
+							</Item_List>
+						</Student_Test_Details>
+					</Student_Test_List>
+				</Student_Details>
+				<Student_Details Ethnicity="NR" IEP="Y" LEP=" " Gender="M" Vendor_Student_ID="754383">
+					<Student_Test_List>
+						<Student_Test_Details Grade="8" Student_Test_ID="10045731">
+							<Item_List>
+								<Item_Details Score="Y" Item_ID="48560">
+									<Item_Response><![CDATA[skatboard]]>
+									</Item_Response>
+									<Item_Score_Details>
+										<Item_DataPoint_Score_Details Final_Score="0">
+											<Score Date_Time="20130809120847" Reader_ID="1290" Score_Value="0" Read_Number="1">
+											</Score>
+											<Score Date_Time="20130809120847" Reader_ID="1199" Score_Value="0" Read_Number="2">
+											</Score>
+										</Item_DataPoint_Score_Details>
+									</Item_Score_Details>
+								</Item_Details>
+							</Item_List>
+						</Student_Test_Details>
+					</Student_Test_List>
+				</Student_Details>
+				<Student_Details Ethnicity="NR" IEP="Y" LEP=" " Gender="M" Vendor_Student_ID="754430">
+					<Student_Test_List>
+						<Student_Test_Details Grade="8" Student_Test_ID="10045732">
+							<Item_List>
+								<Item_Details Score="Y" Item_ID="48560">
+									<Item_Response><![CDATA[Helment]]>
+									</Item_Response>
+									<Item_Score_Details>
+										<Item_DataPoint_Score_Details Final_Score="0">
+											<Score Date_Time="20130809120847" Reader_ID="1663" Score_Value="0" Read_Number="1">
+											</Score>
+											<Score Date_Time="20130809120847" Reader_ID="1392" Score_Value="0" Read_Number="2">
+											</Score>
+										</Item_DataPoint_Score_Details>
+									</Item_Score_Details>
+								</Item_Details>
+							</Item_List>
+						</Student_Test_Details>
+					</Student_Test_List>
+				</Student_Details>
+				<Student_Details Ethnicity="B" IEP="N" LEP="N" Gender="M" Vendor_Student_ID="754596">
+					<Student_Test_List>
+						<Student_Test_Details Grade="8" Student_Test_ID="10045734">
+							<Item_List>
+								<Item_Details Score="Y" Item_ID="48560">
+									<Item_Response><![CDATA[Skateboard]]>
+									</Item_Response>
+									<Item_Score_Details>
+										<Item_DataPoint_Score_Details Final_Score="0">
+											<Score Date_Time="20130809120847" Reader_ID="1199" Score_Value="0" Read_Number="1">
+											</Score>
+											<Score Date_Time="20130809120847" Reader_ID="1663" Score_Value="0" Read_Number="2">
+											</Score>
+										</Item_DataPoint_Score_Details>
+									</Item_Score_Details>
+								</Item_Details>
+							</Item_List>
+						</Student_Test_Details>
+					</Student_Test_List>
+				</Student_Details>
+				<Student_Details Ethnicity="W" IEP="N" LEP="N" Gender="F" Vendor_Student_ID="757523">
+					<Student_Test_List>
+						<Student_Test_Details Grade="8" Student_Test_ID="10045866">
+							<Item_List>
+								<Item_Details Score="Y" Item_ID="48560">
+									<Item_Response><![CDATA[bike]]>
+									</Item_Response>
+									<Item_Score_Details>
+										<Item_DataPoint_Score_Details Final_Score="0">
+											<Score Date_Time="20130809120847" Reader_ID="1663" Score_Value="0" Read_Number="1">
+											</Score>
+											<Score Date_Time="20130809120847" Reader_ID="1271" Score_Value="0" Read_Number="2">
+											</Score>
+										</Item_DataPoint_Score_Details>
+									</Item_Score_Details>
+								</Item_Details>
+							</Item_List>
+						</Student_Test_Details>
+					</Student_Test_List>
+				</Student_Details>
+				<Student_Details Ethnicity="H" IEP="N" LEP="N" Gender="F" Vendor_Student_ID="769588">
+					<Student_Test_List>
+						<Student_Test_Details Grade="8" Student_Test_ID="10045967">
+							<Item_List>
+								<Item_Details Score="Y" Item_ID="48560">
+									<Item_Response><![CDATA[a skateboard because they still end up paying less because its less per hour]]>
+									</Item_Response>
+									<Item_Score_Details>
+										<Item_DataPoint_Score_Details Final_Score="0">
+											<Score Date_Time="20130809120847" Reader_ID="1396" Score_Value="0" Read_Number="1">
+											</Score>
+											<Score Date_Time="20130809120847" Reader_ID="1271" Score_Value="0" Read_Number="2">
+											</Score>
+										</Item_DataPoint_Score_Details>
+									</Item_Score_Details>
+								</Item_Details>
+							</Item_List>
+						</Student_Test_Details>
+					</Student_Test_List>
+				</Student_Details>
+				<Student_Details Ethnicity="H" IEP="N" LEP="Y" Gender="M" Vendor_Student_ID="775524">
+					<Student_Test_List>
+						<Student_Test_Details Grade="8" Student_Test_ID="10046636">
+							<Item_List>
+								<Item_Details Score="Y" Item_ID="48560">
+									<Item_Response><![CDATA[the bike]]>
+									</Item_Response>
+									<Item_Score_Details>
+										<Item_DataPoint_Score_Details Final_Score="0">
+											<Score Date_Time="20130809120847" Reader_ID="1199" Score_Value="0" Read_Number="1">
+											</Score>
+											<Score Date_Time="20130809120847" Reader_ID="1392" Score_Value="0" Read_Number="2">
+											</Score>
+										</Item_DataPoint_Score_Details>
+									</Item_Score_Details>
+								</Item_Details>
+							</Item_List>
+						</Student_Test_Details>
+					</Student_Test_List>
+				</Student_Details>
+				<Student_Details Ethnicity="B" IEP=" " LEP=" " Gender="F" Vendor_Student_ID="791479">
+					<Student_Test_List>
+						<Student_Test_Details Grade="8" Student_Test_ID="10046974">
+							<Item_List>
+								<Item_Details Score="Y" Item_ID="48560">
+									<Item_Response><![CDATA[The bike]]>
+									</Item_Response>
+									<Item_Score_Details>
+										<Item_DataPoint_Score_Details Final_Score="0">
+											<Score Date_Time="20130809120847" Reader_ID="1271" Score_Value="0" Read_Number="1">
+											</Score>
+											<Score Date_Time="20130809120847" Reader_ID="1392" Score_Value="0" Read_Number="2">
+											</Score>
+										</Item_DataPoint_Score_Details>
+									</Item_Score_Details>
+								</Item_Details>
+							</Item_List>
+						</Student_Test_Details>
+					</Student_Test_List>
+				</Student_Details>
+				<Student_Details Ethnicity="B" IEP="N" LEP="N" Gender="M" Vendor_Student_ID="796165">
+					<Student_Test_List>
+						<Student_Test_Details Grade="8" Student_Test_ID="10046984">
+							<Item_List>
+								<Item_Details Score="Y" Item_ID="48560">
+									<Item_Response><![CDATA[The bikers.]]>
+									</Item_Response>
+									<Item_Score_Details>
+										<Item_DataPoint_Score_Details Final_Score="0">
+											<Score Date_Time="20130809120847" Reader_ID="1741" Score_Value="0" Read_Number="1">
+											</Score>
+											<Score Date_Time="20130809120847" Reader_ID="1392" Score_Value="0" Read_Number="2">
+											</Score>
+										</Item_DataPoint_Score_Details>
+									</Item_Score_Details>
+								</Item_Details>
+							</Item_List>
+						</Student_Test_Details>
+					</Student_Test_List>
+				</Student_Details>
+				<Student_Details Ethnicity="W" IEP="Y" LEP=" " Gender="F" Vendor_Student_ID="797671">
+					<Student_Test_List>
+						<Student_Test_Details Grade="8" Student_Test_ID="10046989">
+							<Item_List>
+								<Item_Details Score="Y" Item_ID="48560">
+									<Item_Response><![CDATA[skateborad rental]]>
+									</Item_Response>
+									<Item_Score_Details>
+										<Item_DataPoint_Score_Details Final_Score="0">
+											<Score Date_Time="20130809120847" Reader_ID="1396" Score_Value="0" Read_Number="1">
+											</Score>
+											<Score Date_Time="20130809120847" Reader_ID="1741" Score_Value="0" Read_Number="2">
+											</Score>
+										</Item_DataPoint_Score_Details>
+									</Item_Score_Details>
+								</Item_Details>
+							</Item_List>
+						</Student_Test_Details>
+					</Student_Test_List>
+				</Student_Details>
+				<Student_Details Ethnicity="NR" IEP="N" LEP="N" Gender="F" Vendor_Student_ID="809925">
+					<Student_Test_List>
+						<Student_Test_Details Grade="8" Student_Test_ID="10047306">
+							<Item_List>
+								<Item_Details Score="Y" Item_ID="48560">
+									<Item_Response><![CDATA[The bike riders.]]>
+									</Item_Response>
+									<Item_Score_Details>
+										<Item_DataPoint_Score_Details Final_Score="0">
+											<Score Date_Time="20130809120847" Reader_ID="1290" Score_Value="0" Read_Number="1">
+											</Score>
+											<Score Date_Time="20130809120847" Reader_ID="1271" Score_Value="0" Read_Number="2">
+											</Score>
+										</Item_DataPoint_Score_Details>
+									</Item_Score_Details>
+								</Item_Details>
+							</Item_List>
+						</Student_Test_Details>
+					</Student_Test_List>
+				</Student_Details>
+				<Student_Details Ethnicity="NR" IEP=" " LEP=" " Gender="M" Vendor_Student_ID="810070">
+					<Student_Test_List>
+						<Student_Test_Details Grade="8" Student_Test_ID="10047307">
+							<Item_List>
+								<Item_Details Score="Y" Item_ID="48560">
+									<Item_Response><![CDATA[bike]]>
+									</Item_Response>
+									<Item_Score_Details>
+										<Item_DataPoint_Score_Details Final_Score="0">
+											<Score Date_Time="20130809120847" Reader_ID="1199" Score_Value="0" Read_Number="1">
+											</Score>
+											<Score Date_Time="20130809120847" Reader_ID="1392" Score_Value="0" Read_Number="2">
+											</Score>
+										</Item_DataPoint_Score_Details>
+									</Item_Score_Details>
+								</Item_Details>
+							</Item_List>
+						</Student_Test_Details>
+					</Student_Test_List>
+				</Student_Details>
+				<Student_Details Ethnicity="W" IEP="N" LEP="N" Gender="M" Vendor_Student_ID="811963">
+					<Student_Test_List>
+						<Student_Test_Details Grade="8" Student_Test_ID="10047528">
+							<Item_List>
+								<Item_Details Score="Y" Item_ID="48560">
+									<Item_Response><![CDATA[I dont know you tell me]]>
+									</Item_Response>
+									<Item_Score_Details>
+										<Item_DataPoint_Score_Details Final_Score="N">
+											<Score Date_Time="20130809120847" Reader_ID="1290" Condition_Code="N" Read_Number="1">
+											</Score>
+											<Score Date_Time="20130809120847" Reader_ID="1663" Condition_Code="N" Read_Number="2">
+											</Score>
+											<Score Date_Time="20130809120847" Reader_ID="1290" Condition_Code="N" Read_Number="5">
+											</Score>
+										</Item_DataPoint_Score_Details>
+									</Item_Score_Details>
+								</Item_Details>
+							</Item_List>
+						</Student_Test_Details>
+					</Student_Test_List>
+				</Student_Details>
+				<Student_Details Ethnicity="B" IEP=" " LEP=" " Gender="M" Vendor_Student_ID="814018">
+					<Student_Test_List>
+						<Student_Test_Details Grade="8" Student_Test_ID="10047554">
+							<Item_List>
+								<Item_Details Score="Y" Item_ID="48560">
+									<Item_Response><![CDATA[He should rent the bike because he is riding for 5 hours and the bike rental is only $8.00.]]>
+									</Item_Response>
+									<Item_Score_Details>
+										<Item_DataPoint_Score_Details Final_Score="0">
+											<Score Date_Time="20130809120847" Reader_ID="1290" Score_Value="0" Read_Number="1">
+											</Score>
+											<Score Date_Time="20130809120847" Reader_ID="1199" Score_Value="0" Read_Number="2">
+											</Score>
+										</Item_DataPoint_Score_Details>
+									</Item_Score_Details>
+								</Item_Details>
+							</Item_List>
+						</Student_Test_Details>
+					</Student_Test_List>
+				</Student_Details>
+				<Student_Details Ethnicity="H" IEP=" " LEP=" " Gender="M" Vendor_Student_ID="815947">
+					<Student_Test_List>
+						<Student_Test_Details Grade="8" Student_Test_ID="10047597">
+							<Item_List>
+								<Item_Details Score="Y" Item_ID="48560">
+									<Item_Response><![CDATA[6]]>
+									</Item_Response>
+									<Item_Score_Details>
+										<Item_DataPoint_Score_Details Final_Score="0">
+											<Score Date_Time="20130809120847" Reader_ID="1261" Score_Value="0" Read_Number="1">
+											</Score>
+											<Score Date_Time="20130809120847" Reader_ID="1256" Score_Value="0" Read_Number="2">
+											</Score>
+										</Item_DataPoint_Score_Details>
+									</Item_Score_Details>
+								</Item_Details>
+							</Item_List>
+						</Student_Test_Details>
+					</Student_Test_List>
+				</Student_Details>
+				<Student_Details Ethnicity="NR" IEP=" " LEP=" " Gender="F" Vendor_Student_ID="818447">
+					<Student_Test_List>
+						<Student_Test_Details Grade="8" Student_Test_ID="10047764">
+							<Item_List>
+								<Item_Details Score="Y" Item_ID="48560">
+									<Item_Response><![CDATA[The skateboard still becasue you get the helmet and the pads.]]>
+									</Item_Response>
+									<Item_Score_Details>
+										<Item_DataPoint_Score_Details Final_Score="0">
+											<Score Date_Time="20130809120847" Reader_ID="1663" Score_Value="0" Read_Number="1">
+											</Score>
+											<Score Date_Time="20130809120847" Reader_ID="1271" Score_Value="0" Read_Number="2">
+											</Score>
+										</Item_DataPoint_Score_Details>
+									</Item_Score_Details>
+								</Item_Details>
+							</Item_List>
+						</Student_Test_Details>
+					</Student_Test_List>
+				</Student_Details>
+				<Student_Details Ethnicity="W" IEP="N" LEP="N" Gender="M" Vendor_Student_ID="818676">
+					<Student_Test_List>
+						<Student_Test_Details Grade="8" Student_Test_ID="10047768">
+							<Item_List>
+								<Item_Details Score="Y" Item_ID="48560">
+									<Item_Response><![CDATA[the bikes. they are still the cheapest]]>
+									</Item_Response>
+									<Item_Score_Details>
+										<Item_DataPoint_Score_Details Final_Score="0">
+											<Score Date_Time="20130809120847" Reader_ID="2041" Score_Value="0" Read_Number="1">
+											</Score>
+											<Score Date_Time="20130809120847" Reader_ID="1271" Score_Value="0" Read_Number="2">
+											</Score>
+										</Item_DataPoint_Score_Details>
+									</Item_Score_Details>
+								</Item_Details>
+							</Item_List>
+						</Student_Test_Details>
+					</Student_Test_List>
+				</Student_Details>
+				<Student_Details Ethnicity="W" IEP="N" LEP="N" Gender="M" Vendor_Student_ID="819900">
+					<Student_Test_List>
+						<Student_Test_Details Grade="8" Student_Test_ID="10047951">
+							<Item_List>
+								<Item_Details Score="Y" Item_ID="48560">
+									<Item_Response><![CDATA[bike]]>
+									</Item_Response>
+									<Item_Score_Details>
+										<Item_DataPoint_Score_Details Final_Score="0">
+											<Score Date_Time="20130809120847" Reader_ID="1199" Score_Value="0" Read_Number="1">
+											</Score>
+											<Score Date_Time="20130809120847" Reader_ID="1741" Score_Value="0" Read_Number="2">
+											</Score>
+										</Item_DataPoint_Score_Details>
+									</Item_Score_Details>
+								</Item_Details>
+							</Item_List>
+						</Student_Test_Details>
+					</Student_Test_List>
+				</Student_Details>
+				<Student_Details Ethnicity="W" IEP="N" LEP="N" Gender="M" Vendor_Student_ID="820067">
+					<Student_Test_List>
+						<Student_Test_Details Grade="8" Student_Test_ID="10047958">
+							<Item_List>
+								<Item_Details Score="Y" Item_ID="48560">
+									<Item_Response><![CDATA[IT WILL BE $43.00]]>
+									</Item_Response>
+									<Item_Score_Details>
+										<Item_DataPoint_Score_Details Final_Score="0">
+											<Score Date_Time="20130809120847" Reader_ID="1199" Score_Value="0" Read_Number="1">
+											</Score>
+											<Score Date_Time="20130809120847" Reader_ID="1741" Score_Value="0" Read_Number="2">
+											</Score>
+										</Item_DataPoint_Score_Details>
+									</Item_Score_Details>
+								</Item_Details>
+							</Item_List>
+						</Student_Test_Details>
+					</Student_Test_List>
+				</Student_Details>
+				<Student_Details Ethnicity="NR" IEP=" " LEP=" " Gender="M" Vendor_Student_ID="820785">
+					<Student_Test_List>
+						<Student_Test_Details Grade="8" Student_Test_ID="10048036">
+							<Item_List>
+								<Item_Details Score="Y" Item_ID="48560">
+									<Item_Response><![CDATA[Bikes]]>
+									</Item_Response>
+									<Item_Score_Details>
+										<Item_DataPoint_Score_Details Final_Score="0">
+											<Score Date_Time="20130809120847" Reader_ID="1199" Score_Value="0" Read_Number="1">
+											</Score>
+											<Score Date_Time="20130809120847" Reader_ID="1741" Score_Value="0" Read_Number="2">
+											</Score>
+										</Item_DataPoint_Score_Details>
+									</Item_Score_Details>
+								</Item_Details>
+							</Item_List>
+						</Student_Test_Details>
+					</Student_Test_List>
+				</Student_Details>
+				<Student_Details Ethnicity="H" IEP="N" LEP="N" Gender="F" Vendor_Student_ID="821698">
+					<Student_Test_List>
+						<Student_Test_Details Grade="8" Student_Test_ID="10048077">
+							<Item_List>
+								<Item_Details Score="Y" Item_ID="48560">
+									<Item_Response><![CDATA[all the students should because if not then they wouldnt have enough money becaue all together it is 15 dollors. but i think the one who is paying for the skateboard because it is cheaper.]]>
+									</Item_Response>
+									<Item_Score_Details>
+										<Item_DataPoint_Score_Details Final_Score="0">
+											<Score Date_Time="20130809120847" Reader_ID="1663" Score_Value="0" Read_Number="1">
+											</Score>
+											<Score Date_Time="20130809120847" Reader_ID="1741" Score_Value="0" Read_Number="2">
+											</Score>
+										</Item_DataPoint_Score_Details>
+									</Item_Score_Details>
+								</Item_Details>
+							</Item_List>
+						</Student_Test_Details>
+					</Student_Test_List>
+				</Student_Details>
+				<Student_Details Ethnicity="NR" IEP=" " LEP=" " Gender="F" Vendor_Student_ID="822282">
+					<Student_Test_List>
+						<Student_Test_Details Grade="8" Student_Test_ID="10048110">
+							<Item_List>
+								<Item_Details Score="Y" Item_ID="48560">
+									<Item_Response><![CDATA[the bike]]>
+									</Item_Response>
+									<Item_Score_Details>
+										<Item_DataPoint_Score_Details Final_Score="0">
+											<Score Date_Time="20130809120847" Reader_ID="1741" Score_Value="0" Read_Number="1">
+											</Score>
+											<Score Date_Time="20130809120847" Reader_ID="1392" Score_Value="0" Read_Number="2">
+											</Score>
+										</Item_DataPoint_Score_Details>
+									</Item_Score_Details>
+								</Item_Details>
+							</Item_List>
+						</Student_Test_Details>
+					</Student_Test_List>
+				</Student_Details>
+				<Student_Details Ethnicity="W" IEP="N" LEP="N" Gender="F" Vendor_Student_ID="827764">
+					<Student_Test_List>
+						<Student_Test_Details Grade="8" Student_Test_ID="10048294">
+							<Item_List>
+								<Item_Details Score="Y" Item_ID="48560">
+									<Item_Response><![CDATA[they should go for the bike rental because it is cheaper than the skateboard rental when multiply all of it together you 75 dollars for the bike rental and for the skateboard rental you 100 dollars]]>
+									</Item_Response>
+									<Item_Score_Details>
+										<Item_DataPoint_Score_Details Final_Score="0">
+											<Score Date_Time="20130809120847" Reader_ID="1271" Score_Value="0" Read_Number="1">
+											</Score>
+											<Score Date_Time="20130809120847" Reader_ID="1256" Score_Value="0" Read_Number="2">
+											</Score>
+										</Item_DataPoint_Score_Details>
+									</Item_Score_Details>
+								</Item_Details>
+							</Item_List>
+						</Student_Test_Details>
+					</Student_Test_List>
+				</Student_Details>
+				<Student_Details Ethnicity="W" IEP="Y" LEP="N" Gender="F" Vendor_Student_ID="828416">
+					<Student_Test_List>
+						<Student_Test_Details Grade="8" Student_Test_ID="10048322">
+							<Item_List>
+								<Item_Details Score="Y" Item_ID="48560">
+									<Item_Response><![CDATA[they should retn the bikes because  they will only spend 20 bucks instead of paying 35 bucks becasue the roller skate pading cost more]]>
+									</Item_Response>
+									<Item_Score_Details>
+										<Item_DataPoint_Score_Details Final_Score="0">
+											<Score Date_Time="20130809120847" Reader_ID="1663" Score_Value="0" Read_Number="1">
+											</Score>
+											<Score Date_Time="20130809120847" Reader_ID="1271" Score_Value="0" Read_Number="2">
+											</Score>
+										</Item_DataPoint_Score_Details>
+									</Item_Score_Details>
+								</Item_Details>
+							</Item_List>
+						</Student_Test_Details>
+					</Student_Test_List>
+				</Student_Details>
+				<Student_Details Ethnicity="W" IEP="N" LEP="N" Gender="M" Vendor_Student_ID="830277">
+					<Student_Test_List>
+						<Student_Test_Details Grade="8" Student_Test_ID="10048336">
+							<Item_List>
+								<Item_Details Score="Y" Item_ID="48560">
+									<Item_Response><![CDATA[They should rent the bike and helmet]]>
+									</Item_Response>
+									<Item_Score_Details>
+										<Item_DataPoint_Score_Details Final_Score="0">
+											<Score Date_Time="20130809120847" Reader_ID="2041" Score_Value="0" Read_Number="1">
+											</Score>
+											<Score Date_Time="20130809120847" Reader_ID="1271" Score_Value="0" Read_Number="2">
+											</Score>
+										</Item_DataPoint_Score_Details>
+									</Item_Score_Details>
+								</Item_Details>
+							</Item_List>
+						</Student_Test_Details>
+					</Student_Test_List>
+				</Student_Details>
+				<Student_Details Ethnicity="H" IEP=" " LEP=" " Gender="F" Vendor_Student_ID="836527">
+					<Student_Test_List>
+						<Student_Test_Details Grade="8" Student_Test_ID="10048678">
+							<Item_List>
+								<Item_Details Score="Y" Item_ID="48560">
+									<Item_Response><![CDATA[the kids should rent the bike]]>
+									</Item_Response>
+									<Item_Score_Details>
+										<Item_DataPoint_Score_Details Final_Score="0">
+											<Score Date_Time="20130809120847" Reader_ID="1741" Score_Value="0" Read_Number="1">
+											</Score>
+											<Score Date_Time="20130809120847" Reader_ID="1396" Score_Value="0" Read_Number="2">
+											</Score>
+										</Item_DataPoint_Score_Details>
+									</Item_Score_Details>
+								</Item_Details>
+							</Item_List>
+						</Student_Test_Details>
+					</Student_Test_List>
+				</Student_Details>
+				<Student_Details Ethnicity="W" IEP=" " LEP="N" Gender="F" Vendor_Student_ID="836911">
+					<Student_Test_List>
+						<Student_Test_Details Grade="8" Student_Test_ID="10048730">
+							<Item_List>
+								<Item_Details Score="Y" Item_ID="48560">
+									<Item_Response><![CDATA[bike rental]]>
+									</Item_Response>
+									<Item_Score_Details>
+										<Item_DataPoint_Score_Details Final_Score="0">
+											<Score Date_Time="20130809120847" Reader_ID="1663" Score_Value="0" Read_Number="1">
+											</Score>
+											<Score Date_Time="20130809120847" Reader_ID="1392" Score_Value="0" Read_Number="2">
+											</Score>
+										</Item_DataPoint_Score_Details>
+									</Item_Score_Details>
+								</Item_Details>
+							</Item_List>
+						</Student_Test_Details>
+					</Student_Test_List>
+				</Student_Details>
+				<Student_Details Ethnicity="W" IEP="N" LEP="N" Gender="M" Vendor_Student_ID="839430">
+					<Student_Test_List>
+						<Student_Test_Details Grade="8" Student_Test_ID="10048817">
+							<Item_List>
+								<Item_Details Score="Y" Item_ID="48560">
+									<Item_Response><![CDATA[ ]]>
+									</Item_Response>
+									<Item_Score_Details>
+										<Item_DataPoint_Score_Details Final_Score="B">
+											<Score Date_Time="20130809120847" Reader_ID="1392" Condition_Code="B" Read_Number="1">
+											</Score>
+											<Score Date_Time="20130809120847" Reader_ID="2041" Condition_Code="B" Read_Number="2">
+											</Score>
+										</Item_DataPoint_Score_Details>
+									</Item_Score_Details>
+								</Item_Details>
+							</Item_List>
+						</Student_Test_Details>
+					</Student_Test_List>
+				</Student_Details>
+				<Student_Details Ethnicity="W" IEP="Y" LEP=" " Gender="M" Vendor_Student_ID="842027">
+					<Student_Test_List>
+						<Student_Test_Details Grade="8" Student_Test_ID="10049090">
+							<Item_List>
+								<Item_Details Score="Y" Item_ID="48560">
+									<Item_Response><![CDATA[ ]]>
+									</Item_Response>
+									<Item_Score_Details>
+										<Item_DataPoint_Score_Details Final_Score="B">
+											<Score Date_Time="20130809120847" Reader_ID="1271" Condition_Code="B" Read_Number="1">
+											</Score>
+											<Score Date_Time="20130809120847" Reader_ID="2041" Condition_Code="B" Read_Number="2">
+											</Score>
+										</Item_DataPoint_Score_Details>
+									</Item_Score_Details>
+								</Item_Details>
+							</Item_List>
+						</Student_Test_Details>
+					</Student_Test_List>
+				</Student_Details>
+				<Student_Details Ethnicity="H" IEP=" " LEP="N" Gender="F" Vendor_Student_ID="877872">
+					<Student_Test_List>
+						<Student_Test_Details Grade="8" Student_Test_ID="10049262">
+							<Item_List>
+								<Item_Details Score="Y" Item_ID="48560">
+									<Item_Response><![CDATA[They would have to rent the skateboards because they are the cheapest.]]>
+									</Item_Response>
+									<Item_Score_Details>
+										<Item_DataPoint_Score_Details Final_Score="0">
+											<Score Date_Time="20130809120847" Reader_ID="1271" Score_Value="0" Read_Number="1">
+											</Score>
+											<Score Date_Time="20130809120847" Reader_ID="1396" Score_Value="0" Read_Number="2">
+											</Score>
+										</Item_DataPoint_Score_Details>
+									</Item_Score_Details>
+								</Item_Details>
+							</Item_List>
+						</Student_Test_Details>
+					</Student_Test_List>
+				</Student_Details>
+				<Student_Details Ethnicity="NR" IEP=" " LEP=" " Gender="F" Vendor_Student_ID="880592">
+					<Student_Test_List>
+						<Student_Test_Details Grade="8" Student_Test_ID="10049802">
+							<Item_List>
+								<Item_Details Score="Y" Item_ID="48560">
+									<Item_Response><![CDATA[bike]]>
+									</Item_Response>
+									<Item_Score_Details>
+										<Item_DataPoint_Score_Details Final_Score="0">
+											<Score Date_Time="20130809120847" Reader_ID="1663" Score_Value="0" Read_Number="1">
+											</Score>
+											<Score Date_Time="20130809120847" Reader_ID="1271" Score_Value="0" Read_Number="2">
+											</Score>
+										</Item_DataPoint_Score_Details>
+									</Item_Score_Details>
+								</Item_Details>
+							</Item_List>
+						</Student_Test_Details>
+					</Student_Test_List>
+				</Student_Details>
+				<Student_Details Ethnicity="H" IEP="N" LEP="Y" Gender="M" Vendor_Student_ID="882520">
+					<Student_Test_List>
+						<Student_Test_Details Grade="8" Student_Test_ID="10050010">
+							<Item_List>
+								<Item_Details Score="Y" Item_ID="48560">
+									<Item_Response><![CDATA[bike]]>
+									</Item_Response>
+									<Item_Score_Details>
+										<Item_DataPoint_Score_Details Final_Score="0">
+											<Score Date_Time="20130809120847" Reader_ID="1392" Score_Value="0" Read_Number="1">
+											</Score>
+											<Score Date_Time="20130809120847" Reader_ID="1261" Score_Value="0" Read_Number="2">
+											</Score>
+										</Item_DataPoint_Score_Details>
+									</Item_Score_Details>
+								</Item_Details>
+							</Item_List>
+						</Student_Test_Details>
+					</Student_Test_List>
+				</Student_Details>
+				<Student_Details Ethnicity="NR" IEP=" " LEP=" " Gender="M" Vendor_Student_ID="882982">
+					<Student_Test_List>
+						<Student_Test_Details Grade="8" Student_Test_ID="10050019">
+							<Item_List>
+								<Item_Details Score="Y" Item_ID="48560">
+									<Item_Response><![CDATA[the skateboard]]>
+									</Item_Response>
+									<Item_Score_Details>
+										<Item_DataPoint_Score_Details Final_Score="0">
+											<Score Date_Time="20130809120847" Reader_ID="1396" Score_Value="0" Read_Number="1">
+											</Score>
+											<Score Date_Time="20130809120847" Reader_ID="1392" Score_Value="0" Read_Number="2">
+											</Score>
+										</Item_DataPoint_Score_Details>
+									</Item_Score_Details>
+								</Item_Details>
+							</Item_List>
+						</Student_Test_Details>
+					</Student_Test_List>
+				</Student_Details>
+				<Student_Details Ethnicity="H" IEP=" " LEP=" " Gender="M" Vendor_Student_ID="887459">
+					<Student_Test_List>
+						<Student_Test_Details Grade="8" Student_Test_ID="10050076">
+							<Item_List>
+								<Item_Details Score="Y" Item_ID="48560">
+									<Item_Response><![CDATA[Skateboard]]>
+									</Item_Response>
+									<Item_Score_Details>
+										<Item_DataPoint_Score_Details Final_Score="0">
+											<Score Date_Time="20130809120847" Reader_ID="1261" Score_Value="0" Read_Number="1">
+											</Score>
+											<Score Date_Time="20130809120847" Reader_ID="2041" Score_Value="0" Read_Number="2">
+											</Score>
+										</Item_DataPoint_Score_Details>
+									</Item_Score_Details>
+								</Item_Details>
+							</Item_List>
+						</Student_Test_Details>
+					</Student_Test_List>
+				</Student_Details>
+				<Student_Details Ethnicity="A" IEP="N" LEP="N" Gender="M" Vendor_Student_ID="894484">
+					<Student_Test_List>
+						<Student_Test_Details Grade="8" Student_Test_ID="10050236">
+							<Item_List>
+								<Item_Details Score="Y" Item_ID="48560">
+									<Item_Response><![CDATA[he should get anythning he wants.]]>
+									</Item_Response>
+									<Item_Score_Details>
+										<Item_DataPoint_Score_Details Final_Score="0">
+											<Score Date_Time="20130809120847" Reader_ID="1256" Score_Value="0" Read_Number="1">
+											</Score>
+											<Score Date_Time="20130809120847" Reader_ID="1741" Score_Value="0" Read_Number="2">
+											</Score>
+										</Item_DataPoint_Score_Details>
+									</Item_Score_Details>
+								</Item_Details>
+							</Item_List>
+						</Student_Test_Details>
+					</Student_Test_List>
+				</Student_Details>
+				<Student_Details Ethnicity="A" IEP=" " LEP=" " Gender="F" Vendor_Student_ID="895886">
+					<Student_Test_List>
+						<Student_Test_Details Grade="8" Student_Test_ID="10050319">
+							<Item_List>
+								<Item_Details Score="Y" Item_ID="48560">
+									<Item_Response><![CDATA[The bike.]]>
+									</Item_Response>
+									<Item_Score_Details>
+										<Item_DataPoint_Score_Details Final_Score="0">
+											<Score Date_Time="20130809120847" Reader_ID="1392" Score_Value="0" Read_Number="1">
+											</Score>
+											<Score Date_Time="20130809120847" Reader_ID="1184" Score_Value="0" Read_Number="2">
+											</Score>
+										</Item_DataPoint_Score_Details>
+									</Item_Score_Details>
+								</Item_Details>
+							</Item_List>
+						</Student_Test_Details>
+					</Student_Test_List>
+				</Student_Details>
+				<Student_Details Ethnicity="W" IEP="N" LEP="N" Gender="F" Vendor_Student_ID="896046">
+					<Student_Test_List>
+						<Student_Test_Details Grade="8" Student_Test_ID="10050441">
+							<Item_List>
+								<Item_Details Score="Y" Item_ID="48560">
+									<Item_Response><![CDATA[bike]]>
+									</Item_Response>
+									<Item_Score_Details>
+										<Item_DataPoint_Score_Details Final_Score="0">
+											<Score Date_Time="20130809120847" Reader_ID="1261" Score_Value="0" Read_Number="1">
+											</Score>
+											<Score Date_Time="20130809120847" Reader_ID="1290" Score_Value="0" Read_Number="2">
+											</Score>
+										</Item_DataPoint_Score_Details>
+									</Item_Score_Details>
+								</Item_Details>
+							</Item_List>
+						</Student_Test_Details>
+					</Student_Test_List>
+				</Student_Details>
+				<Student_Details Ethnicity="H" IEP=" " LEP=" " Gender="F" Vendor_Student_ID="896200">
+					<Student_Test_List>
+						<Student_Test_Details Grade="8" Student_Test_ID="10050445">
+							<Item_List>
+								<Item_Details Score="Y" Item_ID="48560">
+									<Item_Response><![CDATA[The students should buy skateboards if they are riding for 5 hours.]]>
+									</Item_Response>
+									<Item_Score_Details>
+										<Item_DataPoint_Score_Details Final_Score="0">
+											<Score Date_Time="20130809120847" Reader_ID="1271" Score_Value="0" Read_Number="1">
+											</Score>
+											<Score Date_Time="20130809120847" Reader_ID="1392" Score_Value="0" Read_Number="2">
+											</Score>
+										</Item_DataPoint_Score_Details>
+									</Item_Score_Details>
+								</Item_Details>
+							</Item_List>
+						</Student_Test_Details>
+					</Student_Test_List>
+				</Student_Details>
+				<Student_Details Ethnicity="B" IEP="Y" LEP="N" Gender="M" Vendor_Student_ID="896453">
+					<Student_Test_List>
+						<Student_Test_Details Grade="8" Student_Test_ID="10050448">
+							<Item_List>
+								<Item_Details Score="Y" Item_ID="48560">
+									<Item_Response><![CDATA[About 17 dollars]]>
+									</Item_Response>
+									<Item_Score_Details>
+										<Item_DataPoint_Score_Details Final_Score="0">
+											<Score Date_Time="20130809120847" Reader_ID="1663" Score_Value="0" Read_Number="1">
+											</Score>
+											<Score Date_Time="20130809120847" Reader_ID="1392" Score_Value="0" Read_Number="2">
+											</Score>
+										</Item_DataPoint_Score_Details>
+									</Item_Score_Details>
+								</Item_Details>
+							</Item_List>
+						</Student_Test_Details>
+					</Student_Test_List>
+				</Student_Details>
+				<Student_Details Ethnicity="H" IEP=" " LEP="Y" Gender="F" Vendor_Student_ID="897173">
+					<Student_Test_List>
+						<Student_Test_Details Grade="8" Student_Test_ID="10050682">
+							<Item_List>
+								<Item_Details Score="Y" Item_ID="48560">
+									<Item_Response><![CDATA[IDK]]>
+									</Item_Response>
+									<Item_Score_Details>
+										<Item_DataPoint_Score_Details Final_Score="N">
+											<Score Date_Time="20130809120847" Reader_ID="1663" Condition_Code="N" Read_Number="1">
+											</Score>
+											<Score Date_Time="20130809120847" Reader_ID="1199" Condition_Code="N" Read_Number="2">
+											</Score>
+											<Score Date_Time="20130809120847" Reader_ID="1663" Condition_Code="N" Read_Number="5">
+											</Score>
+										</Item_DataPoint_Score_Details>
+									</Item_Score_Details>
+								</Item_Details>
+							</Item_List>
+						</Student_Test_Details>
+					</Student_Test_List>
+				</Student_Details>
+				<Student_Details Ethnicity="B" IEP="N" LEP="N" Gender="F" Vendor_Student_ID="901408">
+					<Student_Test_List>
+						<Student_Test_Details Grade="8" Student_Test_ID="10050791">
+							<Item_List>
+								<Item_Details Score="Y" Item_ID="48560">
+									<Item_Response><![CDATA[skateboard]]>
+									</Item_Response>
+									<Item_Score_Details>
+										<Item_DataPoint_Score_Details Final_Score="0">
+											<Score Date_Time="20130809120847" Reader_ID="1261" Score_Value="0" Read_Number="1">
+											</Score>
+											<Score Date_Time="20130809120847" Reader_ID="1396" Score_Value="0" Read_Number="2">
+											</Score>
+										</Item_DataPoint_Score_Details>
+									</Item_Score_Details>
+								</Item_Details>
+							</Item_List>
+						</Student_Test_Details>
+					</Student_Test_List>
+				</Student_Details>
+				<Student_Details Ethnicity="W" IEP="N" LEP="Y" Gender="M" Vendor_Student_ID="938148">
+					<Student_Test_List>
+						<Student_Test_Details Grade="8" Student_Test_ID="10050855">
+							<Item_List>
+								<Item_Details Score="Y" Item_ID="48560">
+									<Item_Response><![CDATA[skateboard]]>
+									</Item_Response>
+									<Item_Score_Details>
+										<Item_DataPoint_Score_Details Final_Score="0">
+											<Score Date_Time="20130809120847" Reader_ID="1741" Score_Value="0" Read_Number="1">
+											</Score>
+											<Score Date_Time="20130809120847" Reader_ID="1396" Score_Value="0" Read_Number="2">
+											</Score>
+										</Item_DataPoint_Score_Details>
+									</Item_Score_Details>
+								</Item_Details>
+							</Item_List>
+						</Student_Test_Details>
+					</Student_Test_List>
+				</Student_Details>
+				<Student_Details Ethnicity="NR" IEP=" " LEP=" " Gender="M" Vendor_Student_ID="938324">
+					<Student_Test_List>
+						<Student_Test_Details Grade="8" Student_Test_ID="10050856">
+							<Item_List>
+								<Item_Details Score="Y" Item_ID="48560">
+									<Item_Response><![CDATA[bike]]>
+									</Item_Response>
+									<Item_Score_Details>
+										<Item_DataPoint_Score_Details Final_Score="0">
+											<Score Date_Time="20130809120847" Reader_ID="1184" Score_Value="0" Read_Number="1">
+											</Score>
+											<Score Date_Time="20130809120847" Reader_ID="1396" Score_Value="0" Read_Number="2">
+											</Score>
+										</Item_DataPoint_Score_Details>
+									</Item_Score_Details>
+								</Item_Details>
+							</Item_List>
+						</Student_Test_Details>
+					</Student_Test_List>
+				</Student_Details>
+				<Student_Details Ethnicity="W" IEP="N" LEP="N" Gender="F" Vendor_Student_ID="952501">
+					<Student_Test_List>
+						<Student_Test_Details Grade="8" Student_Test_ID="10050924">
+							<Item_List>
+								<Item_Details Score="Y" Item_ID="48560">
+									<Item_Response><![CDATA[Skateboard, they can ride all day and have to pay only $10 for helmets/pads and $2 every hour for the skateboard.]]>
+									</Item_Response>
+									<Item_Score_Details>
+										<Item_DataPoint_Score_Details Final_Score="0">
+											<Score Date_Time="20130809120847" Reader_ID="2041" Score_Value="0" Read_Number="1">
+											</Score>
+											<Score Date_Time="20130809120847" Reader_ID="1663" Score_Value="0" Read_Number="2">
+											</Score>
+										</Item_DataPoint_Score_Details>
+									</Item_Score_Details>
+								</Item_Details>
+							</Item_List>
+						</Student_Test_Details>
+					</Student_Test_List>
+				</Student_Details>
+				<Student_Details Ethnicity="NR" IEP=" " LEP=" " Gender="M" Vendor_Student_ID="955458">
+					<Student_Test_List>
+						<Student_Test_Details Grade="8" Student_Test_ID="10051067">
+							<Item_List>
+								<Item_Details Score="Y" Item_ID="48560">
+									<Item_Response><![CDATA[The bike because it still costs less money than the skateboard.]]>
+									</Item_Response>
+									<Item_Score_Details>
+										<Item_DataPoint_Score_Details Final_Score="0">
+											<Score Date_Time="20130809120847" Reader_ID="1256" Score_Value="0" Read_Number="1">
+											</Score>
+											<Score Date_Time="20130809120847" Reader_ID="1396" Score_Value="0" Read_Number="2">
+											</Score>
+										</Item_DataPoint_Score_Details>
+									</Item_Score_Details>
+								</Item_Details>
+							</Item_List>
+						</Student_Test_Details>
+					</Student_Test_List>
+				</Student_Details>
+				<Student_Details Ethnicity="H" IEP="N" LEP="N" Gender="F" Vendor_Student_ID="958548">
+					<Student_Test_List>
+						<Student_Test_Details Grade="8" Student_Test_ID="10051115">
+							<Item_List>
+								<Item_Details Score="Y" Item_ID="48560">
+									<Item_Response><![CDATA[ ]]>
+									</Item_Response>
+									<Item_Score_Details>
+										<Item_DataPoint_Score_Details Final_Score="B">
+											<Score Date_Time="20130809120847" Reader_ID="2041" Condition_Code="B" Read_Number="1">
+											</Score>
+											<Score Date_Time="20130809120847" Reader_ID="1290" Condition_Code="B" Read_Number="2">
+											</Score>
+										</Item_DataPoint_Score_Details>
+									</Item_Score_Details>
+								</Item_Details>
+							</Item_List>
+						</Student_Test_Details>
+					</Student_Test_List>
+				</Student_Details>
+				<Student_Details Ethnicity="W" IEP=" " LEP=" " Gender="F" Vendor_Student_ID="964566">
+					<Student_Test_List>
+						<Student_Test_Details Grade="8" Student_Test_ID="10051334">
+							<Item_List>
+								<Item_Details Score="Y" Item_ID="48560">
+									<Item_Response><![CDATA[The Bike.]]>
+									</Item_Response>
+									<Item_Score_Details>
+										<Item_DataPoint_Score_Details Final_Score="0">
+											<Score Date_Time="20130809120847" Reader_ID="1290" Score_Value="0" Read_Number="1">
+											</Score>
+											<Score Date_Time="20130809120847" Reader_ID="1256" Score_Value="0" Read_Number="2">
+											</Score>
+										</Item_DataPoint_Score_Details>
+									</Item_Score_Details>
+								</Item_Details>
+							</Item_List>
+						</Student_Test_Details>
+					</Student_Test_List>
+				</Student_Details>
+				<Student_Details Ethnicity="W" IEP="N" LEP=" " Gender="F" Vendor_Student_ID="966478">
+					<Student_Test_List>
+						<Student_Test_Details Grade="8" Student_Test_ID="10051402">
+							<Item_List>
+								<Item_Details Score="Y" Item_ID="48560">
+									<Item_Response><![CDATA[Skateboard Rental.]]>
+									</Item_Response>
+									<Item_Score_Details>
+										<Item_DataPoint_Score_Details Final_Score="0">
+											<Score Date_Time="20130809120847" Reader_ID="1271" Score_Value="0" Read_Number="1">
+											</Score>
+											<Score Date_Time="20130809120847" Reader_ID="1392" Score_Value="0" Read_Number="2">
+											</Score>
+										</Item_DataPoint_Score_Details>
+									</Item_Score_Details>
+								</Item_Details>
+							</Item_List>
+						</Student_Test_Details>
+					</Student_Test_List>
+				</Student_Details>
+				<Student_Details Ethnicity="W" IEP="N" LEP=" " Gender="M" Vendor_Student_ID="981078">
+					<Student_Test_List>
+						<Student_Test_Details Grade="8" Student_Test_ID="10051622">
+							<Item_List>
+								<Item_Details Score="Y" Item_ID="48560">
+									<Item_Response><![CDATA[Skateboards because the hourly cost is lower.]]>
+									</Item_Response>
+									<Item_Score_Details>
+										<Item_DataPoint_Score_Details Final_Score="0">
+											<Score Date_Time="20130809120847" Reader_ID="1271" Score_Value="0" Read_Number="1">
+											</Score>
+											<Score Date_Time="20130809120847" Reader_ID="1392" Score_Value="0" Read_Number="2">
+											</Score>
+										</Item_DataPoint_Score_Details>
+									</Item_Score_Details>
+								</Item_Details>
+							</Item_List>
+						</Student_Test_Details>
+					</Student_Test_List>
+				</Student_Details>
+				<Student_Details Ethnicity="H" IEP="Y" LEP="Y" Gender="M" Vendor_Student_ID="999161">
+					<Student_Test_List>
+						<Student_Test_Details Grade="8" Student_Test_ID="10051952">
+							<Item_List>
+								<Item_Details Score="Y" Item_ID="48560">
+									<Item_Response><![CDATA[5 hous of riding will cost 5.00]]>
+									</Item_Response>
+									<Item_Score_Details>
+										<Item_DataPoint_Score_Details Final_Score="0">
+											<Score Date_Time="20130809120847" Reader_ID="1741" Score_Value="0" Read_Number="1">
+											</Score>
+											<Score Date_Time="20130809120847" Reader_ID="1392" Score_Value="0" Read_Number="2">
+											</Score>
+										</Item_DataPoint_Score_Details>
+									</Item_Score_Details>
+								</Item_Details>
+							</Item_List>
+						</Student_Test_Details>
+					</Student_Test_List>
+				</Student_Details>
+				<Student_Details Ethnicity="NR" IEP=" " LEP=" " Gender="F" Vendor_Student_ID="999268">
+					<Student_Test_List>
+						<Student_Test_Details Grade="8" Student_Test_ID="10051958">
+							<Item_List>
+								<Item_Details Score="Y" Item_ID="48560">
+									<Item_Response><![CDATA[They should rent the skateboard.]]>
+									</Item_Response>
+									<Item_Score_Details>
+										<Item_DataPoint_Score_Details Final_Score="0">
+											<Score Date_Time="20130809120847" Reader_ID="1271" Score_Value="0" Read_Number="1">
+											</Score>
+											<Score Date_Time="20130809120847" Reader_ID="1396" Score_Value="0" Read_Number="2">
+											</Score>
+										</Item_DataPoint_Score_Details>
+									</Item_Score_Details>
+								</Item_Details>
+							</Item_List>
+						</Student_Test_Details>
+					</Student_Test_List>
+				</Student_Details>
+				<Student_Details Ethnicity="W" IEP="N" LEP="N" Gender="F" Vendor_Student_ID="1002918">
+					<Student_Test_List>
+						<Student_Test_Details Grade="8" Student_Test_ID="10051980">
+							<Item_List>
+								<Item_Details Score="Y" Item_ID="48560">
+									<Item_Response><![CDATA[they are equal prices because it is 20 dollars for the skateboard rental and 20 dollars for the bike rental]]>
+									</Item_Response>
+									<Item_Score_Details>
+										<Item_DataPoint_Score_Details Final_Score="1">
+											<Score Date_Time="20130809120847" Reader_ID="1396" Score_Value="1" Read_Number="1">
+											</Score>
+											<Score Date_Time="20130809120847" Reader_ID="1392" Score_Value="1" Read_Number="2">
+											</Score>
+										</Item_DataPoint_Score_Details>
+									</Item_Score_Details>
+								</Item_Details>
+							</Item_List>
+						</Student_Test_Details>
+					</Student_Test_List>
+				</Student_Details>
+				<Student_Details Ethnicity="A" IEP=" " LEP=" " Gender="F" Vendor_Student_ID="1005400">
+					<Student_Test_List>
+						<Student_Test_Details Grade="8" Student_Test_ID="10052046">
+							<Item_List>
+								<Item_Details Score="Y" Item_ID="48560">
+									<Item_Response><![CDATA[Based on total cost, the students culd ride either the bikes or the skateboards because for exactly five hours the rental price is the same.]]>
+									</Item_Response>
+									<Item_Score_Details>
+										<Item_DataPoint_Score_Details Final_Score="1">
+											<Score Date_Time="20130809120847" Reader_ID="1199" Score_Value="1" Read_Number="1">
+											</Score>
+											<Score Date_Time="20130809120847" Reader_ID="1290" Score_Value="1" Read_Number="2">
+											</Score>
+										</Item_DataPoint_Score_Details>
+									</Item_Score_Details>
+								</Item_Details>
+							</Item_List>
+						</Student_Test_Details>
+					</Student_Test_List>
+				</Student_Details>
+				<Student_Details Ethnicity="H" IEP="N" LEP="N" Gender="M" Vendor_Student_ID="1007692">
+					<Student_Test_List>
+						<Student_Test_Details Grade="8" Student_Test_ID="10052069">
+							<Item_List>
+								<Item_Details Score="Y" Item_ID="48560">
+									<Item_Response><![CDATA[Either one they are the same price so it is up to preference.]]>
+									</Item_Response>
+									<Item_Score_Details>
+										<Item_DataPoint_Score_Details Final_Score="1">
+											<Score Date_Time="20130809120847" Reader_ID="1396" Score_Value="1" Read_Number="1">
+											</Score>
+											<Score Date_Time="20130809120847" Reader_ID="1663" Score_Value="1" Read_Number="2">
+											</Score>
+										</Item_DataPoint_Score_Details>
+									</Item_Score_Details>
+								</Item_Details>
+							</Item_List>
+						</Student_Test_Details>
+					</Student_Test_List>
+				</Student_Details>
+				<Student_Details Ethnicity="NR" IEP=" " LEP=" " Gender="M" Vendor_Student_ID="711150">
+					<Student_Test_List>
+						<Student_Test_Details Grade="8" Student_Test_ID="10043584">
+							<Item_List>
+								<Item_Details Score="Y" Item_ID="48560">
+									<Item_Response><![CDATA[for a five hour ride they are both equal so it does not matter wich one they choose.]]>
+									</Item_Response>
+									<Item_Score_Details>
+										<Item_DataPoint_Score_Details Final_Score="1">
+											<Score Date_Time="20130809120847" Reader_ID="1396" Score_Value="1" Read_Number="1">
+											</Score>
+											<Score Date_Time="20130809120847" Reader_ID="1271" Score_Value="1" Read_Number="2">
+											</Score>
+										</Item_DataPoint_Score_Details>
+									</Item_Score_Details>
+								</Item_Details>
+							</Item_List>
+						</Student_Test_Details>
+					</Student_Test_List>
+				</Student_Details>
+				<Student_Details Ethnicity="W" IEP="N" LEP="N" Gender="M" Vendor_Student_ID="713058">
+					<Student_Test_List>
+						<Student_Test_Details Grade="8" Student_Test_ID="10043738">
+							<Item_List>
+								<Item_Details Score="Y" Item_ID="48560">
+									<Item_Response><![CDATA[either]]>
+									</Item_Response>
+									<Item_Score_Details>
+										<Item_DataPoint_Score_Details Final_Score="1">
+											<Score Date_Time="20130809120847" Reader_ID="1396" Score_Value="0" Read_Number="1">
+											</Score>
+											<Score Date_Time="20130809120847" Reader_ID="1256" Score_Value="1" Read_Number="2">
+											</Score>
+											<Score Date_Time="20130809120847" Reader_ID="1199" Score_Value="1" Read_Number="3">
+											</Score>
+										</Item_DataPoint_Score_Details>
+									</Item_Score_Details>
+								</Item_Details>
+							</Item_List>
+						</Student_Test_Details>
+					</Student_Test_List>
+				</Student_Details>
+				<Student_Details Ethnicity="W" IEP="N" LEP="N" Gender="M" Vendor_Student_ID="713853">
+					<Student_Test_List>
+						<Student_Test_Details Grade="8" Student_Test_ID="10044002">
+							<Item_List>
+								<Item_Details Score="Y" Item_ID="48560">
+									<Item_Response><![CDATA[Either one they are both equal.]]>
+									</Item_Response>
+									<Item_Score_Details>
+										<Item_DataPoint_Score_Details Final_Score="1">
+											<Score Date_Time="20130809120847" Reader_ID="1261" Score_Value="1" Read_Number="1">
+											</Score>
+											<Score Date_Time="20130809120847" Reader_ID="2041" Score_Value="1" Read_Number="2">
+											</Score>
+										</Item_DataPoint_Score_Details>
+									</Item_Score_Details>
+								</Item_Details>
+							</Item_List>
+						</Student_Test_Details>
+					</Student_Test_List>
+				</Student_Details>
+				<Student_Details Ethnicity="W" IEP="N" LEP="N" Gender="M" Vendor_Student_ID="728836">
+					<Student_Test_List>
+						<Student_Test_Details Grade="8" Student_Test_ID="10044991">
+							<Item_List>
+								<Item_Details Score="Y" Item_ID="48560">
+									<Item_Response><![CDATA[they are equal in cost so either]]>
+									</Item_Response>
+									<Item_Score_Details>
+										<Item_DataPoint_Score_Details Final_Score="1">
+											<Score Date_Time="20130809120847" Reader_ID="1271" Score_Value="1" Read_Number="1">
+											</Score>
+											<Score Date_Time="20130809120847" Reader_ID="1741" Score_Value="0" Read_Number="2">
+											</Score>
+											<Score Date_Time="20130809120847" Reader_ID="1199" Score_Value="1" Read_Number="3">
+											</Score>
+										</Item_DataPoint_Score_Details>
+									</Item_Score_Details>
+								</Item_Details>
+							</Item_List>
+						</Student_Test_Details>
+					</Student_Test_List>
+				</Student_Details>
+				<Student_Details Ethnicity="W" IEP=" " LEP=" " Gender="F" Vendor_Student_ID="731622">
+					<Student_Test_List>
+						<Student_Test_Details Grade="8" Student_Test_ID="10045038">
+							<Item_List>
+								<Item_Details Score="Y" Item_ID="48560">
+									<Item_Response><![CDATA[either they both cost the same.]]>
+									</Item_Response>
+									<Item_Score_Details>
+										<Item_DataPoint_Score_Details Final_Score="1">
+											<Score Date_Time="20130809120847" Reader_ID="1663" Score_Value="1" Read_Number="1">
+											</Score>
+											<Score Date_Time="20130809120847" Reader_ID="1271" Score_Value="1" Read_Number="2">
+											</Score>
+										</Item_DataPoint_Score_Details>
+									</Item_Score_Details>
+								</Item_Details>
+							</Item_List>
+						</Student_Test_Details>
+					</Student_Test_List>
+				</Student_Details>
+				<Student_Details Ethnicity="A" IEP=" " LEP="Y" Gender="F" Vendor_Student_ID="749809">
+					<Student_Test_List>
+						<Student_Test_Details Grade="8" Student_Test_ID="10045443">
+							<Item_List>
+								<Item_Details Score="Y" Item_ID="48560">
+									<Item_Response><![CDATA[either one of them, because they are both 20 in total for 5 hours]]>
+									</Item_Response>
+									<Item_Score_Details>
+										<Item_DataPoint_Score_Details Final_Score="1">
+											<Score Date_Time="20130809120847" Reader_ID="1741" Score_Value="0" Read_Number="1">
+											</Score>
+											<Score Date_Time="20130809120847" Reader_ID="1396" Score_Value="1" Read_Number="2">
+											</Score>
+											<Score Date_Time="20130809120847" Reader_ID="1256" Score_Value="1" Read_Number="3">
+											</Score>
+										</Item_DataPoint_Score_Details>
+									</Item_Score_Details>
+								</Item_Details>
+							</Item_List>
+						</Student_Test_Details>
+					</Student_Test_List>
+				</Student_Details>
+				<Student_Details Ethnicity="H" IEP="N" LEP="N" Gender="F" Vendor_Student_ID="768144">
+					<Student_Test_List>
+						<Student_Test_Details Grade="8" Student_Test_ID="10045874">
+							<Item_List>
+								<Item_Details Score="Y" Item_ID="48560">
+									<Item_Response><![CDATA[
+If the students are planning to ride for 5 hours they can either rent the bike or skateborad because they both end up being $20.00 including the helmet and/or the pads. I know this because if you multiply the bike or skateboard by 5 you get the total for t
+hat ( bike=10.00 skateboard=15.00) and then you add the helmet/pads from your total ( bike=10.00+10.00=20.00 and skateboard=15.00+5.00=20.00).]]>
+									</Item_Response>
+									<Item_Score_Details>
+										<Item_DataPoint_Score_Details Final_Score="1">
+											<Score Date_Time="20130809120847" Reader_ID="1271" Score_Value="1" Read_Number="1">
+											</Score>
+											<Score Date_Time="20130809120847" Reader_ID="1290" Score_Value="1" Read_Number="2">
+											</Score>
+										</Item_DataPoint_Score_Details>
+									</Item_Score_Details>
+								</Item_Details>
+							</Item_List>
+						</Student_Test_Details>
+					</Student_Test_List>
+				</Student_Details>
+				<Student_Details Ethnicity="A" IEP="N" LEP="N" Gender="M" Vendor_Student_ID="769090">
+					<Student_Test_List>
+						<Student_Test_Details Grade="8" Student_Test_ID="10045903">
+							<Item_List>
+								<Item_Details Score="Y" Item_ID="48560">
+									<Item_Response><![CDATA[The student could rent either one of them because the cost for both of them are both twenty dollars.]]>
+									</Item_Response>
+									<Item_Score_Details>
+										<Item_DataPoint_Score_Details Final_Score="1">
+											<Score Date_Time="20130809120847" Reader_ID="1184" Score_Value="1" Read_Number="1">
+											</Score>
+											<Score Date_Time="20130809120847" Reader_ID="1663" Score_Value="1" Read_Number="2">
+											</Score>
+										</Item_DataPoint_Score_Details>
+									</Item_Score_Details>
+								</Item_Details>
+							</Item_List>
+						</Student_Test_Details>
+					</Student_Test_List>
+				</Student_Details>
+				<Student_Details Ethnicity="A" IEP=" " LEP=" " Gender="F" Vendor_Student_ID="769613">
+					<Student_Test_List>
+						<Student_Test_Details Grade="8" Student_Test_ID="10045969">
+							<Item_List>
+								<Item_Details Score="Y" Item_ID="48560">
+									<Item_Response><![CDATA[If the students are riding for 5 hours, the cost is the same for both rentals so it doesn't matter.]]>
+									</Item_Response>
+									<Item_Score_Details>
+										<Item_DataPoint_Score_Details Final_Score="1">
+											<Score Date_Time="20130809120847" Reader_ID="1271" Score_Value="1" Read_Number="1">
+											</Score>
+											<Score Date_Time="20130809120847" Reader_ID="1392" Score_Value="1" Read_Number="2">
+											</Score>
+										</Item_DataPoint_Score_Details>
+									</Item_Score_Details>
+								</Item_Details>
+							</Item_List>
+						</Student_Test_Details>
+					</Student_Test_List>
+				</Student_Details>
+				<Student_Details Ethnicity="W" IEP="N" LEP="N" Gender="F" Vendor_Student_ID="770697">
+					<Student_Test_List>
+						<Student_Test_Details Grade="8" Student_Test_ID="10046036">
+							<Item_List>
+								<Item_Details Score="Y" Item_ID="48560">
+									<Item_Response><![CDATA[With the total cost it wouldn't matter which one they rented for 5 hours.]]>
+									</Item_Response>
+									<Item_Score_Details>
+										<Item_DataPoint_Score_Details Final_Score="1">
+											<Score Date_Time="20130809120847" Reader_ID="1663" Score_Value="1" Read_Number="1">
+											</Score>
+											<Score Date_Time="20130809120847" Reader_ID="1256" Score_Value="0" Read_Number="2">
+											</Score>
+											<Score Date_Time="20130809120847" Reader_ID="1392" Score_Value="1" Read_Number="3">
+											</Score>
+										</Item_DataPoint_Score_Details>
+									</Item_Score_Details>
+								</Item_Details>
+							</Item_List>
+						</Student_Test_Details>
+					</Student_Test_List>
+				</Student_Details>
+				<Student_Details Ethnicity="W" IEP="N" LEP="N" Gender="F" Vendor_Student_ID="770889">
+					<Student_Test_List>
+						<Student_Test_Details Grade="8" Student_Test_ID="10046112">
+							<Item_List>
+								<Item_Details Score="Y" Item_ID="48560">
+									<Item_Response><![CDATA[It doesn't matter. Both costs are $20.00.]]>
+									</Item_Response>
+									<Item_Score_Details>
+										<Item_DataPoint_Score_Details Final_Score="1">
+											<Score Date_Time="20130809120847" Reader_ID="1741" Score_Value="1" Read_Number="1">
+											</Score>
+											<Score Date_Time="20130809120847" Reader_ID="1392" Score_Value="1" Read_Number="2">
+											</Score>
+										</Item_DataPoint_Score_Details>
+									</Item_Score_Details>
+								</Item_Details>
+							</Item_List>
+						</Student_Test_Details>
+					</Student_Test_List>
+				</Student_Details>
+				<Student_Details Ethnicity="W" IEP="N" LEP="N" Gender="M" Vendor_Student_ID="775814">
+					<Student_Test_List>
+						<Student_Test_Details Grade="8" Student_Test_ID="10046704">
+							<Item_List>
+								<Item_Details Score="Y" Item_ID="48560">
+									<Item_Response><![CDATA[either one because they're equal cost]]>
+									</Item_Response>
+									<Item_Score_Details>
+										<Item_DataPoint_Score_Details Final_Score="1">
+											<Score Date_Time="20130809120847" Reader_ID="1663" Score_Value="1" Read_Number="1">
+											</Score>
+											<Score Date_Time="20130809120847" Reader_ID="1271" Score_Value="1" Read_Number="2">
+											</Score>
+										</Item_DataPoint_Score_Details>
+									</Item_Score_Details>
+								</Item_Details>
+							</Item_List>
+						</Student_Test_Details>
+					</Student_Test_List>
+				</Student_Details>
+				<Student_Details Ethnicity="H" IEP="N" LEP="N" Gender="F" Vendor_Student_ID="776899">
+					<Student_Test_List>
+						<Student_Test_Details Grade="8" Student_Test_ID="10046750">
+							<Item_List>
+								<Item_Details Score="Y" Item_ID="48560">
+									<Item_Response><![CDATA[If they are planning on riding for 5 hours it doesn't matter which they choose because the cost is the same.]]>
+									</Item_Response>
+									<Item_Score_Details>
+										<Item_DataPoint_Score_Details Final_Score="1">
+											<Score Date_Time="20130809120847" Reader_ID="1256" Score_Value="1" Read_Number="1">
+											</Score>
+											<Score Date_Time="20130809120847" Reader_ID="1663" Score_Value="1" Read_Number="2">
+											</Score>
+										</Item_DataPoint_Score_Details>
+									</Item_Score_Details>
+								</Item_Details>
+							</Item_List>
+						</Student_Test_Details>
+					</Student_Test_List>
+				</Student_Details>
+				<Student_Details Ethnicity="W" IEP="Y" LEP="N" Gender="M" Vendor_Student_ID="781645">
+					<Student_Test_List>
+						<Student_Test_Details Grade="8" Student_Test_ID="10046856">
+							<Item_List>
+								<Item_Details Score="Y" Item_ID="48560">
+									<Item_Response><![CDATA[doesn't really matter. they both cost the same at 5 hours.]]>
+									</Item_Response>
+									<Item_Score_Details>
+										<Item_DataPoint_Score_Details Final_Score="1">
+											<Score Date_Time="20130809120847" Reader_ID="1256" Score_Value="0" Read_Number="1">
+											</Score>
+											<Score Date_Time="20130809120847" Reader_ID="1290" Score_Value="1" Read_Number="2">
+											</Score>
+											<Score Date_Time="20130809120847" Reader_ID="1271" Score_Value="1" Read_Number="3">
+											</Score>
+										</Item_DataPoint_Score_Details>
+									</Item_Score_Details>
+								</Item_Details>
+							</Item_List>
+						</Student_Test_Details>
+					</Student_Test_List>
+				</Student_Details>
+				<Student_Details Ethnicity="W" IEP="Y" LEP="N" Gender="M" Vendor_Student_ID="796472">
+					<Student_Test_List>
+						<Student_Test_Details Grade="8" Student_Test_ID="10046985">
+							<Item_List>
+								<Item_Details Score="Y" Item_ID="48560">
+									<Item_Response><![CDATA[it doesn't matter they both cost same amount for 5 hours.]]>
+									</Item_Response>
+									<Item_Score_Details>
+										<Item_DataPoint_Score_Details Final_Score="1">
+											<Score Date_Time="20130809120847" Reader_ID="1271" Score_Value="1" Read_Number="1">
+											</Score>
+											<Score Date_Time="20130809120847" Reader_ID="1392" Score_Value="1" Read_Number="2">
+											</Score>
+										</Item_DataPoint_Score_Details>
+									</Item_Score_Details>
+								</Item_Details>
+							</Item_List>
+						</Student_Test_Details>
+					</Student_Test_List>
+				</Student_Details>
+				<Student_Details Ethnicity="NR" IEP=" " LEP=" " Gender="F" Vendor_Student_ID="878292">
+					<Student_Test_List>
+						<Student_Test_Details Grade="8" Student_Test_ID="10049309">
+							<Item_List>
+								<Item_Details Score="Y" Item_ID="48560">
+									<Item_Response><![CDATA[If you ride 5 hours, i would be the same price so it wouldnt matter which one you pick.]]>
+									</Item_Response>
+									<Item_Score_Details>
+										<Item_DataPoint_Score_Details Final_Score="1">
+											<Score Date_Time="20130809120847" Reader_ID="1396" Score_Value="1" Read_Number="1">
+											</Score>
+											<Score Date_Time="20130809120847" Reader_ID="1271" Score_Value="1" Read_Number="2">
+											</Score>
+										</Item_DataPoint_Score_Details>
+									</Item_Score_Details>
+								</Item_Details>
+							</Item_List>
+						</Student_Test_Details>
+					</Student_Test_List>
+				</Student_Details>
+				<Student_Details Ethnicity="B" IEP="N" LEP="N" Gender="M" Vendor_Student_ID="880019">
+					<Student_Test_List>
+						<Student_Test_Details Grade="8" Student_Test_ID="10049638">
+							<Item_List>
+								<Item_Details Score="Y" Item_ID="48560">
+									<Item_Response><![CDATA[Either,because it would be the same amount.]]>
+									</Item_Response>
+									<Item_Score_Details>
+										<Item_DataPoint_Score_Details Final_Score="1">
+											<Score Date_Time="20130809120847" Reader_ID="1184" Score_Value="1" Read_Number="1">
+											</Score>
+											<Score Date_Time="20130809120847" Reader_ID="1741" Score_Value="1" Read_Number="2">
+											</Score>
+										</Item_DataPoint_Score_Details>
+									</Item_Score_Details>
+								</Item_Details>
+							</Item_List>
+						</Student_Test_Details>
+					</Student_Test_List>
+				</Student_Details>
+				<Student_Details Ethnicity="H" IEP=" " LEP=" " Gender="M" Vendor_Student_ID="884394">
+					<Student_Test_List>
+						<Student_Test_Details Grade="8" Student_Test_ID="10050069">
+							<Item_List>
+								<Item_Details Score="Y" Item_ID="48560">
+									<Item_Response><![CDATA[if they are planing on riding exactly five hours then they could get either because they are both twenty dollars]]>
+									</Item_Response>
+									<Item_Score_Details>
+										<Item_DataPoint_Score_Details Final_Score="1">
+											<Score Date_Time="20130809120847" Reader_ID="1392" Score_Value="1" Read_Number="1">
+											</Score>
+											<Score Date_Time="20130809120847" Reader_ID="1663" Score_Value="1" Read_Number="2">
+											</Score>
+										</Item_DataPoint_Score_Details>
+									</Item_Score_Details>
+								</Item_Details>
+							</Item_List>
+						</Student_Test_Details>
+					</Student_Test_List>
+				</Student_Details>
+				<Student_Details Ethnicity="H" IEP="N" LEP="N" Gender="M" Vendor_Student_ID="889218">
+					<Student_Test_List>
+						<Student_Test_Details Grade="8" Student_Test_ID="10050080">
+							<Item_List>
+								<Item_Details Score="Y" Item_ID="48560">
+									<Item_Response><![CDATA[Both cost the same $20]]>
+									</Item_Response>
+									<Item_Score_Details>
+										<Item_DataPoint_Score_Details Final_Score="1">
+											<Score Date_Time="20130809120847" Reader_ID="1271" Score_Value="1" Read_Number="1">
+											</Score>
+											<Score Date_Time="20130809120847" Reader_ID="1663" Score_Value="1" Read_Number="2">
+											</Score>
+										</Item_DataPoint_Score_Details>
+									</Item_Score_Details>
+								</Item_Details>
+							</Item_List>
+						</Student_Test_Details>
+					</Student_Test_List>
+				</Student_Details>
+				<Student_Details Ethnicity="W" IEP="N" LEP="N" Gender="M" Vendor_Student_ID="890729">
+					<Student_Test_List>
+						<Student_Test_Details Grade="8" Student_Test_ID="10050192">
+							<Item_List>
+								<Item_Details Score="Y" Item_ID="48560">
+									<Item_Response><![CDATA[Either one. The price is the same.]]>
+									</Item_Response>
+									<Item_Score_Details>
+										<Item_DataPoint_Score_Details Final_Score="1">
+											<Score Date_Time="20130809120847" Reader_ID="1741" Score_Value="1" Read_Number="1">
+											</Score>
+											<Score Date_Time="20130809120847" Reader_ID="1392" Score_Value="1" Read_Number="2">
+											</Score>
+										</Item_DataPoint_Score_Details>
+									</Item_Score_Details>
+								</Item_Details>
+							</Item_List>
+						</Student_Test_Details>
+					</Student_Test_List>
+				</Student_Details>
+				<Student_Details Ethnicity="NR" IEP=" " LEP=" " Gender="F" Vendor_Student_ID="952625">
+					<Student_Test_List>
+						<Student_Test_Details Grade="8" Student_Test_ID="10050930">
+							<Item_List>
+								<Item_Details Score="Y" Item_ID="48560">
+									<Item_Response><![CDATA[it doesnt matter what one they pick for 5 hours, cuz both the skateboard and the bike come out to 20 for 5 hours.]]>
+									</Item_Response>
+									<Item_Score_Details>
+										<Item_DataPoint_Score_Details Final_Score="1">
+											<Score Date_Time="20130809120847" Reader_ID="1199" Score_Value="1" Read_Number="1">
+											</Score>
+											<Score Date_Time="20130809120847" Reader_ID="1396" Score_Value="1" Read_Number="2">
+											</Score>
+										</Item_DataPoint_Score_Details>
+									</Item_Score_Details>
+								</Item_Details>
+							</Item_List>
+						</Student_Test_Details>
+					</Student_Test_List>
+				</Student_Details>
+				<Student_Details Ethnicity="NR" IEP=" " LEP=" " Gender="M" Vendor_Student_ID="955021">
+					<Student_Test_List>
+						<Student_Test_Details Grade="8" Student_Test_ID="10051066">
+							<Item_List>
+								<Item_Details Score="Y" Item_ID="48560">
+									<Item_Response><![CDATA[If they are rideing 5 hours it does not matter what you choose because the cost is the exact same for both the bikes and the skateboards.]]>
+									</Item_Response>
+									<Item_Score_Details>
+										<Item_DataPoint_Score_Details Final_Score="1">
+											<Score Date_Time="20130809120847" Reader_ID="1663" Score_Value="1" Read_Number="1">
+											</Score>
+											<Score Date_Time="20130809120847" Reader_ID="1741" Score_Value="1" Read_Number="2">
+											</Score>
+										</Item_DataPoint_Score_Details>
+									</Item_Score_Details>
+								</Item_Details>
+							</Item_List>
+						</Student_Test_Details>
+					</Student_Test_List>
+				</Student_Details>
+				<Student_Details Ethnicity="W" IEP="N" LEP=" " Gender="M" Vendor_Student_ID="969695">
+					<Student_Test_List>
+						<Student_Test_Details Grade="8" Student_Test_ID="10051540">
+							<Item_List>
+								<Item_Details Score="Y" Item_ID="48560">
+									<Item_Response><![CDATA[If the students are going to be riding for 5 hours, they can pick to rent either the bik or the skateboard because they would be the same price.]]>
+									</Item_Response>
+									<Item_Score_Details>
+										<Item_DataPoint_Score_Details Final_Score="1">
+											<Score Date_Time="20130809120847" Reader_ID="1271" Score_Value="1" Read_Number="1">
+											</Score>
+											<Score Date_Time="20130809120847" Reader_ID="1741" Score_Value="1" Read_Number="2">
+											</Score>
+										</Item_DataPoint_Score_Details>
+									</Item_Score_Details>
+								</Item_Details>
+							</Item_List>
+						</Student_Test_Details>
+					</Student_Test_List>
+				</Student_Details>
+				<Student_Details Ethnicity="H" IEP="N" LEP="Y" Gender="M" Vendor_Student_ID="979866">
+					<Student_Test_List>
+						<Student_Test_Details Grade="8" Student_Test_ID="10051611">
+							<Item_List>
+								<Item_Details Score="Y" Item_ID="48560">
+									<Item_Response><![CDATA[Both total costs of renting would be the same.]]>
+									</Item_Response>
+									<Item_Score_Details>
+										<Item_DataPoint_Score_Details Final_Score="1">
+											<Score Date_Time="20130809120847" Reader_ID="1741" Score_Value="1" Read_Number="1">
+											</Score>
+											<Score Date_Time="20130809120847" Reader_ID="1392" Score_Value="1" Read_Number="2">
+											</Score>
+										</Item_DataPoint_Score_Details>
+									</Item_Score_Details>
+								</Item_Details>
+							</Item_List>
+						</Student_Test_Details>
+					</Student_Test_List>
+				</Student_Details>
+				<Student_Details Ethnicity="W" IEP="Y" LEP="N" Gender="M" Vendor_Student_ID="997840">
+					<Student_Test_List>
+						<Student_Test_Details Grade="8" Student_Test_ID="10051887">
+							<Item_List>
+								<Item_Details Score="Y" Item_ID="48560">
+									<Item_Response><![CDATA[They could rent either one because in five hours the skateboards and bikes are the same prices.]]>
+									</Item_Response>
+									<Item_Score_Details>
+										<Item_DataPoint_Score_Details Final_Score="1">
+											<Score Date_Time="20130809120847" Reader_ID="1271" Score_Value="1" Read_Number="1">
+											</Score>
+											<Score Date_Time="20130809120847" Reader_ID="1290" Score_Value="1" Read_Number="2">
+											</Score>
+										</Item_DataPoint_Score_Details>
+									</Item_Score_Details>
+								</Item_Details>
+							</Item_List>
+						</Student_Test_Details>
+					</Student_Test_List>
+				</Student_Details>
+			</Student_List>
+		</Group_Details>
+	</Group_List>
+</Job_Details>
